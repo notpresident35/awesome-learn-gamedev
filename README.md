@@ -153,7 +153,7 @@ A list of workshops and resources from the Video Game Development Club at the Un
 [https://www.udemy.com/course/unitycourse2/](https://www.udemy.com/course/unitycourse2/)
 
 
-🟪 Same as above, but with Unreal 5. This course is invaluable - I know several full-time developers who learned from gamedev.tv, they are a gem.
+🟪 Same as above, but with Unreal 5. This course is invaluable - I know several full-time developers who learned from gamedev.tv, they are a gem. Wait for it to go on sale, then go pick this up.
 
 
 [https://www.udemy.com/course/unrealcourse/](https://www.udemy.com/course/unrealcourse/)
@@ -352,6 +352,18 @@ How SDFs work
 
 
 ### Networking
+
+
+🟪 A course on multiplayer and networking in Unity. Gamedev.tv is an incredible resource - wait for it to go on sale, then go pick this up.
+
+
+[https://www.udemy.com/course/unity-multiplayer/](https://www.udemy.com/course/unity-multiplayer/)
+
+
+🟪 A course on multiplayer and networking in Unreal. Wait for it to go on sale, then go pick this up. 
+
+
+[https://www.udemy.com/course/unrealmultiplayer/](https://www.udemy.com/course/unrealmultiplayer/)
 
 
 🟪 A bunch of articles on netcode for games
