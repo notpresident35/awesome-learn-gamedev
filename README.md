@@ -1,4 +1,4 @@
-# Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A Mega-List of Learning Resources for Game Creators
 
@@ -290,7 +290,7 @@ Optimization tips for Unity (I fully expect this link to break lol - if it does,
 [https://www.mrventures.net/get-into-gamedev.html](https://www.mrventures.net/get-into-gamedev.html)
 
 
-🟪 Game AI Pro - 3 free books, or more accurately volumes of short papers on game AI
+🟪 Game AI Pro - 3 free books, or more accurately volumes of short papers on game AI. Notable authors include Steve Rabin, a DigiPen professor who teaches AI for games.
 
 
 [http://www.gameaipro.com/](http://www.gameaipro.com/)
