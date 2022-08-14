@@ -1,8 +1,7 @@
 ### 
 # The Gamedev Resource Mega-List
 
-
-### 
+<p>
 
 ![alt_text](images/KittyIcon.png "image_tooltip")
 
@@ -1100,7 +1099,8 @@ The Stranger Things (or Montauk) pitch bible - useful as reference for what a gr
 
 
 [http://www.zen134237.zen.co.uk/Stranger_Things/Stranger_Things_-_Bible.pdf](http://www.zen134237.zen.co.uk/Stranger_Things/Stranger_Things_-_Bible.pdf)
-  
+
+</p>
 <br />
 <br />
   
