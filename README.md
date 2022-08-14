@@ -14,14 +14,18 @@ Got resources you’d like to see on this list? Notice a broken link? Email me, 
 Disclaimer: I’m a technical artist and gameplay programmer, so there’s more resources for those roles.
 
 
-#### Key:
+### Key:
 
 🟪 Purple Resources are “most useful” links. These include highly influential courses/books, resources I’ve personally found invaluable, and other entire mega-lists.
 
-New to game development? Start here!!
+<br />
 
-[Game Development Cheatsheets - 2018 Edition by allurious](https://allurious.itch.io/cheatsheets2018)
+## New to game development? Start here!!
 
+## [Game Development Cheatsheets - 2018 Edition by allurious](https://allurious.itch.io/cheatsheets2018)
+
+<br />
+<br />
 
 # General 
 
