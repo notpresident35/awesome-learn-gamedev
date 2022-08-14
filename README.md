@@ -6,8 +6,7 @@
 
 ## Contents
 
-- [About](#What-is-This)
-- [Start Here](#Start-here)
+- [What is this?](#What-is-This)
 - [General](#General)
 - [Programming](#Programming)
     - [General](#Programming)
@@ -45,7 +44,7 @@ Got resources you’d like to see on this list? Notice a broken link? Email me, 
 
 <br />
 
-### What is this?
+## What is this?
 
 For a few years now, I've been hoarding every gamedev resource I can get my grubby paws on. This is the result!
 
