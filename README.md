@@ -1,6 +1,4 @@
-# Learn Gamedev 
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A Mega-List of Learning Resources for Game Creators
 
@@ -9,7 +7,7 @@ A Mega-List of Learning Resources for Game Creators
 
 ## Contents
 
-- [What is this?](#what-is-this)
+- [About](#about)
 - [General](#general)
 - [Programming](#programming)
     - [Gameplay](#gameplay)
@@ -27,8 +25,8 @@ A Mega-List of Learning Resources for Game Creators
 - [Design](#design)
 - [Audio](#audio)
 - [Writing](#writing)
-- [Marketing/Business](#marketing/business)
-- [Job Hunting/Career](#job-hunting/career)
+- [Marketing and Business](#marketing-and-business)
+- [Job Hunting and Career](#job-hunting-and-career)
 - [Other](#other)
 
 <br />
@@ -43,7 +41,7 @@ Got resources? Notice a broken link? Email me, shoot me a DM, or make a pull req
 
 <br />
 
-## What is this?
+## About
 
 For a few years now, I have been hoarding every gamedev resource I can get my grubby paws on. This is the result!
 
@@ -65,7 +63,7 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 
 <br />
 
-### 🟪 New to game development? Start here!
+### 🟪 New to game development? Start here
 
 ### [Game Development Cheatsheets - 2018 Edition by allurious](https://allurious.itch.io/cheatsheets2018)
 
@@ -933,7 +931,7 @@ A template sheet for an exercise to write "Barks" or simple dialogue lines - goo
 [https://docs.google.com/spreadsheets/d/16WoJik9w93FHNOw8GrE4L0UAwTYJMsBQ6QSxZ1MYr9A/edit#gid=0](https://docs.google.com/spreadsheets/d/16WoJik9w93FHNOw8GrE4L0UAwTYJMsBQ6QSxZ1MYr9A/edit#gid=0)
 
 
-## Marketing/Business
+## Marketing and Business
 
 
 🟪 How to Market a Game - A blog and a collection of resources (of special note, a few GDC talks) about marketing for games by Chris Zukowski - this is the only mailing list that I have ever willingly signed up for and gotten mileage out of :P
@@ -954,7 +952,7 @@ Figuring out how viable your budget is for your game
 [https://ltpf.ramiismail.com/budget-viability/](https://ltpf.ramiismail.com/budget-viability/)
 
 
-## Job Hunting/Career
+## Job Hunting and Career
 
 
 🟪 A huge list of job-hunting resources - multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocating
