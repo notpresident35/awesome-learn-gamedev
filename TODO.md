@@ -1,0 +1,12 @@
+# TODO
+
+## Tasks that need to be done, either to future-proof unstable resources or to organize new resources
+
+ - For longevity, extract all video links from each youtube playlist to a separate markdown file and link them beneath the playlist, just in case a playlist gets lost.
+    - A tutorial on how to extract a youtube playlist: [https://dtomoffcpa.medium.com/youtube-playlist-to-linked-list-in-excel-why-not-3a96297e980c](https://dtomoffcpa.medium.com/youtube-playlist-to-linked-list-in-excel-why-not-3a96297e980c)
+
+
+ - Similarly, extract all links from each twitter thread and extract important text (if any).
+
+
+ - Image as many resources as possible on the internet archive, and use stable archive links in place of direct links
