@@ -3,7 +3,7 @@
 <p>
 
 
-![A cat illustration that Hazel uses as a profile icon :3](images/KittyIcon.png "image_tooltip")
+![A cat illustration that Hazel uses as a profile icon :3](images/KittyIcon.png "Check out my portfolio below!")
 
 
 
@@ -13,7 +13,7 @@ Got resources you’d like to see on this list? Notice a broken link? Email me, 
 
 <br />
 
-# What is this?
+## What is this?
 
 For a few years now, I've been hoarding every gamedev resource I can get my grubby paws on. This is the result!
 
@@ -44,7 +44,7 @@ Disclaimer: I’m a technical artist and gameplay programmer, so most of my role
 <br />
 
 
-# Contents
+## Contents
 
 - [About](#What-is-This)
 - [General](#General)
@@ -75,12 +75,12 @@ Disclaimer: I’m a technical artist and gameplay programmer, so most of my role
 <br />
 
 
-# General 
+## General 
 
 🟪 My mega-playlist of great gamedev videos (conference talks, tutorials, analyses, etc)
 
 
-[https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn ](https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn)
+[https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn](https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn)
 
 
 🟪 A huge list of professional game developers you can contact for advice! Be courteous - these are real people! Curated by Joe Hobbs - @JLHGameArt on Twitter [https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml)
@@ -89,7 +89,7 @@ Disclaimer: I’m a technical artist and gameplay programmer, so most of my role
 🟪 MIT Open Courseware - classes and materials from MIT (free to access)! 
 
 
-[https://ocw.mit.edu/ ](https://ocw.mit.edu/)
+[https://ocw.mit.edu/](https://ocw.mit.edu/)
 
 
 🟪 More huge lists of resources!! Some of these are old, unmaintained, or poorly curated, so beware broken links and the like, but they’re worth including because they’re filled with lots of resources for different purposes!
@@ -145,7 +145,7 @@ A list of workshops and resources from the Video Game Development Club at the Un
 [https://docs.google.com/document/d/1yGzqp1Cq8emRasH0JHYMXE4-Z6xYxQ0GDe6ZyemctVM/edit](https://docs.google.com/document/d/1yGzqp1Cq8emRasH0JHYMXE4-Z6xYxQ0GDe6ZyemctVM/edit)
 
 
-# Programming 
+## Programming 
 
 
 ### General
@@ -154,7 +154,7 @@ A list of workshops and resources from the Video Game Development Club at the Un
 🟪 The Open Source University 
 
 
-[https://github.com/ossu/computer-science ](https://github.com/ossu/computer-science)
+[https://github.com/ossu/computer-science](https://github.com/ossu/computer-science)
 
 
 🟪 The single best way to learn Unity. Trust me when I say this is the best $12 I have ever spent, or will ever spend. Wait for it to go on sale, then go pick this up.
@@ -183,13 +183,13 @@ An introductory python course taught at MIT (free to access!)
 🟪 A C++ Course taught at the University of California, Irvine (free to access!) 
 
 
-[https://www.ics.uci.edu/~thornton/ics45c/Notes/ ](https://www.ics.uci.edu/~thornton/ics45c/Notes/)
+[https://www.ics.uci.edu/~thornton/ics45c/Notes/](https://www.ics.uci.edu/~thornton/ics45c/Notes/)
 
 
 🟪 Game Programming Patterns - A free book on programming patterns for games
 
 
-[https://gameprogrammingpatterns.com/ ](https://gameprogrammingpatterns.com/)
+[https://gameprogrammingpatterns.com/](https://gameprogrammingpatterns.com/)
 
 
 🟪 A study path for game programmers - A huge collection of game programming book titles and covers organized by specialization, with fancy flow charts between each title for a recommended reading order! Note that the books aren’t actually included - a quick search should help you out with that ;]
@@ -201,31 +201,31 @@ An introductory python course taught at MIT (free to access!)
 Interactive tutorials for math and algorithms 
 
 
-[https://www.redblobgames.com/ ](https://www.redblobgames.com/)
+[https://www.redblobgames.com/](https://www.redblobgames.com/)
 
 
 Introduction to Algorithms - A book on algorithms. Pricey, look for it in a library or something (wink) first
 
 
-[https://mitpress.mit.edu/9780262046305/ ](https://mitpress.mit.edu/9780262046305/)
+[https://mitpress.mit.edu/9780262046305/](https://mitpress.mit.edu/9780262046305/)
 
 
 Math for Game Programmers - A free book on math for game programmers
 
 
-[https://gamemath.com/book/intro.html ](https://gamemath.com/book/intro.html)
+[https://gamemath.com/book/intro.html](https://gamemath.com/book/intro.html)
 
 
 Mature Optimization - A free book on structuring code for performance 
 
 
-[https://carlos.bueno.org/optimization/ ](https://carlos.bueno.org/optimization/)
+[https://carlos.bueno.org/optimization/](https://carlos.bueno.org/optimization/)
 
 
 🟪 Data Oriented Design - A free book on data-oriented design, an alternative to object-oriented programming
 
 
-[https://www.dataorienteddesign.com/dodbook/dodmain.html ](https://www.dataorienteddesign.com/dodbook/dodmain.html)
+[https://www.dataorienteddesign.com/dodbook/dodmain.html](https://www.dataorienteddesign.com/dodbook/dodmain.html)
 
 
 generatingfunctionology - A free book on generating functions 
@@ -243,7 +243,7 @@ C++ for C# Developers - An extensive tutorial series
 🟪 Game Engine Architecture - A book on game engines. About $25 for the e-book, but probably worth the investment if you plan to be an engine, tools, or graphics programmer.
 
 
-[https://www.gameenginebook.com/ ](https://www.gameenginebook.com/)
+[https://www.gameenginebook.com/](https://www.gameenginebook.com/)
 
 
 Design Patterns - A free book with _very_ pretty illustrations (and also, an interesting criticism of said book - I believe there’s a response to this on the design patterns site)
@@ -256,13 +256,13 @@ Design Patterns - A free book with _very_ pretty illustrations (and also, an int
 Making a Game Engine (for the engine programmers and the insane: save yourself some trouble and watch this instead of making yet another game engine ^^) 
 
 
-[https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT ](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
+[https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
 
 
 C# for beginners - A free book
 
 
-[https://www.robmiles.com/c-yellow-book ](https://www.robmiles.com/c-yellow-book)
+[https://www.robmiles.com/c-yellow-book](https://www.robmiles.com/c-yellow-book)
 
 
 Gamedev in Rust for beginners - a collection of books, tutorials, articles, and a community to boot
@@ -303,7 +303,7 @@ Optimization tips for Unity (I fully expect this link to break lol - if it does,
 🟪 Game AI Pro - 3 free books, or more accurately volumes of short papers on game AI
 
 
-[http://www.gameaipro.com/ ](http://www.gameaipro.com/)
+[http://www.gameaipro.com/](http://www.gameaipro.com/)
 
 
 AI Game Dev.com - An AI development community with lots of resources. It only exists on the internet archive - be wary of outdated knowledge and broken links.
@@ -318,13 +318,13 @@ AI Game Dev.com - An AI development community with lots of resources. It only ex
 🟪 A Megalist of Graphics Programming and Tech Art resources 
 
 
-[https://guerilla-tactics.com/hats/graphics/ ](https://guerilla-tactics.com/hats/graphics/)
+[https://guerilla-tactics.com/hats/graphics/](https://guerilla-tactics.com/hats/graphics/)
 
 
 GPU Gems - Three (3) free books by Nvidia about GPU programming and architecture
 
 
-[https://developer.nvidia.com/gpugems/gpugems/contributors ](https://developer.nvidia.com/gpugems/gpugems/contributors)
+[https://developer.nvidia.com/gpugems/gpugems/contributors](https://developer.nvidia.com/gpugems/gpugems/contributors)
 
 
 🟪 An overview of graphics and everything rendering for programmers. Has lots of references to books and other resources, letting you dig as far as you’d like into the nitty gritty or stick to an overview
@@ -367,7 +367,7 @@ How SDFs work
 Deterministic Netcode 
 
 
-[https://yal.cc/preparing-your-game-for-deterministic-netcode/ ](https://yal.cc/preparing-your-game-for-deterministic-netcode/)
+[https://yal.cc/preparing-your-game-for-deterministic-netcode/](https://yal.cc/preparing-your-game-for-deterministic-netcode/)
 
 
 ### Etc.
@@ -384,19 +384,19 @@ Good advice repeated ad nauseum: swallow your pride, and optimize out busywork
 [https://www.techwell.com/techwell-insights/2013/12/why-best-programmers-are-lazy-and-act-dumb](https://www.techwell.com/techwell-insights/2013/12/why-best-programmers-are-lazy-and-act-dumb)
 
 
-[http://blogoscoped.com/archive/2005-08-24-n14.html ](http://blogoscoped.com/archive/2005-08-24-n14.html)
+[http://blogoscoped.com/archive/2005-08-24-n14.html](http://blogoscoped.com/archive/2005-08-24-n14.html)
 
 
-[https://kilon.org/why-good-programmers-are-lazy-and-dumb/ ](https://kilon.org/why-good-programmers-are-lazy-and-dumb/)
+[https://kilon.org/why-good-programmers-are-lazy-and-dumb/](https://kilon.org/why-good-programmers-are-lazy-and-dumb/)
 
 
-[https://blog.codinghorror.com/how-to-be-lazy-dumb-and-successful/ ](https://blog.codinghorror.com/how-to-be-lazy-dumb-and-successful/)
+[https://blog.codinghorror.com/how-to-be-lazy-dumb-and-successful/](https://blog.codinghorror.com/how-to-be-lazy-dumb-and-successful/)
 
 
 A very interesting breakdown of a particularly tricky bug in Destiny and how it was found and fixed 
 
 
-[https://www.bungie.net/en/Explore/Detail/News/50140 ](https://www.bungie.net/en/Explore/Detail/News/50140)
+[https://www.bungie.net/en/Explore/Detail/News/50140](https://www.bungie.net/en/Explore/Detail/News/50140)
 
 
 An article on why C is not a low-level language, and performance as a result of that
@@ -410,7 +410,7 @@ Pore over this for a good laugh :P
 [http://sigbovik.org](http://sigbovik.org)
 
 
-# Tech Art 
+## Tech Art 
 
 ### General 
 
@@ -427,13 +427,13 @@ Pore over this for a good laugh :P
 🟪 An Introduction to HLSL Shaders using Unity by Freya Holmer 
 
 
-Part 1: [https://www.youtube.com/watch?v=kfM-yu0iQBk ](https://www.youtube.com/watch?v=kfM-yu0iQBk)
+Part 1: [https://www.youtube.com/watch?v=kfM-yu0iQBk](https://www.youtube.com/watch?v=kfM-yu0iQBk)
 
 
-Part 2: [https://www.youtube.com/watch?v=mL8U8tIiRRg ](https://www.youtube.com/watch?v=mL8U8tIiRRg)
+Part 2: [https://www.youtube.com/watch?v=mL8U8tIiRRg](https://www.youtube.com/watch?v=mL8U8tIiRRg)
 
 
-Part 3:[ https://www.youtube.com/watch?v=E4PHFnvMzFc ](https://www.youtube.com/watch?v=E4PHFnvMzFc)
+Part 3:[ https://www.youtube.com/watch?v=E4PHFnvMzFc](https://www.youtube.com/watch?v=E4PHFnvMzFc)
 
 🟪 The Book of Shaders 
 
@@ -444,37 +444,37 @@ Part 3:[ https://www.youtube.com/watch?v=E4PHFnvMzFc ](https://www.youtube.com/w
 🟪 Catlike Coding - Unity and HLSL Tutorials 
 
 
-[https://catlikecoding.com/unity/tutorials/ ](https://catlikecoding.com/unity/tutorials/)
+[https://catlikecoding.com/unity/tutorials/](https://catlikecoding.com/unity/tutorials/)
 
 
 Shadertoy - An online shader editor and hosting/sharing site 
 
 
-[https://www.shadertoy.com/ ](https://www.shadertoy.com/)
+[https://www.shadertoy.com/](https://www.shadertoy.com/)
 
 
 🟪 Render Doc - A program that breaks down a frame rendered from a game and allows you to analyze processes that created it 
 
 
-[https://renderdoc.org/ ](https://renderdoc.org/)
+[https://renderdoc.org/](https://renderdoc.org/)
 
 
 A Detailed Introduction to Shader Graph in Unity 
 
 
-[https://www.cyanilux.com/tutorials/intro-to-shader-graph/ ](https://www.cyanilux.com/tutorials/intro-to-shader-graph/)
+[https://www.cyanilux.com/tutorials/intro-to-shader-graph/](https://www.cyanilux.com/tutorials/intro-to-shader-graph/)
 
 
 Lots of shader breakdowns and great tutorials (same blog as above) 
 
 
-[https://www.cyanilux.com/contents/ ](https://www.cyanilux.com/contents/)
+[https://www.cyanilux.com/contents/](https://www.cyanilux.com/contents/)
 
 
 Shaderquest (a guide series from a blog about tech art) 
 
 
-[https://halisavakis.com/category/shaderquest/ ](https://halisavakis.com/category/shaderquest/)
+[https://halisavakis.com/category/shaderquest/](https://halisavakis.com/category/shaderquest/)
 
 
 ### VFX
@@ -483,7 +483,7 @@ Shaderquest (a guide series from a blog about tech art)
 🟪 Getting Started in Real Time VFX - Also check out the rest of this website (realtimevfx.com), it's a community filled with useful knowledge and amazing people
 
 
-[https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415 ](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415)
+[https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415)
 
 
 🟪 A fantastic list of VFX talks at GDC (this one is about Diablo, and is very insightful) 
@@ -510,13 +510,13 @@ Unity VFX Tutorial
 ### Etc. 
 
 
-A blog by a developer for Crash Bandicoot discussing its rendering tech and the hardware limitations of the PS1 [https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/ ](https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/)
+A blog by a developer for Crash Bandicoot discussing its rendering tech and the hardware limitations of the PS1 [https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/](https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/)
 
 
 An extended breakdown of the procedural art tools of Hyper Light Breaker [https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1](https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1) [https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2](https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2)
 
 
-# Art
+## Art
 
 
 ### General
@@ -525,7 +525,7 @@ An extended breakdown of the procedural art tools of Hyper Light Breaker [https:
 🟪 A Megalist of Art Resources!
 
 
-[https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3 ](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3)
+[https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3)
 
 
 🟪 Fantastic pixel art animation tutorials by Saint11
@@ -559,7 +559,7 @@ Smithsonian Open Access - A massive repository of 3D and 2D digital resources fr
 Resources for Commissions 
 
 
-[https://www.nadiaxel.com/post/free-ressources-for-commission-artists ](https://www.nadiaxel.com/post/free-ressources-for-commission-artists)
+[https://www.nadiaxel.com/post/free-ressources-for-commission-artists](https://www.nadiaxel.com/post/free-ressources-for-commission-artists)
 
 
 ### 2D/Illustration
@@ -624,7 +624,7 @@ Good figure references
 Human Anatomy for the Head 
 
 
-[https://www.youtube.com/watch?v=2T7cDY7YDsg ](https://www.youtube.com/watch?v=2T7cDY7YDsg)
+[https://www.youtube.com/watch?v=2T7cDY7YDsg](https://www.youtube.com/watch?v=2T7cDY7YDsg)
 
 
 A neat style guide for using edges and lines effectively
@@ -661,13 +661,13 @@ Need a quick confidence boost? Watch this :3
 Royalty Free Textures, Models, HDRIs, and Assets! 
 
 
-[https://www.textures.com/ ](https://www.textures.com/)
+[https://www.textures.com/](https://www.textures.com/)
 
 
-[https://publicdomaintextures.com/ ](https://publicdomaintextures.com/)
+[https://publicdomaintextures.com/](https://publicdomaintextures.com/)
 
 
-[https://polyhaven.com/ ](https://polyhaven.com/)
+[https://polyhaven.com/](https://polyhaven.com/)
 
 
 ### Animation
@@ -694,7 +694,7 @@ A good (and free!) Maya humanoid rig
 A great humanoid body and face rig by Chris Jones ($200 license, but would be very worth it for serious animators) 
 
 
-[https://cjones.gumroad.com/l/JJuKG ](https://cjones.gumroad.com/l/JJuKG)
+[https://cjones.gumroad.com/l/JJuKG](https://cjones.gumroad.com/l/JJuKG)
 
 
 ### Resources for Non-Artists
@@ -705,7 +705,7 @@ Note that there are many, many more resources out there - these are primarily in
 Royalty Free Game Art! 
 
 
-[https://opengameart.org/ ](https://opengameart.org/)
+[https://opengameart.org/](https://opengameart.org/)
 
 
 [http://www.kenney.nl/](http://www.kenney.nl/)
@@ -721,7 +721,7 @@ A great post/thread with lots of free art assets and tools
 [https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/](https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/)
 
 
-# Design
+## Design
 
 
 
@@ -739,25 +739,25 @@ A great post/thread with lots of free art assets and tools
 🟪 Game Accessibility Guidelines 
 
 
-[https://gameaccessibilityguidelines.com/ ](https://gameaccessibilityguidelines.com/)
+[https://gameaccessibilityguidelines.com/](https://gameaccessibilityguidelines.com/)
 
 
 🟪 A database of UI from many different games 
 
 
-[https://www.gameuidatabase.com/index.php ](https://www.gameuidatabase.com/index.php)
+[https://www.gameuidatabase.com/index.php](https://www.gameuidatabase.com/index.php)
 
 
 🟪 A Game Design class taught at MIT (free to access!) 
 
 
-[https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/ ](https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/)
+[https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/](https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/)
 
 
 A tutorial on writing Game Design Documents (GDDs) 
 
 
-[https://www.gamedesigning.org/learn/game-design-document/ ](https://www.gamedesigning.org/learn/game-design-document/)
+[https://www.gamedesigning.org/learn/game-design-document/](https://www.gamedesigning.org/learn/game-design-document/)
 
 🟪 The Evolution of Trust - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class
 
@@ -806,13 +806,13 @@ Hooked - An interactive article on the psychology of gambling and addiction
 Tuning the sniper rifle in Halo 
 
 
-[https://www.gdcvault.com/play/1012211/Design-in-Detail-Changing-the ](https://www.gdcvault.com/play/1012211/Design-in-Detail-Changing-the)
+[https://www.gdcvault.com/play/1012211/Design-in-Detail-Changing-the](https://www.gdcvault.com/play/1012211/Design-in-Detail-Changing-the)
 
 
 A great level design tool 
 
 
-[https://www.mapeditor.org/ ](https://www.mapeditor.org/)
+[https://www.mapeditor.org/](https://www.mapeditor.org/)
 
 
 Best practices of UX design
@@ -824,7 +824,7 @@ Best practices of UX design
 Level Design and How To Get Into It 
 
 
-[https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/ ](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/)
+[https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/)
 
 
 One of my favorite design and art writers - breaks down games and writes about them (check out the ones on Destiny’s balance and economy)
@@ -840,16 +840,16 @@ A breakdown of the design thinking and solutions that went into an extremely spe
 A 100-day daily UI design challenge 
 
 
-[https://www.dailyui.co/ ](https://www.dailyui.co/)
+[https://www.dailyui.co/](https://www.dailyui.co/)
 
 
 A repository of lots of maps and top-down views of levels 
 
 
-[https://gridpaper-maps.tumblr.com/ ](https://gridpaper-maps.tumblr.com/)
+[https://gridpaper-maps.tumblr.com/](https://gridpaper-maps.tumblr.com/)
 
 
-# Audio 
+## Audio 
 
 
 🟪 A megalist of game audio learning resources! 
@@ -860,7 +860,7 @@ A repository of lots of maps and top-down views of levels
 
 🟪 The Sound Effects Bible - A book on sound effects
 
-[https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf ](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf)
+[https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf)
 
 🟪 Another list of resources!
 
@@ -904,24 +904,24 @@ A very simplistic and limited but fast, free, and fun audio program for chiptune
 Royalty free SFX samples from GDC 
 
 
-[https://sonniss.com/gameaudiogdc#1605030813191-c5a1f3d0-8baf ](https://sonniss.com/gameaudiogdc#1605030813191-c5a1f3d0-8baf)
+[https://sonniss.com/gameaudiogdc#1605030813191-c5a1f3d0-8baf](https://sonniss.com/gameaudiogdc#1605030813191-c5a1f3d0-8baf)
 
 
 Royalty free music! Just be sure to check the license 
 
 
-[https://pixabay.com/music/ ](https://pixabay.com/music/)
+[https://pixabay.com/music/](https://pixabay.com/music/)
 
 [DOVA-SYNDROME YouTube Official](https://www.youtube.com/c/DOVASYNDROMEYouTubeOfficial)
 
 
-# Writing 
+## Writing 
 
 
 🟪 Inkle - a writing tool for games (that integrates well with Unity!)
 
 
-[https://www.inklestudios.com/ink/ ](https://www.inklestudios.com/ink/)
+[https://www.inklestudios.com/ink/](https://www.inklestudios.com/ink/)
 
 
 A simple cross-platform dialogue graph editor (free with MIT license!)
@@ -933,7 +933,7 @@ A simple cross-platform dialogue graph editor (free with MIT license!)
 A Workshop to Write Better Dialogue 
 
 
-[https://gutefabrik.com/craft-writing-better-dialogue-a-2-day-workshop/ ](https://gutefabrik.com/craft-writing-better-dialogue-a-2-day-workshop/)
+[https://gutefabrik.com/craft-writing-better-dialogue-a-2-day-workshop/](https://gutefabrik.com/craft-writing-better-dialogue-a-2-day-workshop/)
 
 
 A template sheet for an exercise to write "Barks" or simple dialogue lines - good for emphasizing character variety and attention-to-detail personalization 
@@ -942,7 +942,7 @@ A template sheet for an exercise to write "Barks" or simple dialogue lines - goo
 [https://docs.google.com/spreadsheets/d/16WoJik9w93FHNOw8GrE4L0UAwTYJMsBQ6QSxZ1MYr9A/edit#gid=0](https://docs.google.com/spreadsheets/d/16WoJik9w93FHNOw8GrE4L0UAwTYJMsBQ6QSxZ1MYr9A/edit#gid=0)
 
 
-# Marketing/Business
+## Marketing/Business
 
 
 🟪 How to Market a Game - A blog and a collection of resources (of special note, a few GDC talks) about marketing for games by Chris Zukowski - this is the only mailing list that I’ve ever willingly signed up for and gotten mileage out of :P
@@ -963,7 +963,7 @@ Figuring out how viable your budget is for your game
 [https://ltpf.ramiismail.com/budget-viability/](https://ltpf.ramiismail.com/budget-viability/)
 
 
-# Job Hunting/Career
+## Job Hunting/Career
 
 
 🟪 A huge list of job-hunting resources - multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocating
@@ -981,13 +981,13 @@ Figuring out how viable your budget is for your game
 A big list of portfolios from industry professionals
 
 
-[https://www.plusonewisdom.com/post/industry-portfolios ](https://www.plusonewisdom.com/post/industry-portfolios)
+[https://www.plusonewisdom.com/post/industry-portfolios](https://www.plusonewisdom.com/post/industry-portfolios)
 
 
 Gamedev Jobs List (2022)
 
 
-[https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit ](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit)
+[https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit)
 
 
 🟪 The Reverse Interview - questions to ask a potential employer (aimed at tech, but most questions apply to any discipline)
@@ -1036,13 +1036,13 @@ Why you need to clearly label personal work as personal work and not make your d
 [https://twitter.com/MemoPotato/status/1550209887401017344?s=20&t=6Kp0ZGR8XuZukP5eAz2MGA](https://twitter.com/MemoPotato/status/1550209887401017344?s=20&t=6Kp0ZGR8XuZukP5eAz2MGA)
 
 
-# Other 
+## Other 
 
 
 🟪 Important productivity fuel (and what I used to hoard this list :P)
 
 
-[https://obsidian.md/ ](https://obsidian.md/)
+[https://obsidian.md/](https://obsidian.md/)
 
 
 🟪 A series of game jam post-mortems - these are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
@@ -1084,12 +1084,12 @@ A big list of localized words across many different languages that can be used t
 A collection of tiny, usually fun tools for various purposes! 
 
 
-[https://tinytools.directory/ ](https://tinytools.directory/)
+[https://tinytools.directory/](https://tinytools.directory/)
 
 
 Good general advice, both on all disciplines (especially programming) and on life 
 
-[http://paulgraham.com/articles.html ](http://paulgraham.com/articles.html)
+[http://paulgraham.com/articles.html](http://paulgraham.com/articles.html)
 
 
 A dyslexia-friendly, accessible font! 
@@ -1113,5 +1113,5 @@ The Stranger Things (or Montauk) pitch bible - useful as reference for what a gr
 <br />
 <br />
   
-![A cute drawing of Asriel from Undertale reaching for a heart](images/Asriel.png "image_tooltip")
+![A cute drawing of Asriel from Undertale reaching for a heart](images/Asriel.png "Thanks for reading!")
 
