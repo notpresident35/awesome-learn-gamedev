@@ -1,6 +1,6 @@
 ### 
 # Learn Gamedev
-## A Mega-List of Gamedev Learning Resources
+## A Mega-List of Learning Resources for Game Creators
 
 <p>
 
