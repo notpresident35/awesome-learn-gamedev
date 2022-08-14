@@ -10,27 +10,26 @@ A Mega-List of Learning Resources for Game Creators
 ## Contents
 
 - [What is this?](#what-is-this)
-- [General](#General)
-- [Programming](#Programming)
-    - [Gameplay](#Gameplay)
-    - [Graphics](#Graphics)
-    - [Networking](#Networking)
-    - [Fun](#Fun)
-- [Technical Art](#Tech-Art)
-    - [Shaders](#Shaders)
-    - [VFX](#VFX)
-    - [Etc](#Etc)
-- [Art](#Art)
-    - [2D/Illustration](#2DIllustration)
-    - [3D](#3D)
-    - [Animation](#Animation)
-    - [Resources for Non-Artists](#Resources-for-Non-Artists)
-- [Design](#Design)
-- [Audio](#Audio)
-- [Writing](#Writing)
-- [Marketing/Business](#Marketing/Business)
-- [Job Hunting/Career](#Job-Hunting/Career)
-- [Other](#Other)
+- [General](#general)
+- [Programming](#programming)
+    - [Gameplay](#gameplay)
+    - [Graphics](#graphics)
+    - [Networking](#networking)
+    - [Fun](#fun)
+- [Technical Art](#tech-Art)
+    - [Shaders](#shaders)
+    - [VFX](#vfx)
+- [Art](#art)
+    - [2D/Illustration](#2dillustration)
+    - [3D](#3d)
+    - [Animation](#animation)
+    - [Resources for Non-Artists](#resources-for-non-artists)
+- [Design](#design)
+- [Audio](#audio)
+- [Writing](#writing)
+- [Marketing/Business](#marketing/business)
+- [Job Hunting/Career](#job-hunting/career)
+- [Other](#other)
 
 <br />
 
@@ -46,16 +45,15 @@ Got resources? Notice a broken link? Email me, shoot me a DM, or make a pull req
 
 ## What is this?
 
-For a few years now, I've been hoarding every gamedev resource I can get my grubby paws on. This is the result!
+For a few years now, I have been hoarding every gamedev resource I can get my grubby paws on. This is the result!
 
 My list is mostly for learning the craft of game development at a high level and getting hired for it. For lists of tools, communities, and assets, as well as more granular lists geared towards individual tools like Unity, check out [the gaming category of awesome](https://github.com/sindresorhus/awesome#gaming)
 
-There's resources here for every skill level and every discipline. I've got full books, classes/courses, tutorials, job-seeking advice, and even other entire mega-lists. 
-Nearly everything is free, and anything with a price tag will be clearly marked. I only include paid resources if either I have personally used them or I have seen other industry professionals use and recommend them.
+Nearly all resources are free, and anything with a price tag will be clearly marked. I only include paid resources if either I have personally used them or I have seen other industry professionals use and recommend them.
 
 Suggestions and future-proofing efforts are always welcome! 
 
-These resources made my career possible. I hope they're just as helpful for you!
+These resources made my career possible. I hope they are just as helpful for you!
 
 Disclaimer: I’m a technical artist and gameplay programmer, so most of my role-specific resources are geared towards the art and tech disciplines. However, there should be something for _most_ disciplines, particularly in general materials and other curated lists.
 
@@ -286,7 +284,7 @@ Optimization tips for Unity (I fully expect this link to break lol - if it does,
 ### Gameplay
 
 
-🟪 A study reference sheet for gameplay engineers - perfect for intermediate programmers looking to shore up their technical knowledge to get hired (note: this is currently being migrated. It’s incomplete at time of writing, but I've also included the future-proof link)
+🟪 A study reference sheet for gameplay engineers - perfect for intermediate programmers looking to shore up their technical knowledge to get hired (note: this is currently being migrated. It is incomplete at time of writing, but I have also included the future-proof link)
 
 
 [https://docs.google.com/document/d/1qIkaxtSfrtmgvO_yh-h187by7EIyrl61a3EaF40xBLs/edit#heading=h.ejywv1aotlnc](https://docs.google.com/document/d/1qIkaxtSfrtmgvO_yh-h187by7EIyrl61a3EaF40xBLs/edit#heading=h.ejywv1aotlnc)
@@ -484,7 +482,7 @@ Shaderquest (a guide series from a blog about tech art)
 ### VFX
 
 
-🟪 Getting Started in Real Time VFX - Also check out the rest of this website (realtimevfx.com), it's a community filled with useful knowledge and amazing people
+🟪 Getting Started in Real Time VFX - Also check out the rest of this website (realtimevfx.com) to find a thriving community filled with useful knowledge and amazing people
 
 
 [https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415)
@@ -504,7 +502,7 @@ Several VFX courses geared towards developing a professional portfolio. _Very_ p
 
 A Houdini tutorial series
 
-[Houdini Isn't Scary - Part 1: Basics](https://www.youtube.com/watch?v=Tsv8UGqDibc)
+[Houdini Isnt Scary - Part 1: Basics](https://www.youtube.com/watch?v=Tsv8UGqDibc)
 
 Unity VFX Tutorial
 
@@ -764,7 +762,7 @@ A tutorial on writing Game Design Documents (GDDs)
 [https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1](https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1)
 
 
-🟪 Extra Credits - A channel on game design that was far ahead of its time (though their more recent content is... alright). Their whole backlog is fantastic, but start with this video, and then dig into their playlist of game design videos
+🟪 Extra Credits - A channel on game design that was far ahead of its time, though their more recent content is more controversial. Their whole backlog is fantastic, but start with this video, and then dig into their playlist of game design videos
 
 
 [So You Want To Be a Game Designer - Career Advice for Making Games - Extra Credits](https://www.youtube.com/watch?v=zQvWMdWhFCc)
