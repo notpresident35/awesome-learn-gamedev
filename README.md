@@ -1,8 +1,37 @@
-### 
-# Learn Gamedev
-## A Mega-List of Learning Resources for Game Creators
+# Learn Gamedev  |  A Mega-List of Learning Resources for Game Creators
 
 <p>
+
+# Contents
+
+- [About](#What-is-This)
+- [General](#General)
+- [Programming](#Programming)
+    - [General](#Programming)
+    - [Gameplay](#Gameplay)
+    - [Graphics](#Graphics)
+    - [Networking](#Networking)
+    - [Etc](#Etc)
+- [Technical Art](#Tech-Art)
+    - [General](#Tech-Art)
+    - [Shaders](#Shaders)
+    - [VFX](#VFX)
+    - [Etc](#Etc)
+- [Art](#Art)
+    - [General](#Art)
+    - [2D/Illustration](#2DIllustration)
+    - [3D](#3D)
+    - [Animation](#Animation)
+    - [Resources for Non-Artists](#Resources-for-Non-Artists)
+- [Design](#Design)
+- [Audio](#Audio)
+- [Writing](#Writing)
+- [Marketing/Business](#Marketing/Business)
+- [Job Hunting/Career](#Job-Hunting/Career)
+- [Other](#Other)
+
+<br />
+
 
 ![A cat illustration that Hazel uses as a profile icon :3](images/KittyIcon.png "image_tooltip")
 
@@ -42,35 +71,6 @@ Disclaimer: I’m a technical artist and gameplay programmer, so most of my role
 ## [Game Development Cheatsheets - 2018 Edition by allurious](https://allurious.itch.io/cheatsheets2018)
 
 <br />
-<br />
-
-# Contents
-
-- [General](#General)
-- [Programming](#Programming)
-    - [General](#Programming)
-    - [Gameplay](#Gameplay)
-    - [Graphics](#Graphics)
-    - [Networking](#Networking)
-    - [Etc](#Etc)
-- [Technical Art](#Tech-Art)
-    - [General](#Tech-Art)
-    - [Shaders](#Shaders)
-    - [VFX](#VFX)
-    - [Etc](#Etc)
-- [Art](#Art)
-    - [General](#Art)
-    - [2D/Illustration](#2DIllustration)
-    - [3D](#3D)
-    - [Animation](#Animation)
-    - [Resources for Non-Artists](#Resources-for-Non-Artists)
-- [Design](#Design)
-- [Audio](#Audio)
-- [Writing](#Writing)
-- [Marketing/Business](#Marketing/Business)
-- [Job Hunting/Career](#Job-Hunting/Career)
-- [Other](#Other)
-
 <br />
 
 # General 
