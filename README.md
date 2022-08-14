@@ -7,7 +7,7 @@
 
 
 
-### 💜 Curated by [Hazel Kennedy](https://linktr.ee/dawdledoodles) 💜
+### 💜 Curated by <ins>[Hazel Kennedy](https://linktr.ee/dawdledoodles)</ins> 💜
 
 Got resources you’d like to see on this list? Notice a broken link? Email me, shoot me a DM, or make a pull request and I’ll get to it!  I’m always open to chat as well - don’t be shy ^^
 
