@@ -7,17 +7,31 @@
 
 
 
-💜 Curated by [Hazel Kennedy](https://linktr.ee/dawdledoodles) 💜
+### 💜 Curated by [Hazel Kennedy](https://linktr.ee/dawdledoodles) 💜
 
 Got resources you’d like to see on this list? Notice a broken link? Email me, shoot me a DM, or make a pull request and I’ll get to it!  I’m always open to chat as well - don’t be shy ^^
 
-Disclaimer: I’m a technical artist and gameplay programmer, so there’s more resources for those roles.
+<br />
+
+# What is this?
+
+For a few years now, I've been hoarding every gamedev resource I can get my grubby paws on. This is the result!
+
+There's resources here for every skill level and every discipline. I've got full books, classes/courses, tutorials, job-seeking advice, and even other entire mega-lists. 
+Nearly everything is free, and anything with a price tag will be clearly marked. I only include paid resources I have either personally used or seen industry professionals use and recommend.
+
+Suggestions and future-proofing efforts are always welcome! 
+
+These resources made my career possible. I hope they're just as helpful for you!
+
+Disclaimer: I’m a technical artist and gameplay programmer, so most of my role-specific resources are geared towards the art and tech disciplines. However, there should be something for _most_ disciplines, particularly in general materials and other curated lists.
 
 
 ### Key:
 
 🟪 Purple Resources are “most useful” links. These include highly influential courses/books, resources I’ve personally found invaluable, and other entire mega-lists.
 
+<br />
 <br />
 
 ## New to game development? Start here!!
