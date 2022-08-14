@@ -1,9 +1,10 @@
 ### 
-# The Gamedev Resource Mega-List
+# Learn Gamedev
+## A Mega-List of Gamedev Learning Resources
 
 <p>
 
-![alt_text](images/KittyIcon.png "image_tooltip")
+![A cat illustration that Hazel uses as a profile icon :3](images/KittyIcon.png "image_tooltip")
 
 
 
@@ -16,6 +17,8 @@ Got resources you’d like to see on this list? Notice a broken link? Email me, 
 # What is this?
 
 For a few years now, I've been hoarding every gamedev resource I can get my grubby paws on. This is the result!
+
+Most of these resources are about learning the craft of game development. For lists of tools, communities, and assets, as well as lists geared towards learning an individual tool like Unity, check out [the gaming category of awesome list's repository](https://github.com/sindresorhus/awesome#gaming)
 
 There's resources here for every skill level and every discipline. I've got full books, classes/courses, tutorials, job-seeking advice, and even other entire mega-lists. 
 Nearly everything is free, and anything with a price tag will be clearly marked. I only include paid resources I have either personally used or seen industry professionals use and recommend.
@@ -39,6 +42,35 @@ Disclaimer: I’m a technical artist and gameplay programmer, so most of my role
 ## [Game Development Cheatsheets - 2018 Edition by allurious](https://allurious.itch.io/cheatsheets2018)
 
 <br />
+<br />
+
+# Contents
+
+- [General](#General)
+- [Programming](#Programming)
+    - [General](#General)
+    - [Gameplay](#Gameplay)
+    - [Graphics](#Graphics)
+    - [Networking](#Networking)
+    - [Etc](#Etc)
+- [Technical Art](#Tech-Art)
+    - [General](#General)
+    - [Shaders](#Shaders)
+    - [VFX](#VFX)
+    - [Etc](#Etc)
+- [Art](#Art)
+    - [General](#General)
+    - [2D/Illustration](#2DIllustration)
+    - [3D](#3D)
+    - [Animation](#Animation)
+    - [Resources for Non-Artists](#Resources-for-Non-Artists)
+- [Design](#Design)
+- [Audio](#Audio)
+- [Writing](#Writing)
+- [Marketing/Business](#Marketing/Business)
+- [Job Hunting/Career](#Job-Hunting/Career)
+- [Other](#Other)
+
 <br />
 
 # General 
@@ -212,19 +244,14 @@ C++ for C# Developers - An extensive tutorial series
 [https://www.gameenginebook.com/ ](https://www.gameenginebook.com/)
 
 
-Design Patterns - A free book with _very_ pretty illustrations
-
+Design Patterns - A free book with _very_ pretty illustrations (and also, an interesting criticism of said book - I believe there’s a response to this on the design patterns site)
 
 [https://refactoring.guru/design-patterns/](https://refactoring.guru/design-patterns/)
-
-
-(also an interesting criticism of said book - I believe there’s a response to this on the design patterns site)
-
 
 [https://blog.codinghorror.com/rethinking-design-patterns/](https://blog.codinghorror.com/rethinking-design-patterns/)
 
 
-Making a Game Engine (for the engine programmers and the insane) 
+Making a Game Engine (for the engine programmers and the insane: save yourself some trouble and watch this instead of making yet another game engine ^^) 
 
 
 [https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT ](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
@@ -242,23 +269,14 @@ Gamedev in Rust for beginners - a collection of books, tutorials, articles, and 
 [https://arewegameyet.rs/#resources](https://arewegameyet.rs/#resources)
 
 
-Machine learning for Python - A free book from Game Dev Academy
-
-[https://gamedevacademy.org/wp-content/uploads/2018/01/Machine-Learning-for-Human-Beings-2.pdf](https://gamedevacademy.org/wp-content/uploads/2018/01/Machine-Learning-for-Human-Beings-2.pdf)
-
 A blog with lots and lots of programming, graphics, and math tutorials and breakdowns
 
 [https://blog.demofox.org](https://blog.demofox.org)
 
+
 Essence of Linear Algebra - A video series meant as a supplement for a class on Linear Algebra, made by 3Blue1Brown
 
 [https://www.youtube.com/playlist?app=desktop&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?app=desktop&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-
-
-A small list of resources - mostly a list of popular engines and their licensing models.
-
-
-[https://gamedev-resources.com/resources/](https://gamedev-resources.com/resources/)
 
 
 A (slightly outdated) list of programming tutorials from the VGDC at UCI [https://docs.google.com/spreadsheets/d/1VxoJGdBmRrsYLx9MnaVmZ0iFc9Vcx4xGSqOuW2bisVM/edit#gid=2006991768](https://docs.google.com/spreadsheets/d/1VxoJGdBmRrsYLx9MnaVmZ0iFc9Vcx4xGSqOuW2bisVM/edit#gid=2006991768)
@@ -269,23 +287,13 @@ Optimization tips for Unity (I fully expect this link to break lol - if it does,
 [https://images.response.unity3d.com/Web/Unity/%7B5dc4de9b-9e59-4860-b933-eb6daae82ecd%7D_Unity_Games_Optimization_Best_Practices-v5.pdf?utm_campaign=___&utm_content=2019-11-Gaming-ISS-eBook&utm_medium=email&utm_source=Eloqua](https://images.response.unity3d.com/Web/Unity/%7B5dc4de9b-9e59-4860-b933-eb6daae82ecd%7D_Unity_Games_Optimization_Best_Practices-v5.pdf?utm_campaign=___&utm_content=2019-11-Gaming-ISS-eBook&utm_medium=email&utm_source=Eloqua)
 
 
-The GitHub Documentation 
-
-
-[https://docs.github.com/en/get-started ](https://docs.github.com/en/get-started)
-
-
 ### Gameplay
 
 
-🟪 A study reference sheet for gameplay engineers - perfect for intermediate programmers looking to shore up their technical knowledge to get hired
+🟪 A study reference sheet for gameplay engineers - perfect for intermediate programmers looking to shore up their technical knowledge to get hired (note: this is currently being migrated. It’s incomplete at time of writing, but I've also included the future-proof link)
 
 
 [https://docs.google.com/document/d/1qIkaxtSfrtmgvO_yh-h187by7EIyrl61a3EaF40xBLs/edit#heading=h.ejywv1aotlnc](https://docs.google.com/document/d/1qIkaxtSfrtmgvO_yh-h187by7EIyrl61a3EaF40xBLs/edit#heading=h.ejywv1aotlnc)
-
-
-(note: this is currently being migrated. It’s incomplete at time of writing, but see below for future-proof link)
-
 
 [https://www.mrventures.net/get-into-gamedev.html](https://www.mrventures.net/get-into-gamedev.html)
 
@@ -296,7 +304,7 @@ The GitHub Documentation
 [http://www.gameaipro.com/ ](http://www.gameaipro.com/)
 
 
-AI Game Dev.com - An AI development community with lots of resources. Unfortunately it’s old, so it only exists on the internet archive - careful with outdated knowledge.
+AI Game Dev.com - An AI development community with lots of resources. It only exists on the internet archive - be wary of outdated knowledge and broken links.
 
 
 [https://web.archive.org/web/20190107192021/http://aigamedev.com/page/free-features/page/3/](https://web.archive.org/web/20190107192021/http://aigamedev.com/page/free-features/page/3/)
@@ -363,12 +371,6 @@ Deterministic Netcode
 ### Etc.
 
 
-Neat site from a cryptographer 
-
-
-[https://www.aumasson.jp/ ](https://www.aumasson.jp/)
-
-
 Music for Programming 
 
 
@@ -394,6 +396,7 @@ A very interesting breakdown of a particularly tricky bug in Destiny and how it 
 
 [https://www.bungie.net/en/Explore/Detail/News/50140 ](https://www.bungie.net/en/Explore/Detail/News/50140)
 
+
 An article on why C is not a low-level language, and performance as a result of that
 
 [https://queue.acm.org/detail.cfm?id=3212479](https://queue.acm.org/detail.cfm?id=3212479)
@@ -407,8 +410,10 @@ Pore over this for a good laugh :P
 
 # Tech Art 
 
+### General 
 
-A list of tech art resources, communities, and professionals, curated by Heart Machine (studio that made Hyper Light Drifter and now Hyper Light Breaker)
+
+🟪 A list of tech art resources, communities, and professionals, curated by Heart Machine (the studio that made Hyper Light Drifter and now Hyper Light Breaker)
 
 
 [https://heartmachine.notion.site/Tech-Art-Learning-Resources-d2eb63aeca624cf59faab5a19b4a732d](https://heartmachine.notion.site/Tech-Art-Learning-Resources-d2eb63aeca624cf59faab5a19b4a732d)
@@ -487,7 +492,7 @@ Shaderquest (a guide series from a blog about tech art)
 
 [https://chluaid.gumroad.com/l/bcafx](https://chluaid.gumroad.com/l/bcafx)
 
-Several VFX courses geared towards developing a professional portfolio. _Very_ pricey, but may be worth your while if you’re serious about VFX - it’s a hell of a lot cheaper than art school
+Several VFX courses geared towards developing a professional portfolio. _Very_ pricey, but may be worth your while if you’re serious about VFX - it’s a hell of a lot cheaper than art school.
 
 [https://www.vfxapprentice.com](https://www.vfxapprentice.com)
 
@@ -495,12 +500,7 @@ A Houdini tutorial series
 
 [Houdini Isn't Scary - Part 1: Basics](https://www.youtube.com/watch?v=Tsv8UGqDibc)
 
-Some VFX tools
-
-[https://jangafx.com](https://jangafx.com)
-
-
-Unity VFX 
+Unity VFX Tutorial
 
 [https://stylizedstation.com/article/realtime-unity-vfx-tutorial-the-3-core-elements-you-need-to-know/](https://stylizedstation.com/article/realtime-unity-vfx-tutorial-the-3-core-elements-you-need-to-know/)
 
@@ -508,13 +508,7 @@ Unity VFX
 ### Etc. 
 
 
-A super fancy radial progress bar for Unity made with the Amplify shader editor
-
-
-[https://github.com/AdultLink/RadialProgressBar](https://github.com/AdultLink/RadialProgressBar)
-
-
-The rendering tech of Crash Bandicoot and the hardware limitations of the PS1 [https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/ ](https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/)
+A blog by a developer for Crash Bandicoot discussing its rendering tech and the hardware limitations of the PS1 [https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/ ](https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/)
 
 
 An extended breakdown of the procedural art tools of Hyper Light Breaker [https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1](https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1) [https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2](https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2)
@@ -532,12 +526,6 @@ An extended breakdown of the procedural art tools of Hyper Light Breaker [https:
 [https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3 ](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3)
 
 
-A guide to portfolios and getting a job as a game artist
-
-
-[https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings)
-
-
 🟪 Fantastic pixel art animation tutorials by Saint11
 
 
@@ -549,54 +537,39 @@ A guide to portfolios and getting a job as a game artist
 [https://saint11.org/pixel_articles/](https://saint11.org/pixel_articles/)
 
 
+More art resources
+
+
+[https://cubebrush.co](https://cubebrush.co)
+
+
+Extremely professional-looking art, animation, and VFX courses - seems aimed at film with a large overlap in games. Beware of hefty price tag
+
+
+[https://www.thegnomonworkshop.com](https://www.thegnomonworkshop.com)
+
+
+Smithsonian Open Access - A massive repository of 3D and 2D digital resources from the Smithsonian Institute archives, such as photos and 3D scans of historical objects. Perfect for reference and creative commons reuse!
+
+[https://www.si.edu/openaccess](https://www.si.edu/openaccess)
+
+
 Resources for Commissions 
 
 
 [https://www.nadiaxel.com/post/free-ressources-for-commission-artists ](https://www.nadiaxel.com/post/free-ressources-for-commission-artists)
 
 
-Royalty Free Game Art! 
-
-
-[https://opengameart.org/ ](https://opengameart.org/)
-
-
-[http://www.kenney.nl/](http://www.kenney.nl/)
-
-
-[https://game-icons.net/](https://game-icons.net/)
-
-
-Royalty Free Textures, Models, HDRIs, and Assets! 
-
-
-[https://www.textures.com/ ](https://www.textures.com/)
-
-
-[https://publicdomaintextures.com/ ](https://publicdomaintextures.com/)
-
-
-[https://polyhaven.com/ ](https://polyhaven.com/)
-
-
-A great post/thread with lots of free art assets and tools
-
-
-[https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/](https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/)
-
-
-More art resources!
-
-
-[https://cubebrush.co](https://cubebrush.co)
-
-
-Smithsonian Open Access - A massive repository of 3D and 2D digital resources from the Smithsonian Institute archives, such as photos and 3D scans of historical objects 
-
-[https://www.si.edu/openaccess](https://www.si.edu/openaccess)
-
-
 ### 2D/Illustration
+
+🟪 A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
+
+[https://www.brendanmeachen.com/soloartist](https://www.brendanmeachen.com/soloartist)
+
+
+🟪 An exhaustive course for the art fundamentals (completely free!)
+
+[https://drawabox.com/](https://drawabox.com/)
 
 
 🟪 A Pixel Art gold mine (Job Board, Pallette Database, Tutorials, Resources, and more) 
@@ -622,25 +595,19 @@ A list of art resources, primarily human figure reference material
 [https://docs.google.com/document/d/1DLccwkSK1B8fJ3TV4X1-8ktiDmzgnelkNMamZfz3hYE/edit](https://docs.google.com/document/d/1DLccwkSK1B8fJ3TV4X1-8ktiDmzgnelkNMamZfz3hYE/edit)
 
 
-Drawing the Head and Hands - A book on figure construction by Andrew Loomis
-
-
-Note: there was a pdf link here, but now I’m not 100% sure if that upload was legally obtained. Look it up yourself :]
+Drawing the Head and Hands - A book on figure construction by Andrew Loomis. Not free, but worth the money
 
 
 [https://www.amazon.com/Drawing-Head-Hands-Andrew-Loomis/dp/0857680978](https://www.amazon.com/Drawing-Head-Hands-Andrew-Loomis/dp/0857680978)
 
 
-Figure Drawing for All it’s Worth - A book on figure drawing by Andrew Loomis
-
-
-Note: there was a pdf link here, but now I’m not 100% sure if that upload was legally obtained. Look it up yourself :]
+Figure Drawing for All it’s Worth - A book on figure drawing by Andrew Loomis. Not free, but worth the money
 
 
 [https://www.amazon.com/Figure-Drawing-All-Its-Worth/dp/0857680986](https://www.amazon.com/Figure-Drawing-All-Its-Worth/dp/0857680986)
 
 
-🟪 Clean Line Art! or How to sharpen your technical skills
+A good guide to sharpening your technical skills
 
 
 [Clean Line Art!  Digital Inking Tips](https://www.youtube.com/watch?v=NBE-RTFkXDk)
@@ -658,7 +625,7 @@ Human Anatomy for the Head
 [https://www.youtube.com/watch?v=2T7cDY7YDsg ](https://www.youtube.com/watch?v=2T7cDY7YDsg)
 
 
-A neat style guide from a friend
+A neat style guide for using edges and lines effectively
 
 
 [https://bryan-sturm.github.io/articles/lines-and-edges/](https://bryan-sturm.github.io/articles/lines-and-edges/)
@@ -678,37 +645,27 @@ Need a quick confidence boost? Watch this :3
 [World Building in Blender - Ian Hubert](https://www.youtube.com/watch?v=whPWKecazgM)
 
 
-Extremely professional-looking art, animation, and VFX courses - seems aimed at film with a large overlap in games
-
-
-[https://www.thegnomonworkshop.com](https://www.thegnomonworkshop.com)
-
-
-A good (and free!) Maya humanoid rig
-
-
-[https://oninationsquad.gumroad.com/l/hybrid02](https://oninationsquad.gumroad.com/l/hybrid02)
-
-
-A great humanoid body and face rig by Chris Jones ($200 license, but would be very worth it for serious animators) 
-
-
-[https://cjones.gumroad.com/l/JJuKG ](https://cjones.gumroad.com/l/JJuKG)
-
 
 🟪 Sculpting in Blender 
 
 [https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro](https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro)
+
 
 🟪 Photorealism, explained
 
 [Photorealism Explained](https://www.youtube.com/watch?v=R1-Ef54uTeU)
 
 
-picoCAD - A fun 3D modelling tool for PICO-8 
+Royalty Free Textures, Models, HDRIs, and Assets! 
 
 
-[https://johanpeitz.itch.io/picocad ](https://johanpeitz.itch.io/picocad)
+[https://www.textures.com/ ](https://www.textures.com/)
+
+
+[https://publicdomaintextures.com/ ](https://publicdomaintextures.com/)
+
+
+[https://polyhaven.com/ ](https://polyhaven.com/)
 
 
 ### Animation
@@ -726,21 +683,51 @@ A visual tutorial series on the 12 principles of animation
 [https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd](https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd)
 
 
+A good (and free!) Maya humanoid rig
+
+
+[https://oninationsquad.gumroad.com/l/hybrid02](https://oninationsquad.gumroad.com/l/hybrid02)
+
+
+A great humanoid body and face rig by Chris Jones ($200 license, but would be very worth it for serious animators) 
+
+
+[https://cjones.gumroad.com/l/JJuKG ](https://cjones.gumroad.com/l/JJuKG)
+
+
+### Resources for Non-Artists
+
+Note that there are many, many more resources out there - these are primarily included as a way to build a polished-looking game even while learning a different discipline.
+
+
+Royalty Free Game Art! 
+
+
+[https://opengameart.org/ ](https://opengameart.org/)
+
+
+[http://www.kenney.nl/](http://www.kenney.nl/)
+
+
+[https://game-icons.net/](https://game-icons.net/)
+
+
+
+A great post/thread with lots of free art assets and tools
+
+
+[https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/](https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/)
+
+
 # Design
 
 
-A tutorial on writing Game Design Documents (GDDs) 
 
-
-[https://www.gamedesigning.org/learn/game-design-document/ ](https://www.gamedesigning.org/learn/game-design-document/)
-
-🟪 The Art of Game Design - An essential book on game design, basically mandatory reading for designers
-
-
-Note: there was a direct link here, but now I’m not 100% sure if that upload was legally obtained. Look it up yourself :]
+🟪 The Art of Game Design - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money
 
 
 [https://www.schellgames.com/art-of-game-design/](https://www.schellgames.com/art-of-game-design/)
+
 
 🟪 The Design of Everyday Things - A book on design in everything, basically mandatory reading for designers
 
@@ -764,6 +751,11 @@ Note: there was a direct link here, but now I’m not 100% sure if that upload w
 
 [https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/ ](https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/)
 
+
+A tutorial on writing Game Design Documents (GDDs) 
+
+
+[https://www.gamedesigning.org/learn/game-design-document/ ](https://www.gamedesigning.org/learn/game-design-document/)
 
 🟪 The Evolution of Trust - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class
 
@@ -832,9 +824,11 @@ Level Design and How To Get Into It
 
 [https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/ ](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/)
 
+
 One of my favorite design and art writers - breaks down games and writes about them (check out the ones on Destiny’s balance and economy)
 
 [https://docseuss.medium.com](https://docseuss.medium.com)
+
 
 A breakdown of the design thinking and solutions that went into an extremely specific 3D camera
 
@@ -856,26 +850,10 @@ A repository of lots of maps and top-down views of levels
 # Audio 
 
 
-A megalist of game audio learning resources! 
+🟪 A megalist of game audio learning resources! 
 
 
 [https://docs.google.com/spreadsheets/d/1fcuhGEesLC_PWCwY3dIwLgF774sKswOwIcZECWiH7Xo/edit#gid=0](https://docs.google.com/spreadsheets/d/1fcuhGEesLC_PWCwY3dIwLgF774sKswOwIcZECWiH7Xo/edit#gid=0)
-
-🟪 A powerful Digital Audio Workstation (DAW) - free for 60 days, after which you need a license - it’s $60 until you earn more than $20,000 yearly
-
-
-[https://www.reaper.fm/](https://www.reaper.fm/)
-
-🟪 A powerful (and free!) audio editing program
-
-
-[https://www.audacityteam.org/](https://www.audacityteam.org/)
-
-
-🟪 A free and open source DAW!
-
-
-[https://lmms.io/](https://lmms.io/)
 
 
 🟪 The Sound Effects Bible - A book on sound effects
@@ -889,9 +867,7 @@ A megalist of game audio learning resources!
 
 Direct links to said resources, in case the above thread goes down:
 
-
-🟪 The Bible of Getting a Job in Game Audio: [https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit)
-
+The Bible of Getting a Job in Game Audio (link in [career section](Job-Hunting/Career))
 
 Audio Reel Reviews: [Power Up Audio - YouTube](https://www.youtube.com/user/PowerUpAudio)
 
@@ -907,9 +883,11 @@ A course on Wwise, an audio middleware program (there’s lots more courses from
 
 A tutorial series on integrating Wwise in Unreal: [Wwise 2019.1.4 Unreal V4.23 Game Audio Implementation Guide Series - YouTube](https://www.youtube.com/playlist?list=PLwxDjxJeenFSPCxMXpBhUrZsGqR71fYwu)
 
+
 A great program for generating simple sound effects
 
 [https://sfxr.me/](https://sfxr.me/)
+
 
 A simple but fun web-based music program
 
@@ -986,12 +964,6 @@ Figuring out how viable your budget is for your game
 # Job Hunting/Career
 
 
-A big list of portfolios from industry professionals
-
-
-[https://www.plusonewisdom.com/post/industry-portfolios ](https://www.plusonewisdom.com/post/industry-portfolios)
-
-
 🟪 A huge list of job-hunting resources - multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocating
 
 
@@ -1004,10 +976,28 @@ A big list of portfolios from industry professionals
 [https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit](https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit)
 
 
+A big list of portfolios from industry professionals
+
+
+[https://www.plusonewisdom.com/post/industry-portfolios ](https://www.plusonewisdom.com/post/industry-portfolios)
+
+
 Gamedev Jobs List (2022)
 
 
 [https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit ](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit)
+
+
+🟪 The Reverse Interview - questions to ask a potential employer (aimed at tech, but most questions apply to any discipline)
+
+
+[https://github.com/viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
+
+
+🟪 A guide to game art portfolios and job hunting
+
+
+[https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings)
 
 
 🟪 The Bible of Getting a Job in Game Audio
@@ -1016,18 +1006,13 @@ Gamedev Jobs List (2022)
 [https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit)
 
 
-🟪 The Reverse Interview - questions to ask a potential employer (aimed at tech, but most questions apply to any discipline)
-
-
-[https://github.com/viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
-
 Tips on getting an internship 
 
 
 [https://helpful-clover-96f.notion.site/How-to-get-an-internship-v-2-d906cdbf321c4986ae46bd43282b1a84](https://helpful-clover-96f.notion.site/How-to-get-an-internship-v-2-d906cdbf321c4986ae46bd43282b1a84)
 
 
-🟪 Game Industry Portfolio Best Practices
+Game Industry Portfolio Best Practices
 
 
 [https://docs.google.com/document/d/14jsiaFOXuBi9QsXOF2DJVFXCRP4RwqGY3xmMHlqf3y4/edit](https://docs.google.com/document/d/14jsiaFOXuBi9QsXOF2DJVFXCRP4RwqGY3xmMHlqf3y4/edit)
@@ -1038,9 +1023,11 @@ A map of game development studios
 
 [https://www.gamedevmap.com](https://www.gamedevmap.com)
 
+
 A short thread of cover letter tips
 
 [https://twitter.com/JeanLeggett/status/1354615348071460865](https://twitter.com/JeanLeggett/status/1354615348071460865)
+
 
 Why you need to clearly label personal work as personal work and not make your developer name seem like a studio name if it is not: a thread
 
@@ -1056,6 +1043,12 @@ Why you need to clearly label personal work as personal work and not make your d
 [https://obsidian.md/ ](https://obsidian.md/)
 
 
+🟪 A series of game jam post-mortems - these are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
+
+
+[“PONY!” – A Ludum Dare 33 Time Lapse](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1)
+
+
 Game Developer (previously known as Gamasutra) - a site filled with post-mortems, gamedev news, blog posts, and other articles with a focus on game developers and their communities.
 
 
@@ -1066,12 +1059,6 @@ Blog by Rami Ismail (seasoned developer and consultant with sound advice)
 
 
 [https://ltpf.ramiismail.com](https://ltpf.ramiismail.com)
-
-
-🟪 A series of game jam post-mortems - these are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
-
-
-[“PONY!” – A Ludum Dare 33 Time Lapse](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1)
 
 
 A devlog for Papers Please
@@ -1098,7 +1085,9 @@ A collection of tiny, usually fun tools for various purposes!
 [https://tinytools.directory/ ](https://tinytools.directory/)
 
 
-Good general advice, both on all disciplines (especially programming) and on life [http://paulgraham.com/articles.html ](http://paulgraham.com/articles.html)
+Good general advice, both on all disciplines (especially programming) and on life 
+
+[http://paulgraham.com/articles.html ](http://paulgraham.com/articles.html)
 
 
 A dyslexia-friendly, accessible font! 
@@ -1122,5 +1111,5 @@ The Stranger Things (or Montauk) pitch bible - useful as reference for what a gr
 <br />
 <br />
   
-![alt_text](images/Asriel.png "image_tooltip")
+![A cute drawing of Asriel from Undertale reaching for a heart](images/Asriel.png "image_tooltip")
 
