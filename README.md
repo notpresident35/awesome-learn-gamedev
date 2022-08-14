@@ -1,4 +1,4 @@
-# Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Learn Awesome Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A Mega-List of Learning Resources for Game Creators
 
