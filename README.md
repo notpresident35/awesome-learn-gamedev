@@ -18,10 +18,10 @@ Got resources you’d like to see on this list? Notice a broken link? Email me, 
 
 For a few years now, I've been hoarding every gamedev resource I can get my grubby paws on. This is the result!
 
-Most of these resources are about learning the craft of game development. For lists of tools, communities, and assets, as well as lists geared towards learning an individual tool like Unity, check out [the gaming category of awesome list's repository](https://github.com/sindresorhus/awesome#gaming)
+My list is mostly for learning the craft of game development at a high level and getting hired for it. For lists of tools, communities, and assets, as well as more granular lists geared towards individual tools like Unity, check out [the gaming category of awesome](https://github.com/sindresorhus/awesome#gaming)
 
 There's resources here for every skill level and every discipline. I've got full books, classes/courses, tutorials, job-seeking advice, and even other entire mega-lists. 
-Nearly everything is free, and anything with a price tag will be clearly marked. I only include paid resources I have either personally used or seen industry professionals use and recommend.
+Nearly everything is free, and anything with a price tag will be clearly marked. I only include paid resources if either I have personally used them or I have seen other industry professionals use and recommend them.
 
 Suggestions and future-proofing efforts are always welcome! 
 
