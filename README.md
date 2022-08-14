@@ -16,7 +16,7 @@ A Mega-List of Learning Resources for Game Creators
     - [Graphics](#graphics)
     - [Networking](#networking)
     - [Fun](#fun)
-- [Technical Art](#tech-Art)
+- [Technical Art](#technical-art)
     - [Shaders](#shaders)
     - [VFX](#vfx)
 - [Art](#art)
@@ -39,7 +39,7 @@ A Mega-List of Learning Resources for Game Creators
 
 ### 💜 Curated by <ins>[Hazel Kennedy](https://linktr.ee/dawdledoodles)</ins> 💜
 
-Got resources? Notice a broken link? Email me, shoot me a DM, or make a pull request! I’m always open to chat as well - don’t be shy ^^
+Got resources? Notice a broken link? Email me, shoot me a DM, or make a pull request! I like chatting too - don't be shy! ^^
 
 <br />
 
@@ -55,9 +55,9 @@ Suggestions and future-proofing efforts are always welcome!
 
 These resources made my career possible. I hope they are just as helpful for you!
 
-Disclaimer: I’m a technical artist and gameplay programmer, so most of my role-specific resources are geared towards the art and tech disciplines. However, there should be something for _most_ disciplines, particularly in general materials and other curated lists.
+Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-specific resources are geared towards the art and tech disciplines. However, there should be something for _most_ disciplines, particularly in general materials and other curated lists.
 
-🟪 Purple Resources are “most useful” links. These include highly influential courses/books, resources I’ve personally found invaluable, and other entire mega-lists.
+🟪 Purple Resources are “most useful” links. These include highly influential courses/books, resources I've personally found invaluable, and other entire mega-lists.
 
 <br />
 
@@ -87,7 +87,7 @@ Disclaimer: I’m a technical artist and gameplay programmer, so most of my role
 [https://ocw.mit.edu/](https://ocw.mit.edu/)
 
 
-🟪 More huge lists of resources! Some of these are old, unmaintained, or poorly curated, so beware broken links and the like, but they’re worth including because they’re filled with lots of resources for different purposes!
+🟪 More huge lists of resources! Some of these are old, unmaintained, or poorly curated, so beware broken links and the like, but they are worth including because they have lots of resources for different purposes!
 
 
 [https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers](https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers)
@@ -184,7 +184,7 @@ An introductory python course taught at MIT (free to access!)
 [https://gameprogrammingpatterns.com/](https://gameprogrammingpatterns.com/)
 
 
-🟪 A study path for game programmers - A huge collection of game programming book titles and covers organized by specialization, with fancy flow charts between each title for a recommended reading order! Note that the books aren’t actually included - a quick search should help you out with that ;]
+🟪 A study path for game programmers - A huge collection of game programming book titles and covers organized by specialization, with fancy flow charts between each title for a recommended reading order! Note that the books are _not_ included - a quick search should help you out with that ;]
 
 
 [https://github.com/miloyip/game-programmer](https://github.com/miloyip/game-programmer)
@@ -238,7 +238,7 @@ C++ for C# Developers - An extensive tutorial series
 [https://www.gameenginebook.com/](https://www.gameenginebook.com/)
 
 
-Design Patterns - A free book with _very_ pretty illustrations (and also, an interesting criticism of said book - I believe there’s a response to this on the design patterns site)
+Design Patterns - A free book with _very_ pretty illustrations (and also, an interesting criticism of said book - I believe there is a response to this on the design patterns site)
 
 [https://refactoring.guru/design-patterns/](https://refactoring.guru/design-patterns/)
 
@@ -319,7 +319,7 @@ GPU Gems - Three (3) free books by Nvidia about GPU programming and architecture
 [https://developer.nvidia.com/gpugems/gpugems/contributors](https://developer.nvidia.com/gpugems/gpugems/contributors)
 
 
-🟪 An overview of graphics and everything rendering for programmers. Has lots of references to books and other resources, letting you dig as far as you’d like into the nitty gritty or stick to an overview
+🟪 An overview of graphics and everything rendering for programmers. Has lots of references to books and other resources, letting you dig as far as you would like into the nitty gritty or stick to an overview
 
 
 [http://simonschreibt.de/gat/renderhell/](http://simonschreibt.de/gat/renderhell/)
@@ -402,7 +402,7 @@ Pore over this for a good laugh :P
 [http://sigbovik.org](http://sigbovik.org)
 
 
-## Tech Art 
+## Technical Art
 
 
 🟪 A list of tech art resources, communities, and professionals, curated by Heart Machine (the studio that made Hyper Light Drifter and now Hyper Light Breaker)
@@ -496,7 +496,7 @@ Shaderquest (a guide series from a blog about tech art)
 
 [https://chluaid.gumroad.com/l/bcafx](https://chluaid.gumroad.com/l/bcafx)
 
-Several VFX courses geared towards developing a professional portfolio. _Very_ pricey, but may be worth your while if you’re serious about VFX - it’s a hell of a lot cheaper than art school.
+Several VFX courses geared towards developing a professional portfolio. _Very_ pricey, but may be worth your while if you are serious about VFX - it is a _hell_ of a lot cheaper than art school.
 
 [https://www.vfxapprentice.com](https://www.vfxapprentice.com)
 
@@ -576,7 +576,7 @@ Resources for Commissions
 [https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
 
 
-A fantastic guide to digital painting, for beginners and intermediate painters (also, check out this entire channel! Sinix’s tutorials are best in class)
+A fantastic guide to digital painting, for beginners and intermediate painters (also, check out this entire channel! Sinix tutorials are best in class)
 
 
 [How to Learn Digital Painting (Beginners)](https://www.youtube.com/watch?v=iwRa5qTnr8o)
@@ -594,7 +594,7 @@ Drawing the Head and Hands - A book on figure construction by Andrew Loomis. Not
 [https://www.amazon.com/Drawing-Head-Hands-Andrew-Loomis/dp/0857680978](https://www.amazon.com/Drawing-Head-Hands-Andrew-Loomis/dp/0857680978)
 
 
-Figure Drawing for All it’s Worth - A book on figure drawing by Andrew Loomis. Not free, but worth the money
+Figure Drawing for All its Worth - A book on figure drawing by Andrew Loomis. Not free, but worth the money
 
 
 [https://www.amazon.com/Figure-Drawing-All-Its-Worth/dp/0857680986](https://www.amazon.com/Figure-Drawing-All-Its-Worth/dp/0857680986)
@@ -664,7 +664,7 @@ Royalty Free Textures, Models, HDRIs, and Assets!
 ### Animation
 
 
-🟪 An essential resource for any animator - has a price tag, but if you want to get a job in industry, it’s well worth your money. 
+🟪 An essential resource for any animator - has a price tag, but if you want to get a job in industry, it is well worth your money. 
 
 
 [http://www.theanimatorssurvivalkit.com](http://www.theanimatorssurvivalkit.com)
@@ -771,7 +771,7 @@ A tutorial on writing Game Design Documents (GDDs)
 [https://www.youtube.com/watch?v=pm8KdLPOm2c&list=PLhyKYa0YJ_5BkTruCmaBBZ8z6cP9KzPiX&index=1](https://www.youtube.com/watch?v=pm8KdLPOm2c&list=PLhyKYa0YJ_5BkTruCmaBBZ8z6cP9KzPiX&index=1)
 
 
-🟪 A playable video essay/game, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from Game Maker’s Toolkit
+🟪 A playable video essay/game, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from GMTK
 
 
 [https://gmtk.itch.io/platformer-toolkit](https://gmtk.itch.io/platformer-toolkit)
@@ -818,7 +818,7 @@ Level Design and How To Get Into It
 [https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/)
 
 
-One of my favorite design and art writers - breaks down games and writes about them (check out the ones on Destiny’s balance and economy)
+One of my favorite design and art writers - breaks down games and writes about them (check out the ones on the balance and economy of Destiny)
 
 [https://docseuss.medium.com](https://docseuss.medium.com)
 
@@ -871,7 +871,7 @@ Courses on audio implementation in Unreal: [https://twitter.com/TheNewTeed/statu
 In case the tweet gets deleted, this was a few different courses from Unreal:  [https://learn.unrealengine.com/](https://learn.unrealengine.com/)
 
 
-A course on Wwise, an audio middleware program (there’s lots more courses from audio kinetic too! Same link, go to the home page): [https://www.audiokinetic.com/education/learn-wwise/](https://www.audiokinetic.com/education/learn-wwise/)
+A course on Wwise, an audio middleware program (there are a lot more courses from audio kinetic too! Same link, go to the home page): [https://www.audiokinetic.com/education/learn-wwise/](https://www.audiokinetic.com/education/learn-wwise/)
 
 
 A tutorial series on integrating Wwise in Unreal: [Wwise 2019.1.4 Unreal V4.23 Game Audio Implementation Guide Series - YouTube](https://www.youtube.com/playlist?list=PLwxDjxJeenFSPCxMXpBhUrZsGqR71fYwu)
@@ -936,7 +936,7 @@ A template sheet for an exercise to write "Barks" or simple dialogue lines - goo
 ## Marketing/Business
 
 
-🟪 How to Market a Game - A blog and a collection of resources (of special note, a few GDC talks) about marketing for games by Chris Zukowski - this is the only mailing list that I’ve ever willingly signed up for and gotten mileage out of :P
+🟪 How to Market a Game - A blog and a collection of resources (of special note, a few GDC talks) about marketing for games by Chris Zukowski - this is the only mailing list that I have ever willingly signed up for and gotten mileage out of :P
 
 
 [https://howtomarketagame.com](https://howtomarketagame.com)
