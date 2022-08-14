@@ -170,10 +170,16 @@ An introductory python course taught at MIT (free to access!)
 [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 
-🟪 A C++ Course taught at the University of California, Irvine (free to access!) 
+🟪 A C++ course taught at the University of California, Irvine (free to access!) 
 
 
 [https://www.ics.uci.edu/~thornton/ics45c/Notes/](https://www.ics.uci.edu/~thornton/ics45c/Notes/)
+
+
+🟪 A course on data structures and algorithms taught at the University of California, Irvine (free to access!) 
+
+
+[https://www.ics.uci.edu/~thornton/ics46/index.html](https://www.ics.uci.edu/~thornton/ics46/index.html)
 
 
 🟪 Game Programming Patterns - A free book on programming patterns for games
