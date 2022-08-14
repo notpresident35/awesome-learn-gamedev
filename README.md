@@ -1,5 +1,8 @@
 # Learn Gamedev 
-### A Mega-List of Learning Resources for Game Creators
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A Mega-List of Learning Resources for Game Creators
 
 <p>
 
@@ -9,18 +12,15 @@
 - [What is this?](#What-is-This)
 - [General](#General)
 - [Programming](#Programming)
-    - [General](#Programming)
     - [Gameplay](#Gameplay)
     - [Graphics](#Graphics)
     - [Networking](#Networking)
-    - [Etc](#Etc)
+    - [Fun](#Fun)
 - [Technical Art](#Tech-Art)
-    - [General](#Tech-Art)
     - [Shaders](#Shaders)
     - [VFX](#VFX)
     - [Etc](#Etc)
 - [Art](#Art)
-    - [General](#Art)
     - [2D/Illustration](#2DIllustration)
     - [3D](#3D)
     - [Animation](#Animation)
@@ -35,7 +35,7 @@
 <br />
 
 
-![A cat illustration that Hazel uses as a profile icon :3](images/KittyIcon.png "Check out my portfolio below!")
+![A cat illustration that Hazel uses as her profile icon :3](images/KittyIcon.png "Check out my portfolio below!")
 
 
 ### 💜 Curated by <ins>[Hazel Kennedy](https://linktr.ee/dawdledoodles)</ins> 💜
@@ -146,9 +146,6 @@ A list of workshops and resources from the Video Game Development Club at the Un
 
 
 ## Programming 
-
-
-### General
 
 
 🟪 The Open Source University 
@@ -370,7 +367,7 @@ Deterministic Netcode
 [https://yal.cc/preparing-your-game-for-deterministic-netcode/](https://yal.cc/preparing-your-game-for-deterministic-netcode/)
 
 
-### Etc.
+### Fun
 
 
 Music for Programming 
@@ -412,13 +409,23 @@ Pore over this for a good laugh :P
 
 ## Tech Art 
 
-### General 
-
 
 🟪 A list of tech art resources, communities, and professionals, curated by Heart Machine (the studio that made Hyper Light Drifter and now Hyper Light Breaker)
 
 
 [https://heartmachine.notion.site/Tech-Art-Learning-Resources-d2eb63aeca624cf59faab5a19b4a732d](https://heartmachine.notion.site/Tech-Art-Learning-Resources-d2eb63aeca624cf59faab5a19b4a732d)
+
+
+A blog by a developer for Crash Bandicoot discussing its rendering tech and the hardware limitations of the PS1 
+
+[https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/](https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/)
+
+
+An extended breakdown of the procedural art tools of Hyper Light Breaker 
+
+[https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1](https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1) 
+
+[https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2](https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2)
 
 
 ### Shaders 
@@ -507,19 +514,8 @@ Unity VFX Tutorial
 [https://stylizedstation.com/article/realtime-unity-vfx-tutorial-the-3-core-elements-you-need-to-know/](https://stylizedstation.com/article/realtime-unity-vfx-tutorial-the-3-core-elements-you-need-to-know/)
 
 
-### Etc. 
-
-
-A blog by a developer for Crash Bandicoot discussing its rendering tech and the hardware limitations of the PS1 [https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/](https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/)
-
-
-An extended breakdown of the procedural art tools of Hyper Light Breaker [https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1](https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1) [https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2](https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2)
-
 
 ## Art
-
-
-### General
 
 
 🟪 A Megalist of Art Resources!
