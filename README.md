@@ -7,7 +7,7 @@
 
 
 
-## <span style="color: #9900ff;">Curated by</span> [Hazel Kennedy](https://linktr.ee/dawdledoodles)
+💜 Curated by [Hazel Kennedy](https://linktr.ee/dawdledoodles) 💜
 
 Got resources you’d like to see on this list? Notice a broken link? Email me, shoot me a DM, or make a pull request and I’ll get to it!  I’m always open to chat as well - don’t be shy ^^
 
@@ -16,7 +16,7 @@ Disclaimer: I’m a technical artist and gameplay programmer, so there’s more 
 
 #### Key:
 
-<span style="color: #9900ff;">Purple Resources</span> are “most useful” links. These include highly influential courses/books, resources I’ve personally found invaluable, and other entire mega-lists.
+🟪 Purple Resources are “most useful” links. These include highly influential courses/books, resources I’ve personally found invaluable, and other entire mega-lists.
 
 New to game development? Start here!!
 
@@ -25,22 +25,22 @@ New to game development? Start here!!
 
 # General 
 
-<span style="color: #9900ff;">My mega-playlist of great gamedev videos</span> (conference talks, tutorials, analyses, etc)
+🟪 My mega-playlist of great gamedev videos (conference talks, tutorials, analyses, etc)
 
 
 [https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn ](https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn)
 
 
-<span style="color: #9900ff;">A huge list of professional game developers you can contact for advice!</span> Be courteous - these are real people! Curated by Joe Hobbs - @JLHGameArt on Twitter [https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml)
+🟪 A huge list of professional game developers you can contact for advice! Be courteous - these are real people! Curated by Joe Hobbs - @JLHGameArt on Twitter [https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml)
 
 
-<span style="color: #9900ff;">MIT Open Courseware</span> - classes and materials from MIT (free to access)! 
+🟪 MIT Open Courseware - classes and materials from MIT (free to access)! 
 
 
 [https://ocw.mit.edu/ ](https://ocw.mit.edu/)
 
 
-<span style="color: #9900ff;">More huge lists of resources!!</span> Some of these are old, unmaintained, or poorly curated, so beware broken links and the like, but they’re worth including because they’re filled with lots of resources for different purposes!
+🟪 More huge lists of resources!! Some of these are old, unmaintained, or poorly curated, so beware broken links and the like, but they’re worth including because they’re filled with lots of resources for different purposes!
 
 
 [https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers](https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers)
@@ -99,25 +99,25 @@ A list of workshops and resources from the Video Game Development Club at the Un
 ### General
 
 
-<span style="color: #9900ff;">The Open Source University</span> 
+🟪 The Open Source University 
 
 
 [https://github.com/ossu/computer-science ](https://github.com/ossu/computer-science)
 
 
-<span style="color: #9900ff;">The single best way to learn Unity.</span> Trust me when I say this is the best $12 I have ever spent, or will ever spend. Wait for it to go on sale, then go pick this up.
+🟪 The single best way to learn Unity. Trust me when I say this is the best $12 I have ever spent, or will ever spend. Wait for it to go on sale, then go pick this up.
 
 
 [https://www.udemy.com/course/unitycourse2/](https://www.udemy.com/course/unitycourse2/)
 
 
-<span style="color: #9900ff;">Same as above, but with Unreal 5.</span> This course is invaluable - I know several full-time developers who learned from gamedev.tv, they are a gem.
+🟪 Same as above, but with Unreal 5. This course is invaluable - I know several full-time developers who learned from gamedev.tv, they are a gem.
 
 
 [https://www.udemy.com/course/unrealcourse/](https://www.udemy.com/course/unrealcourse/)
 
 
-<span style="color: #9900ff;">How to Learn Software Design and Architecture</span> - A list of resources
+🟪 How to Learn Software Design and Architecture - A list of resources
 
 
 [https://www.freecodecamp.org/news/software-design/](https://www.freecodecamp.org/news/software-design/)
@@ -128,19 +128,19 @@ An introductory python course taught at MIT (free to access!)
 [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 
-<span style="color: #9900ff;">A C++ Course taught at the University of California, Irvine</span> (free to access!) 
+🟪 A C++ Course taught at the University of California, Irvine (free to access!) 
 
 
 [https://www.ics.uci.edu/~thornton/ics45c/Notes/ ](https://www.ics.uci.edu/~thornton/ics45c/Notes/)
 
 
-<span style="color: #9900ff;">Game Programming Patterns</span> - A free book on programming patterns for games
+🟪 Game Programming Patterns - A free book on programming patterns for games
 
 
 [https://gameprogrammingpatterns.com/ ](https://gameprogrammingpatterns.com/)
 
 
-<span style="color: #9900ff;">A study path for game programmers</span> - A huge collection of game programming book titles and covers organized by specialization, with fancy flow charts between each title for a recommended reading order! Note that the books aren’t actually included - a quick search should help you out with that ;]
+🟪 A study path for game programmers - A huge collection of game programming book titles and covers organized by specialization, with fancy flow charts between each title for a recommended reading order! Note that the books aren’t actually included - a quick search should help you out with that ;]
 
 
 [https://github.com/miloyip/game-programmer](https://github.com/miloyip/game-programmer)
@@ -170,7 +170,7 @@ Mature Optimization - A free book on structuring code for performance
 [https://carlos.bueno.org/optimization/ ](https://carlos.bueno.org/optimization/)
 
 
-<span style="color: #9900ff;">Data Oriented Design</span> - A free book on data-oriented design, an alternative to object-oriented programming
+🟪 Data Oriented Design - A free book on data-oriented design, an alternative to object-oriented programming
 
 
 [https://www.dataorienteddesign.com/dodbook/dodmain.html ](https://www.dataorienteddesign.com/dodbook/dodmain.html)
@@ -188,7 +188,7 @@ C++ for C# Developers - An extensive tutorial series
 [https://www.jacksondunstan.com/articles/5530](https://www.jacksondunstan.com/articles/5530)
 
 
-<span style="color: #9900ff;">Game Engine Architecture</span> - A book on game engines. About $25 for the e-book, but probably worth the investment if you plan to be an engine, tools, or graphics programmer.
+🟪 Game Engine Architecture - A book on game engines. About $25 for the e-book, but probably worth the investment if you plan to be an engine, tools, or graphics programmer.
 
 
 [https://www.gameenginebook.com/ ](https://www.gameenginebook.com/)
@@ -260,7 +260,7 @@ The GitHub Documentation
 ### Gameplay
 
 
-<span style="color: #9900ff;">A study reference sheet for gameplay engineers</span> - perfect for intermediate programmers looking to shore up their technical knowledge to get hired
+🟪 A study reference sheet for gameplay engineers - perfect for intermediate programmers looking to shore up their technical knowledge to get hired
 
 
 [https://docs.google.com/document/d/1qIkaxtSfrtmgvO_yh-h187by7EIyrl61a3EaF40xBLs/edit#heading=h.ejywv1aotlnc](https://docs.google.com/document/d/1qIkaxtSfrtmgvO_yh-h187by7EIyrl61a3EaF40xBLs/edit#heading=h.ejywv1aotlnc)
@@ -272,7 +272,7 @@ The GitHub Documentation
 [https://www.mrventures.net/get-into-gamedev.html](https://www.mrventures.net/get-into-gamedev.html)
 
 
-<span style="color: #9900ff;">Game AI Pro</span> - 3 free books, or more accurately volumes of short papers on game AI
+🟪 Game AI Pro - 3 free books, or more accurately volumes of short papers on game AI
 
 
 [http://www.gameaipro.com/ ](http://www.gameaipro.com/)
@@ -287,7 +287,7 @@ AI Game Dev.com - An AI development community with lots of resources. Unfortunat
 ### Graphics
 
 
-<span style="color: #9900ff;">A Megalist of Graphics Programming and Tech Art resources</span> 
+🟪 A Megalist of Graphics Programming and Tech Art resources 
 
 
 [https://guerilla-tactics.com/hats/graphics/ ](https://guerilla-tactics.com/hats/graphics/)
@@ -299,7 +299,7 @@ GPU Gems - Three (3) free books by Nvidia about GPU programming and architecture
 [https://developer.nvidia.com/gpugems/gpugems/contributors ](https://developer.nvidia.com/gpugems/gpugems/contributors)
 
 
-<span style="color: #9900ff;">An overview of graphics and everything rendering for programmers.</span> Has lots of references to books and other resources, letting you dig as far as you’d like into the nitty gritty or stick to an overview
+🟪 An overview of graphics and everything rendering for programmers. Has lots of references to books and other resources, letting you dig as far as you’d like into the nitty gritty or stick to an overview
 
 
 [http://simonschreibt.de/gat/renderhell/](http://simonschreibt.de/gat/renderhell/)
@@ -330,7 +330,7 @@ How SDFs work
 ### Networking
 
 
-<span style="color: #9900ff;">A bunch of articles on netcode for games</span>
+🟪 A bunch of articles on netcode for games
 
 
 [https://gafferongames.com](https://gafferongames.com)
@@ -399,7 +399,7 @@ A list of tech art resources, communities, and professionals, curated by Heart M
 ### Shaders 
 
 
-<span style="color: #9900ff;">An Introduction to HLSL Shaders using Unity by Freya Holmer</span> 
+🟪 An Introduction to HLSL Shaders using Unity by Freya Holmer 
 
 
 Part 1: [https://www.youtube.com/watch?v=kfM-yu0iQBk ](https://www.youtube.com/watch?v=kfM-yu0iQBk)
@@ -410,13 +410,13 @@ Part 2: [https://www.youtube.com/watch?v=mL8U8tIiRRg ](https://www.youtube.com/w
 
 Part 3:[ https://www.youtube.com/watch?v=E4PHFnvMzFc ](https://www.youtube.com/watch?v=E4PHFnvMzFc)
 
-<span style="color: #9900ff;">The Book of Shaders</span> 
+🟪 The Book of Shaders 
 
 
 [https://thebookofshaders.com/00/](https://thebookofshaders.com/00/)
 
 
-<span style="color: #9900ff;">Catlike Coding</span> - Unity and HLSL Tutorials 
+🟪 Catlike Coding - Unity and HLSL Tutorials 
 
 
 [https://catlikecoding.com/unity/tutorials/ ](https://catlikecoding.com/unity/tutorials/)
@@ -428,7 +428,7 @@ Shadertoy - An online shader editor and hosting/sharing site
 [https://www.shadertoy.com/ ](https://www.shadertoy.com/)
 
 
-<span style="color: #9900ff;">Render Doc</span> - A program that breaks down a frame rendered from a game and allows you to analyze processes that created it 
+🟪 Render Doc - A program that breaks down a frame rendered from a game and allows you to analyze processes that created it 
 
 
 [https://renderdoc.org/ ](https://renderdoc.org/)
@@ -455,17 +455,17 @@ Shaderquest (a guide series from a blog about tech art)
 ### VFX
 
 
-<span style="color: #9900ff;">Getting Started in Real Time VFX</span> - Also check out the rest of this website (realtimevfx.com), it's a community filled with useful knowledge and amazing people
+🟪 Getting Started in Real Time VFX - Also check out the rest of this website (realtimevfx.com), it's a community filled with useful knowledge and amazing people
 
 
 [https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415 ](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415)
 
 
-<span style="color: #9900ff;">A fantastic list of VFX talks at GDC</span> (this one is about Diablo, and is very insightful) 
+🟪 A fantastic list of VFX talks at GDC (this one is about Diablo, and is very insightful) 
 
 [https://www.youtube.com/watch?v=YPy2hytwDLM&list=PLdiateg_U8PFnlScGDJDQeHUX9qmYvsxv](https://www.youtube.com/watch?v=YPy2hytwDLM&list=PLdiateg_U8PFnlScGDJDQeHUX9qmYvsxv)
 
-<span style="color: #9900ff;">A full 2D FX animation course</span> (completely free!)
+🟪 A full 2D FX animation course (completely free!)
 
 [https://chluaid.gumroad.com/l/bcafx](https://chluaid.gumroad.com/l/bcafx)
 
@@ -508,7 +508,7 @@ An extended breakdown of the procedural art tools of Hyper Light Breaker [https:
 ### General
 
 
-<span style="color: #9900ff;">A Megalist of Art Resources!</span>
+🟪 A Megalist of Art Resources!
 
 
 [https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3 ](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3)
@@ -520,7 +520,7 @@ A guide to portfolios and getting a job as a game artist
 [https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings)
 
 
-<span style="color: #9900ff;">Fantastic pixel art animation tutorials by Saint11</span>
+🟪 Fantastic pixel art animation tutorials by Saint11
 
 
 [https://www.patreon.com/saint11](https://www.patreon.com/saint11)
@@ -581,12 +581,12 @@ Smithsonian Open Access - A massive repository of 3D and 2D digital resources fr
 ### 2D/Illustration
 
 
-<span style="color: #9900ff;">A Pixel Art gold mine</span> (Job Board, Pallette Database, Tutorials, Resources, and more) 
+🟪 A Pixel Art gold mine (Job Board, Pallette Database, Tutorials, Resources, and more) 
 
 [https://lospec.com/](https://lospec.com/)
 
 
-<span style="color: #9900ff;">Figure Drawing Fundamentals </span>
+🟪 Figure Drawing Fundamentals 
 
 
 [https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
@@ -622,7 +622,7 @@ Note: there was a pdf link here, but now I’m not 100% sure if that upload was 
 [https://www.amazon.com/Figure-Drawing-All-Its-Worth/dp/0857680986](https://www.amazon.com/Figure-Drawing-All-Its-Worth/dp/0857680986)
 
 
-<span style="color: #9900ff;">Clean Line Art!</span> or How to sharpen your technical skills
+🟪 Clean Line Art! or How to sharpen your technical skills
 
 
 [Clean Line Art!  Digital Inking Tips](https://www.youtube.com/watch?v=NBE-RTFkXDk)
@@ -654,7 +654,7 @@ Need a quick confidence boost? Watch this :3
 
 ### 3D
 
-<span style="color: #9900ff;">The best resource for thinking about 3D art, possibly ever </span>
+🟪 The best resource for thinking about 3D art, possibly ever 
 
 
 [World Building in Blender - Ian Hubert](https://www.youtube.com/watch?v=whPWKecazgM)
@@ -678,11 +678,11 @@ A great humanoid body and face rig by Chris Jones ($200 license, but would be ve
 [https://cjones.gumroad.com/l/JJuKG ](https://cjones.gumroad.com/l/JJuKG)
 
 
-<span style="color: #9900ff;">Sculpting in Blender</span> 
+🟪 Sculpting in Blender 
 
 [https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro](https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro)
 
-<span style="color: #9900ff;">Photorealism, explained</span>
+🟪 Photorealism, explained
 
 [Photorealism Explained](https://www.youtube.com/watch?v=R1-Ef54uTeU)
 
@@ -696,7 +696,7 @@ picoCAD - A fun 3D modelling tool for PICO-8
 ### Animation
 
 
-<span style="color: #9900ff;">An essential resource for any animator</span> - has a price tag, but if you want to get a job in industry, it’s well worth your money. 
+🟪 An essential resource for any animator - has a price tag, but if you want to get a job in industry, it’s well worth your money. 
 
 
 [http://www.theanimatorssurvivalkit.com](http://www.theanimatorssurvivalkit.com)
@@ -716,7 +716,7 @@ A tutorial on writing Game Design Documents (GDDs)
 
 [https://www.gamedesigning.org/learn/game-design-document/ ](https://www.gamedesigning.org/learn/game-design-document/)
 
-<span style="color: #9900ff;">The Art of Game Design</span> - An essential book on game design, basically mandatory reading for designers
+🟪 The Art of Game Design - An essential book on game design, basically mandatory reading for designers
 
 
 Note: there was a direct link here, but now I’m not 100% sure if that upload was legally obtained. Look it up yourself :]
@@ -724,42 +724,42 @@ Note: there was a direct link here, but now I’m not 100% sure if that upload w
 
 [https://www.schellgames.com/art-of-game-design/](https://www.schellgames.com/art-of-game-design/)
 
-<span style="color: #9900ff;">The Design of Everyday Things</span> - A book on design in everything, basically mandatory reading for designers
+🟪 The Design of Everyday Things - A book on design in everything, basically mandatory reading for designers
 
 [https://www.sunyoungkim.org/class/old/hci_f18/pdf/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf](https://www.sunyoungkim.org/class/old/hci_f18/pdf/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf)
 
 
-<span style="color: #9900ff;">Game Accessibility Guidelines </span>
+🟪 Game Accessibility Guidelines 
 
 
 [https://gameaccessibilityguidelines.com/ ](https://gameaccessibilityguidelines.com/)
 
 
-<span style="color: #9900ff;">A database of UI from many different games</span> 
+🟪 A database of UI from many different games 
 
 
 [https://www.gameuidatabase.com/index.php ](https://www.gameuidatabase.com/index.php)
 
 
-<span style="color: #9900ff;">A Game Design class taught at MIT (free to access!) </span>
+🟪 A Game Design class taught at MIT (free to access!) 
 
 
 [https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/ ](https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/)
 
 
-<span style="color: #9900ff;">The Evolution of Trust</span> - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class
+🟪 The Evolution of Trust - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class
 
 
 [https://ncase.me/trust/](https://ncase.me/trust/)
 
 
-<span style="color: #9900ff;">A huge list of UI/UX resources!</span>
+🟪 A huge list of UI/UX resources!
 
 
 [https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1](https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1)
 
 
-<span style="color: #9900ff;">Extra Credits</span> - A channel on game design that was far ahead of its time (though their more recent content is... alright). Their whole backlog is fantastic, but start with this video, and then dig into their playlist of game design videos
+🟪 Extra Credits - A channel on game design that was far ahead of its time (though their more recent content is... alright). Their whole backlog is fantastic, but start with this video, and then dig into their playlist of game design videos
 
 
 [So You Want To Be a Game Designer - Career Advice for Making Games - Extra Credits](https://www.youtube.com/watch?v=zQvWMdWhFCc)
@@ -768,7 +768,7 @@ Note: there was a direct link here, but now I’m not 100% sure if that upload w
 [https://www.youtube.com/watch?v=pm8KdLPOm2c&list=PLhyKYa0YJ_5BkTruCmaBBZ8z6cP9KzPiX&index=1](https://www.youtube.com/watch?v=pm8KdLPOm2c&list=PLhyKYa0YJ_5BkTruCmaBBZ8z6cP9KzPiX&index=1)
 
 
-<span style="color: #9900ff;">A playable video essay/game</span>, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from Game Maker’s Toolkit
+🟪 A playable video essay/game, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from Game Maker’s Toolkit
 
 
 [https://gmtk.itch.io/platformer-toolkit](https://gmtk.itch.io/platformer-toolkit)
@@ -838,33 +838,33 @@ A repository of lots of maps and top-down views of levels
 # Audio 
 
 
-A megalist of game audio learning resources!</span> 
+A megalist of game audio learning resources! 
 
 
 [https://docs.google.com/spreadsheets/d/1fcuhGEesLC_PWCwY3dIwLgF774sKswOwIcZECWiH7Xo/edit#gid=0](https://docs.google.com/spreadsheets/d/1fcuhGEesLC_PWCwY3dIwLgF774sKswOwIcZECWiH7Xo/edit#gid=0)
 
-<span style="color: #9900ff;">A powerful Digital Audio Workstation (DAW)</span> - free for 60 days, after which you need a license - it’s $60 until you earn more than $20,000 yearly
+🟪 A powerful Digital Audio Workstation (DAW) - free for 60 days, after which you need a license - it’s $60 until you earn more than $20,000 yearly
 
 
 [https://www.reaper.fm/](https://www.reaper.fm/)
 
-<span style="color: #9900ff;">A powerful (and free!) audio editing program</span>
+🟪 A powerful (and free!) audio editing program
 
 
 [https://www.audacityteam.org/](https://www.audacityteam.org/)
 
 
-<span style="color: #9900ff;">A free and open source DAW!</span>
+🟪 A free and open source DAW!
 
 
 [https://lmms.io/](https://lmms.io/)
 
 
-<span style="color: #9900ff;">The Sound Effects Bible</span> - A book on sound effects
+🟪 The Sound Effects Bible - A book on sound effects
 
 [https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf ](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf)
 
-<span style="color: #9900ff;">Another list of resources!</span>
+🟪 Another list of resources!
 
 [https://twitter.com/chiragmachhar/status/1511446337639927811](https://twitter.com/chiragmachhar/status/1511446337639927811)
 
@@ -872,7 +872,7 @@ A megalist of game audio learning resources!</span>
 Direct links to said resources, in case the above thread goes down:
 
 
-<span style="color: #9900ff;">The Bible of Getting a Job in Game Audio:</span> [https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit)
+🟪 The Bible of Getting a Job in Game Audio: [https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit)
 
 
 Audio Reel Reviews: [Power Up Audio - YouTube](https://www.youtube.com/user/PowerUpAudio)
@@ -920,7 +920,7 @@ Royalty free music! Just be sure to check the license
 # Writing 
 
 
-<span style="color: #9900ff;">Inkle</span> - a writing tool for games (that integrates well with Unity!)
+🟪 Inkle - a writing tool for games (that integrates well with Unity!)
 
 
 [https://www.inklestudios.com/ink/ ](https://www.inklestudios.com/ink/)
@@ -947,7 +947,7 @@ A template sheet for an exercise to write "Barks" or simple dialogue lines - goo
 # Marketing/Business
 
 
-<span style="color: #9900ff;">How to Market a Game</span> - A blog and a collection of resources (of special note, a few GDC talks) about marketing for games by Chris Zukowski - this is the only mailing list that I’ve ever willingly signed up for and gotten mileage out of :P
+🟪 How to Market a Game - A blog and a collection of resources (of special note, a few GDC talks) about marketing for games by Chris Zukowski - this is the only mailing list that I’ve ever willingly signed up for and gotten mileage out of :P
 
 
 [https://howtomarketagame.com](https://howtomarketagame.com)
@@ -974,13 +974,13 @@ A big list of portfolios from industry professionals
 [https://www.plusonewisdom.com/post/industry-portfolios ](https://www.plusonewisdom.com/post/industry-portfolios)
 
 
-<span style="color: #9900ff;">A huge list of job-hunting resources</span> - multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocating
+🟪 A huge list of job-hunting resources - multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocating
 
 
 [https://www.gameindustrycareerguide.com/video-game-job-hunt-guide/](https://www.gameindustrycareerguide.com/video-game-job-hunt-guide/)
 
 
-<span style="color: #9900ff;">Another huge list of career documents and resources!</span>
+🟪 Another huge list of career documents and resources!
 
 
 [https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit](https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit)
@@ -992,13 +992,13 @@ Gamedev Jobs List (2022)
 [https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit ](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit)
 
 
-<span style="color: #9900ff;">The Bible of Getting a Job in Game Audio</span>
+🟪 The Bible of Getting a Job in Game Audio
 
 
 [https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit)
 
 
-<span style="color: #9900ff;">The Reverse Interview</span> - questions to ask a potential employer (aimed at tech, but most questions apply to any discipline)
+🟪 The Reverse Interview - questions to ask a potential employer (aimed at tech, but most questions apply to any discipline)
 
 
 [https://github.com/viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
@@ -1009,7 +1009,7 @@ Tips on getting an internship
 [https://helpful-clover-96f.notion.site/How-to-get-an-internship-v-2-d906cdbf321c4986ae46bd43282b1a84](https://helpful-clover-96f.notion.site/How-to-get-an-internship-v-2-d906cdbf321c4986ae46bd43282b1a84)
 
 
-<span style="color: #9900ff;">Game Industry Portfolio Best Practices</span>
+🟪 Game Industry Portfolio Best Practices
 
 
 [https://docs.google.com/document/d/14jsiaFOXuBi9QsXOF2DJVFXCRP4RwqGY3xmMHlqf3y4/edit](https://docs.google.com/document/d/14jsiaFOXuBi9QsXOF2DJVFXCRP4RwqGY3xmMHlqf3y4/edit)
@@ -1032,7 +1032,7 @@ Why you need to clearly label personal work as personal work and not make your d
 # Other 
 
 
-<span style="color: #9900ff;">Important productivity fuel</span> (and what I used to hoard this list :P)
+🟪 Important productivity fuel (and what I used to hoard this list :P)
 
 
 [https://obsidian.md/ ](https://obsidian.md/)
@@ -1050,7 +1050,7 @@ Blog by Rami Ismail (seasoned developer and consultant with sound advice)
 [https://ltpf.ramiismail.com](https://ltpf.ramiismail.com)
 
 
-<span style="color: #9900ff;">A series of game jam post-mortems</span> - these are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
+🟪 A series of game jam post-mortems - these are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
 
 
 [“PONY!” – A Ludum Dare 33 Time Lapse](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1)
