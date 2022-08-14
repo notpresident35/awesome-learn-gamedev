@@ -586,16 +586,21 @@ A list of art resources, primarily human figure reference material
 [https://docs.google.com/document/d/1DLccwkSK1B8fJ3TV4X1-8ktiDmzgnelkNMamZfz3hYE/edit](https://docs.google.com/document/d/1DLccwkSK1B8fJ3TV4X1-8ktiDmzgnelkNMamZfz3hYE/edit)
 
 
-Drawing the Head and Hands - A book on figure construction by Andrew Loomis. Not free, but worth the money
+Drawing the Head and Hands - A book on figure construction by Andrew Loomis. Free in the public domain!
 
+[https://www.alexhays.com/loomis/Andrew%20Loomis%20-%20Drawing%20the%20Head%20and%20Hands.pdf](https://www.alexhays.com/loomis/Andrew%20Loomis%20-%20Drawing%20the%20Head%20and%20Hands.pdf)
 
-[https://www.amazon.com/Drawing-Head-Hands-Andrew-Loomis/dp/0857680978](https://www.amazon.com/Drawing-Head-Hands-Andrew-Loomis/dp/0857680978)
+And a backup link to the above
 
+[https://ia601608.us.archive.org/8/items/andrew-loomis-drawing-the-head-hands/andrew-loomis-drawing-the-head-hands.pdf](https://ia601608.us.archive.org/8/items/andrew-loomis-drawing-the-head-hands/andrew-loomis-drawing-the-head-hands.pdf)
 
-Figure Drawing for All its Worth - A book on figure drawing by Andrew Loomis. Not free, but worth the money
+Figure Drawing for All its Worth - A book on figure drawing by Andrew Loomis. Free in the public domain!
 
+[https://illustrationage.files.wordpress.com/2013/04/andrew-loomis-figure-drawing-for-all-its-worth.pdf](https://illustrationage.files.wordpress.com/2013/04/andrew-loomis-figure-drawing-for-all-its-worth.pdf)
 
-[https://www.amazon.com/Figure-Drawing-All-Its-Worth/dp/0857680986](https://www.amazon.com/Figure-Drawing-All-Its-Worth/dp/0857680986)
+And a backup link to the above
+
+[https://archive.org/details/loomis_FIGURE_draw](https://archive.org/details/loomis_FIGURE_draw)
 
 
 A good guide to sharpening your technical skills
