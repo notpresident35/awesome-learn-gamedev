@@ -9,7 +9,7 @@ A Mega-List of Learning Resources for Game Creators
 
 ## Contents
 
-- [What is this?](#What-is-This)
+- [What is this?](#what-is-this)
 - [General](#General)
 - [Programming](#Programming)
     - [Gameplay](#Gameplay)
@@ -35,12 +35,12 @@ A Mega-List of Learning Resources for Game Creators
 <br />
 
 
-![A cat illustration that Hazel uses as her profile icon :3](images/KittyIcon.png "Check out my portfolio below!")
+![A cat illustration that Hazel uses as her profile icon :3](images/KittyIcon.png 'Check out my portfolio below!')
 
 
 ### 💜 Curated by <ins>[Hazel Kennedy](https://linktr.ee/dawdledoodles)</ins> 💜
 
-Got resources you’d like to see on this list? Notice a broken link? Email me, shoot me a DM, or make a pull request and I’ll get to it!  I’m always open to chat as well - don’t be shy ^^
+Got resources? Notice a broken link? Email me, shoot me a DM, or make a pull request! I’m always open to chat as well - don’t be shy ^^
 
 <br />
 
@@ -58,9 +58,6 @@ Suggestions and future-proofing efforts are always welcome!
 These resources made my career possible. I hope they're just as helpful for you!
 
 Disclaimer: I’m a technical artist and gameplay programmer, so most of my role-specific resources are geared towards the art and tech disciplines. However, there should be something for _most_ disciplines, particularly in general materials and other curated lists.
-
-
-### Key:
 
 🟪 Purple Resources are “most useful” links. These include highly influential courses/books, resources I’ve personally found invaluable, and other entire mega-lists.
 
@@ -92,7 +89,7 @@ Disclaimer: I’m a technical artist and gameplay programmer, so most of my role
 [https://ocw.mit.edu/](https://ocw.mit.edu/)
 
 
-🟪 More huge lists of resources!! Some of these are old, unmaintained, or poorly curated, so beware broken links and the like, but they’re worth including because they’re filled with lots of resources for different purposes!
+🟪 More huge lists of resources! Some of these are old, unmaintained, or poorly curated, so beware broken links and the like, but they’re worth including because they’re filled with lots of resources for different purposes!
 
 
 [https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers](https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers)
@@ -440,7 +437,7 @@ Part 1: [https://www.youtube.com/watch?v=kfM-yu0iQBk](https://www.youtube.com/wa
 Part 2: [https://www.youtube.com/watch?v=mL8U8tIiRRg](https://www.youtube.com/watch?v=mL8U8tIiRRg)
 
 
-Part 3:[ https://www.youtube.com/watch?v=E4PHFnvMzFc](https://www.youtube.com/watch?v=E4PHFnvMzFc)
+Part 3:[https://www.youtube.com/watch?v=E4PHFnvMzFc](https://www.youtube.com/watch?v=E4PHFnvMzFc)
 
 🟪 The Book of Shaders 
 
@@ -1109,5 +1106,5 @@ The Stranger Things (or Montauk) pitch bible - useful as reference for what a gr
 <br />
 <br />
   
-![A cute drawing of Asriel from Undertale reaching for a heart](images/Asriel.png "Thanks for reading!")
+![A cute drawing of Asriel from Undertale reaching for a heart](images/Asriel.png 'Thanks for reading!')
 
