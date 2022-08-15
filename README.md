@@ -23,6 +23,9 @@ A Mega-List of Learning Resources for Game Creators
     - [Animation](#animation)
     - [Resources for Non-Artists](#resources-for-non-artists)
 - [Design](#design)
+    - [Level Design](#level-design)
+    - [UI/UX](#uiux)
+    - [Reference](#reference)
 - [Audio](#audio)
 - [Writing](#writing)
 - [Marketing and Business](#marketing-and-business)
@@ -137,8 +140,11 @@ A list of workshops and resources from the Video Game Development Club at the Un
 
 [https://docs.google.com/document/d/1yGzqp1Cq8emRasH0JHYMXE4-Z6xYxQ0GDe6ZyemctVM/edit](https://docs.google.com/document/d/1yGzqp1Cq8emRasH0JHYMXE4-Z6xYxQ0GDe6ZyemctVM/edit)
 
+<br />
 
 ## Programming 
+
+<br />
 
 
 🟪 The Open Source University - a complete study plan for a computer science education
@@ -283,6 +289,10 @@ Essence of Linear Algebra - A video series meant as a supplement for a class on 
 [https://www.youtube.com/playlist?app=desktop&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?app=desktop&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 
+Understanding ECS
+[https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/)
+
+
 A (slightly outdated) list of programming tutorials from the VGDC at UCI [https://docs.google.com/spreadsheets/d/1VxoJGdBmRrsYLx9MnaVmZ0iFc9Vcx4xGSqOuW2bisVM/edit#gid=2006991768](https://docs.google.com/spreadsheets/d/1VxoJGdBmRrsYLx9MnaVmZ0iFc9Vcx4xGSqOuW2bisVM/edit#gid=2006991768)
 
 
@@ -290,6 +300,7 @@ Optimization tips for Unity (I fully expect this link to break lol - if it does,
 
 [https://images.response.unity3d.com/Web/Unity/%7B5dc4de9b-9e59-4860-b933-eb6daae82ecd%7D_Unity_Games_Optimization_Best_Practices-v5.pdf?utm_campaign=___&utm_content=2019-11-Gaming-ISS-eBook&utm_medium=email&utm_source=Eloqua](https://images.response.unity3d.com/Web/Unity/%7B5dc4de9b-9e59-4860-b933-eb6daae82ecd%7D_Unity_Games_Optimization_Best_Practices-v5.pdf?utm_campaign=___&utm_content=2019-11-Gaming-ISS-eBook&utm_medium=email&utm_source=Eloqua)
 
+<br />
 
 ### Gameplay
 
@@ -313,6 +324,7 @@ AI Game Dev.com - An AI development community with lots of resources. It only ex
 
 [https://web.archive.org/web/20190107192021/http://aigamedev.com/page/free-features/page/3/](https://web.archive.org/web/20190107192021/http://aigamedev.com/page/free-features/page/3/)
 
+<br />
 
 ### Graphics
 
@@ -356,6 +368,7 @@ How SDFs work
 
 [https://jasmcole.com/2019/10/03/signed-distance-fields/](https://jasmcole.com/2019/10/03/signed-distance-fields/)
 
+<br />
 
 ### Networking
 
@@ -383,6 +396,7 @@ Deterministic Netcode
 
 [https://yal.cc/preparing-your-game-for-deterministic-netcode/](https://yal.cc/preparing-your-game-for-deterministic-netcode/)
 
+<br />
 
 ### Fun
 
@@ -424,7 +438,12 @@ Pore over this for a good laugh :P
 [http://sigbovik.org](http://sigbovik.org)
 
 
+<br />
+
+
 ## Technical Art
+
+<br />
 
 
 🟪 A list of tech art resources, communities, and professionals, curated by Heart Machine (the studio that made Hyper Light Drifter and now Hyper Light Breaker)
@@ -444,6 +463,7 @@ An extended breakdown of the procedural art tools of Hyper Light Breaker
 
 [https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2](https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2)
 
+<br />
 
 ### Shaders 
 
@@ -500,6 +520,7 @@ Shaderquest (a guide series from a blog about tech art)
 
 [https://halisavakis.com/category/shaderquest/](https://halisavakis.com/category/shaderquest/)
 
+<br />
 
 ### VFX
 
@@ -531,8 +552,12 @@ Unity VFX Tutorial
 [https://stylizedstation.com/article/realtime-unity-vfx-tutorial-the-3-core-elements-you-need-to-know/](https://stylizedstation.com/article/realtime-unity-vfx-tutorial-the-3-core-elements-you-need-to-know/)
 
 
+<br />
+
 
 ## Art
+
+<br />
 
 
 🟪 A Megalist of Art Resources!
@@ -574,6 +599,7 @@ Resources for Commissions
 
 [https://www.nadiaxel.com/post/free-ressources-for-commission-artists](https://www.nadiaxel.com/post/free-ressources-for-commission-artists)
 
+<br />
 
 ### 2D/Illustration
 
@@ -656,6 +682,7 @@ Need a quick confidence boost? Watch this :3
 
 [What Level Is Your Art? [Scribble Kibble #39]](https://www.youtube.com/watch?v=j38HRF17YMA)
 
+<br />
 
 ### 3D
 
@@ -687,6 +714,7 @@ Royalty Free Textures, Models, HDRIs, and Assets!
 
 [https://polyhaven.com/](https://polyhaven.com/)
 
+<br />
 
 ### Animation
 
@@ -714,6 +742,7 @@ A great humanoid body and face rig by Chris Jones ($200 license, but would be ve
 
 [https://cjones.gumroad.com/l/JJuKG](https://cjones.gumroad.com/l/JJuKG)
 
+<br />
 
 ### Resources for Non-Artists
 
@@ -739,8 +768,12 @@ A great post/thread with lots of free art assets and tools
 [https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/](https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/)
 
 
+<br />
+
+
 ## Design
 
+<br />
 
 
 🟪 The Art of Game Design - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money
@@ -760,12 +793,6 @@ A great post/thread with lots of free art assets and tools
 [https://gameaccessibilityguidelines.com/](https://gameaccessibilityguidelines.com/)
 
 
-🟪 A database of UI from many different games 
-
-
-[https://www.gameuidatabase.com/index.php](https://www.gameuidatabase.com/index.php)
-
-
 🟪 A Game Design class taught at MIT (free to access!) 
 
 
@@ -777,16 +804,11 @@ A tutorial on writing Game Design Documents (GDDs)
 
 [https://www.gamedesigning.org/learn/game-design-document/](https://www.gamedesigning.org/learn/game-design-document/)
 
+
 🟪 The Evolution of Trust - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class
 
 
 [https://ncase.me/trust/](https://ncase.me/trust/)
-
-
-🟪 A huge list of UI/UX resources!
-
-
-[https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1](https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1)
 
 
 🟪 Extra Credits - A channel on game design that was far ahead of its time, though their more recent content is more controversial. Their whole backlog is fantastic, but start with this video, and then dig into their playlist of game design videos
@@ -821,28 +843,11 @@ Hooked - An interactive article on the psychology of gambling and addiction
 
 [https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive](https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive)
 
+
 Tuning the sniper rifle in Halo 
 
 
 [https://www.gdcvault.com/play/1012211/Design-in-Detail-Changing-the](https://www.gdcvault.com/play/1012211/Design-in-Detail-Changing-the)
-
-
-A great level design tool 
-
-
-[https://www.mapeditor.org/](https://www.mapeditor.org/)
-
-
-Best practices of UX design
-
-
-[https://lawsofux.com/en/](https://lawsofux.com/en/)
-
-
-Level Design and How To Get Into It 
-
-
-[https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/)
 
 
 One of my favorite design and art writers - breaks down games and writes about them (check out the ones on the balance and economy of Destiny)
@@ -854,11 +859,101 @@ A breakdown of the design thinking and solutions that went into an extremely spe
 
 [https://etodd.io/2017/11/28/poor-mans-3d-camera/](https://etodd.io/2017/11/28/poor-mans-3d-camera/)
 
+<br />
+
+### Level Design
+
+
+A great level design tool 
+
+
+[https://www.mapeditor.org/](https://www.mapeditor.org/)
+
+
+Level Design and How To Get Into It 
+
+
+[https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/)
+
+<br />
+
+### UI/UX
+
+
+🟪 A huge list of UI/UX resources!
+
+
+[https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1](https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1)
+
+
+🟪 A database of UI from many different games 
+
+
+[https://www.gameuidatabase.com/index.php](https://www.gameuidatabase.com/index.php)
+
+
+Best practices of UX design
+
+
+[https://lawsofux.com/en/](https://lawsofux.com/en/)
+
 
 A 100-day daily UI design challenge 
 
 
 [https://www.dailyui.co/](https://www.dailyui.co/)
+
+<br />
+
+### Reference
+
+
+A collection of design documents from completed games - links have been ripped and placed below
+
+
+[https://gamedocs.org/category/design-document/](https://gamedocs.org/category/design-document/)
+
+
+A collection of UI/UX documentation from Destiny (a great game that won awards for its UI :3)
+
+
+[http://www.cand.land/destiny](http://www.cand.land/destiny)
+
+
+The design doc for Sam and Max Hit the Road
+
+
+[https://web.archive.org/web/20180219004603/https://samandmax.co.uk/wp-content/uploads/Hit%20the%20Road%20design%20document.pdf](https://web.archive.org/web/20180219004603/https://samandmax.co.uk/wp-content/uploads/Hit%20the%20Road%20design%20document.pdf)
+
+
+The pitch document for Mythos
+
+
+[https://mega.nz/#!3aImBa6D!QUKtZYf_frlIgSUk2A096KNCQ9cfijr_38son-N4AGo](https://mega.nz/#!3aImBa6D!QUKtZYf_frlIgSUk2A096KNCQ9cfijr_38son-N4AGo)
+
+[https://web.archive.org/web/20220815160302/https://mega.nz/file/3aImBa6D](https://web.archive.org/web/20220815160302/https://mega.nz/file/3aImBa6D)
+
+
+The original vision document for Wasteland 2
+
+[https://drive.google.com/file/d/0BxMevjNSr2EjbDBpZ2ZMdmNnc28/view?resourcekey=0-2-ybLxFeJk2R5ROLOAB3oQ](https://drive.google.com/file/d/0BxMevjNSr2EjbDBpZ2ZMdmNnc28/view?resourcekey=0-2-ybLxFeJk2R5ROLOAB3oQ)
+
+[https://web.archive.org/web/20220815160247/https://drive.google.com/file/d/0BxMevjNSr2EjbDBpZ2ZMdmNnc28/view?resourcekey=0-2-ybLxFeJk2R5ROLOAB3oQ](https://web.archive.org/web/20220815160247/https://drive.google.com/file/d/0BxMevjNSr2EjbDBpZ2ZMdmNnc28/view?resourcekey=0-2-ybLxFeJk2R5ROLOAB3oQ)
+
+
+The design document and art book for Dirty Bomb
+
+[https://www.dirtybomb.com/news/the-design-of-dirty-bomb/](https://www.dirtybomb.com/news/the-design-of-dirty-bomb/)
+
+[https://web.archive.org/web/20220815160634/http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/dirty_bomb-game_design_document.pdf](https://web.archive.org/web/20220815160634/http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/dirty_bomb-game_design_document.pdf)
+
+[https://web.archive.org/web/20220815160724/http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/the_art_of_dirty_bomb.pdf](https://web.archive.org/web/20220815160724/http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/the_art_of_dirty_bomb.pdf)
+
+Concept document for What Remains of Edith Finch
+
+[https://www.giantsparrow.com/blog/news/wp-content/uploads/2018/04/Finch-Original-Concept-Doc.pdf](https://www.giantsparrow.com/blog/news/wp-content/uploads/2018/04/Finch-Original-Concept-Doc.pdf)
+
+[https://web.archive.org/web/20220815160819/https://www.giantsparrow.com/blog/news/wp-content/uploads/2018/04/Finch-Original-Concept-Doc.pdf](https://web.archive.org/web/20220815160819/https://www.giantsparrow.com/blog/news/wp-content/uploads/2018/04/Finch-Original-Concept-Doc.pdf)
 
 
 A repository of lots of maps and top-down views of levels 
@@ -866,9 +961,11 @@ A repository of lots of maps and top-down views of levels
 
 [https://gridpaper-maps.tumblr.com/](https://gridpaper-maps.tumblr.com/)
 
+<br />
 
 ## Audio 
 
+<br />
 
 🟪 A megalist of game audio learning resources! 
 
@@ -933,7 +1030,12 @@ Royalty free music! Just be sure to check the license
 [DOVA-SYNDROME YouTube Official](https://www.youtube.com/c/DOVASYNDROMEYouTubeOfficial)
 
 
+<br />
+
+
 ## Writing 
+
+<br />
 
 
 🟪 Inkle - a writing tool for games (that integrates well with Unity!)
@@ -960,7 +1062,12 @@ A template sheet for an exercise to write "Barks" or simple dialogue lines - goo
 [https://docs.google.com/spreadsheets/d/16WoJik9w93FHNOw8GrE4L0UAwTYJMsBQ6QSxZ1MYr9A/edit#gid=0](https://docs.google.com/spreadsheets/d/16WoJik9w93FHNOw8GrE4L0UAwTYJMsBQ6QSxZ1MYr9A/edit#gid=0)
 
 
+<br />
+
+
 ## Marketing and Business
+
+<br />
 
 
 🟪 How to Market a Game - A blog and a collection of resources (of special note, a few GDC talks) about marketing for games by Chris Zukowski - this is the only mailing list that I have ever willingly signed up for and gotten mileage out of :P
@@ -980,8 +1087,11 @@ Figuring out how viable your budget is for your game
 
 [https://ltpf.ramiismail.com/budget-viability/](https://ltpf.ramiismail.com/budget-viability/)
 
+<br />
 
 ## Job Hunting and Career
+
+<br />
 
 
 🟪 A huge list of job-hunting resources - multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocating
@@ -1054,7 +1164,12 @@ Why you need to clearly label personal work as personal work and not make your d
 [https://twitter.com/MemoPotato/status/1550209887401017344?s=20&t=6Kp0ZGR8XuZukP5eAz2MGA](https://twitter.com/MemoPotato/status/1550209887401017344?s=20&t=6Kp0ZGR8XuZukP5eAz2MGA)
 
 
+<br />
+
+
 ## Other 
+
+<br />
 
 
 🟪 Important productivity fuel (and what I used to hoard this list :P)

@@ -10,3 +10,4 @@
 
 
  - Image as many resources as possible on the internet archive, and use stable archive links in place of direct links. Start with UCI courses, those links are recycled every quarter and content gets locked off for students in-progress, so they're extremely unstable!
+   - Go here to archive a site: [https://archive.org/web/](https://archive.org/web/)
