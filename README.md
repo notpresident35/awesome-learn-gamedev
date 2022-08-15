@@ -141,10 +141,16 @@ A list of workshops and resources from the Video Game Development Club at the Un
 ## Programming 
 
 
-🟪 The Open Source University 
+🟪 The Open Source University - a complete study plan for a computer science education
 
 
 [https://github.com/ossu/computer-science](https://github.com/ossu/computer-science)
+
+
+🟪 Another complete study plan aimed at software engineers 
+
+[https://github.com/jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+
 
 
 🟪 The single best way to learn Unity. Trust me when I say this is the best $12 I have ever spent, or will ever spend. Wait for it to go on sale, then go pick this up.
@@ -157,12 +163,6 @@ A list of workshops and resources from the Video Game Development Club at the Un
 
 
 [https://www.udemy.com/course/unrealcourse/](https://www.udemy.com/course/unrealcourse/)
-
-
-🟪 How to Learn Software Design and Architecture - A list of resources
-
-
-[https://www.freecodecamp.org/news/software-design/](https://www.freecodecamp.org/news/software-design/)
 
 
 An introductory python course taught at MIT (free to access!) 
@@ -192,6 +192,12 @@ An introductory python course taught at MIT (free to access!)
 
 
 [https://github.com/miloyip/game-programmer](https://github.com/miloyip/game-programmer)
+
+
+🟪 How to Learn Software Design and Architecture - A list of resources
+
+
+[https://www.freecodecamp.org/news/software-design/](https://www.freecodecamp.org/news/software-design/)
 
 
 Interactive tutorials for math and algorithms 
