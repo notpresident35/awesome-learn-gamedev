@@ -88,7 +88,10 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 [https://ocw.mit.edu/](https://ocw.mit.edu/)
 
 
-🟪 More huge lists of resources! Some of these are old, unmaintained, or poorly curated, so beware broken links and the like, but they are worth including because they have lots of resources for different purposes!
+🟪 More huge lists of resources! Some of these are older so beware broken links and the like, but there's many, many more incredible things in here!
+
+
+[https://docs.google.com/document/d/1G0YTvNM8pzqjy_paxvEyVQSfb7KAJFGxJ5fY2ui8FEI/edit](https://docs.google.com/document/d/1G0YTvNM8pzqjy_paxvEyVQSfb7KAJFGxJ5fY2ui8FEI/edit)
 
 
 [https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers](https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers)
