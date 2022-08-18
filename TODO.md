@@ -6,7 +6,7 @@
     - A tutorial on how to extract a youtube playlist: [https://dtomoffcpa.medium.com/youtube-playlist-to-linked-list-in-excel-why-not-3a96297e980c](https://dtomoffcpa.medium.com/youtube-playlist-to-linked-list-in-excel-why-not-3a96297e980c)
 
 
- - Similarly, extract all links from each twitter thread and extract important text (if any).
+ - Similarly, extract all links from each twitter thread and extract any relevant text from the tweets themselves.
 
 
  - Image as many resources as possible on the internet archive, and use stable archive links in place of direct links. Start with UCI courses, those links are recycled every quarter and content gets locked off for students in-progress, so they're extremely unstable!

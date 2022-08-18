@@ -48,11 +48,11 @@ Got resources? Notice a broken link? Email me, shoot me a DM, or make a pull req
 
 For a few years now, I have been hoarding every gamedev resource I can get my grubby paws on. This is the result!
 
-My list is mostly for learning the craft of game development at a high level and getting hired for it. For lists of tools, communities, and assets, as well as more granular lists geared towards individual tools like Unity, check out [the gaming category of awesome](https://github.com/sindresorhus/awesome#gaming)
+This list is aimed at learning the craft of game development. It has been curated to offer general knowledge, as well as resources for each role and general hiring advice. It also contains courses/tutorials for specific tools wherever they are required for a role, and assets whenever they would enable a person to learn their own role without having to learn a prerequisite fole (for example, the animation section contains rigs). For tools, communities, and assets, as well as more granular lists for individual tools like Unity, check out [the gaming category of awesome](https://github.com/sindresorhus/awesome#gaming)
 
-Nearly all resources are free, and anything with a price tag will be clearly marked. I only include paid resources if either I have personally used them or I have seen other industry professionals use and recommend them.
+Nearly all resources are free, and anything with a price tag will be clearly marked. Paid resources are only included if they have been personally endorsed by an industry professional working in the relevant discipline.
 
-Suggestions and future-proofing efforts are always welcome! 
+Suggestions and future-proofing efforts are always welcome! Check out `TODO.md` for tasks that need completing, such as archival work.
 
 These resources made my career possible. I hope they are just as helpful for you!
 
@@ -296,6 +296,11 @@ Understanding ECS
 [https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/)
 
 
+A very extensive catalogue of live-streamed coding tutorials
+
+[https://handmadehero.org/](https://handmadehero.org/)
+
+
 A (slightly outdated) list of programming tutorials from the VGDC at UCI [https://docs.google.com/spreadsheets/d/1VxoJGdBmRrsYLx9MnaVmZ0iFc9Vcx4xGSqOuW2bisVM/edit#gid=2006991768](https://docs.google.com/spreadsheets/d/1VxoJGdBmRrsYLx9MnaVmZ0iFc9Vcx4xGSqOuW2bisVM/edit#gid=2006991768)
 
 
@@ -332,6 +337,12 @@ AI Game Dev.com - An AI development community with lots of resources. It only ex
 ### Graphics
 
 
+🟪 The Awesome list for Computer Graphics
+
+
+[https://github.com/luisnts/awesome-computer-graphics](https://github.com/luisnts/awesome-computer-graphics)
+
+
 🟪 A Megalist of Graphics Programming and Tech Art resources 
 
 
@@ -348,6 +359,11 @@ GPU Gems - Three (3) free books by Nvidia about GPU programming and architecture
 
 
 [http://simonschreibt.de/gat/renderhell/](http://simonschreibt.de/gat/renderhell/)
+
+
+"Painting with maths" - A youtube series about a *very* technical art form
+
+[https://www.youtube.com/c/InigoQuilez](https://www.youtube.com/c/InigoQuilez)
 
 
 How GPU memory works in D3D12
@@ -392,6 +408,16 @@ How SDFs work
 
 
 [https://gafferongames.com](https://gafferongames.com)
+
+
+Technical documentation from Valve about the netcode of source games
+
+[https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking)
+
+
+Technical documentation from Valve about accounting for latency 
+
+[https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization](https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization)
 
 
 Deterministic Netcode 
@@ -455,6 +481,12 @@ Pore over this for a good laugh :P
 [https://heartmachine.notion.site/Tech-Art-Learning-Resources-d2eb63aeca624cf59faab5a19b4a732d](https://heartmachine.notion.site/Tech-Art-Learning-Resources-d2eb63aeca624cf59faab5a19b4a732d)
 
 
+Materials from a tech art course (many are unexplained, since the class was delivered in-person, but they're still useful)
+
+
+[https://simonschreibt.de/gat/tech-art-course/](https://simonschreibt.de/gat/tech-art-course/)
+
+
 A blog by a developer for Crash Bandicoot discussing its rendering tech and the hardware limitations of the PS1 
 
 [https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/](https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/)
@@ -465,6 +497,12 @@ An extended breakdown of the procedural art tools of Hyper Light Breaker
 [https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1](https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1) 
 
 [https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2](https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2)
+
+
+Slightly mind-blowing writeup on the physics of the color blue
+
+[https://calebkruse.com/10-projects/seeing-blue/](https://calebkruse.com/10-projects/seeing-blue/)
+
 
 <br />
 
@@ -586,6 +624,12 @@ More art resources
 [https://cubebrush.co](https://cubebrush.co)
 
 
+A blog on art direction and leadership from a senior art director
+
+
+[https://genevieverouthier.art.blog/](https://genevieverouthier.art.blog/)
+
+
 Extremely professional-looking art, animation, and VFX courses - seems aimed at film with a large overlap in games. Beware of hefty price tag
 
 
@@ -601,6 +645,11 @@ Resources for Commissions
 
 
 [https://www.nadiaxel.com/post/free-ressources-for-commission-artists](https://www.nadiaxel.com/post/free-ressources-for-commission-artists)
+
+
+A whole lot of time-saving tools - I personally recommend Pureref
+
+[https://mobile.twitter.com/Marcel_Hampel/status/1559178642856484865](https://mobile.twitter.com/Marcel_Hampel/status/1559178642856484865)
 
 <br />
 
@@ -1068,6 +1117,10 @@ A template sheet for an exercise to write "Barks" or simple dialogue lines - goo
 [https://docs.google.com/spreadsheets/d/16WoJik9w93FHNOw8GrE4L0UAwTYJMsBQ6QSxZ1MYr9A/edit#gid=0](https://docs.google.com/spreadsheets/d/16WoJik9w93FHNOw8GrE4L0UAwTYJMsBQ6QSxZ1MYr9A/edit#gid=0)
 
 
+Neat blog on interactive storytelling
+[https://emshort.blog/](https://emshort.blog/)
+
+
 <br />
 
 
@@ -1100,7 +1153,7 @@ Figuring out how viable your budget is for your game
 <br />
 
 
-🟪 A huge list of job-hunting resources - multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocating
+🟪 A huge list of job-hunting resources - multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocation advice.
 
 
 [https://www.gameindustrycareerguide.com/video-game-job-hunt-guide/](https://www.gameindustrycareerguide.com/video-game-job-hunt-guide/)
@@ -1110,6 +1163,11 @@ Figuring out how viable your budget is for your game
 
 
 [https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit](https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit)
+
+
+🟪 Yet another list of resources and communities!
+
+[https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc)
 
 
 A big list of portfolios from industry professionals

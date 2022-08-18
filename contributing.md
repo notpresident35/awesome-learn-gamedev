@@ -1,9 +1,12 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project, you agree to abide by its terms.
 
-Before submitting pull request please :
+Before submitting a pull request please:
 
+- Read the About section of the readme in full, to ensure that your request is in line with the purpose of this list.
+    - Tools are cool, but only included out of necessity. Resources to learn said tools are preferable to the tools themselves. 
+    - Similarly, assets are included to enable work that relies on other roles. For example, art and music are included to support programmers and designers, and rigs are included to support animators. 
 - Ensure that new suggestions do not contain outdated information or broken links.
 - Ensure that all suggestions are legally sourced (in particular, watch for illegally distributed pdfs of books)
 - Ensure that all suggestions would be useful to others - I try to curate things, so don't over-do it on the links 
