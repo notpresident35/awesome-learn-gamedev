@@ -361,7 +361,7 @@ GPU Gems - Three (3) free books by Nvidia about GPU programming and architecture
 [http://simonschreibt.de/gat/renderhell/](http://simonschreibt.de/gat/renderhell/)
 
 
-"Painting with maths" - A youtube series about a *very* technical art form
+"Painting with maths" - A YouTube series about a _very_ technical art form
 
 [https://www.youtube.com/c/InigoQuilez](https://www.youtube.com/c/InigoQuilez)
 
