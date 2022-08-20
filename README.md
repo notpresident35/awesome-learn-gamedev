@@ -420,6 +420,15 @@ Technical documentation from Valve about accounting for latency
 [https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization](https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization)
 
 
+A four-part series on replication (that is, ensuring all players have consistent game state)
+
+
+[https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/)
+[https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/](https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/)
+[https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/](https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/)
+[https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/](https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/)
+
+
 Deterministic Netcode 
 
 
