@@ -424,8 +424,11 @@ A four-part series on replication (that is, ensuring all players have consistent
 
 
 [https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/)
+
 [https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/](https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/)
+
 [https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/](https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/)
+
 [https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/](https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/)
 
 
@@ -663,6 +666,11 @@ A whole lot of time-saving tools - I personally recommend Pureref
 <br />
 
 ### 2D/Illustration
+
+🟪 How To Draw - or much more importantly, how to _learn_ to draw
+
+[https://www.webtoons.com/en/challenge/how-to-draw-/intro-/viewer?title_no=730330&episode_no=1](https://www.webtoons.com/en/challenge/how-to-draw-/intro-/viewer?title_no=730330&episode_no=1)
+
 
 🟪 A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
 
