@@ -85,6 +85,16 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 
 🟪 [MIT Open Courseware](https://ocw.mit.edu/) - classes and materials from MIT (free to access)! 
 
+[Game Design Stuff](https://www.youtube.com/watch?v=Pb5oIIPO62g&list=PLZQDJJp3vTmB6awcmhFc9V6HG2bd9vofo&index=58) - Another mega-list of game development videos (primarily aimed at game design and programming)
+
+
+[Free Unity Assets](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/) - A massive list of assets, with a focus on Unity development
+
+
+[FOSS GameDev](https://docs.google.com/document/u/0/d/1HMtvSenYvd9SN58gTmRNs-FqiHhbnnVgkMEV5mqKKaQ/mobilebasic) - A list of Free and Open Source Software for every aspect of gamedev
+
+
+[VGDC at UCI Resources](https://docs.google.com/document/d/1yGzqp1Cq8emRasH0JHYMXE4-Z6xYxQ0GDe6ZyemctVM/edit) - A list of workshops and resources from the Video Game Development Club at the University of California, Irvine () 
 
 🟪 More huge lists of resources! Some of these are older so beware broken links and the like, but there's many, many more incredible things in here!
 
@@ -117,18 +127,6 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 
 
 [r/GameDesign Wiki Resources](https://www.reddit.com/r/gamedesign/wiki/index/)
-
-
-[Game Design Stuff](https://www.youtube.com/watch?v=Pb5oIIPO62g&list=PLZQDJJp3vTmB6awcmhFc9V6HG2bd9vofo&index=58) - Another mega-list of game development videos (primarily aimed at game design and programming)
-
-
-[Free Unity Assets](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/) - A massive list of assets, with a focus on Unity development
-
-
-[FOSS GameDev](https://docs.google.com/document/u/0/d/1HMtvSenYvd9SN58gTmRNs-FqiHhbnnVgkMEV5mqKKaQ/mobilebasic) - A list of Free and Open Source Software for every aspect of gamedev
-
-
-[VGDC at UCI Resources](https://docs.google.com/document/d/1yGzqp1Cq8emRasH0JHYMXE4-Z6xYxQ0GDe6ZyemctVM/edit) - A list of workshops and resources from the Video Game Development Club at the University of California, Irvine () 
 
 
 <br />
@@ -326,33 +324,19 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 <br />
 
 
-🟪 A list of tech art resources, communities, and professionals, curated by Heart Machine (the studio that made Hyper Light Drifter and now Hyper Light Breaker)
+🟪 [Tech Art Learning Resources](https://heartmachine.notion.site/Tech-Art-Learning-Resources-d2eb63aeca624cf59faab5a19b4a732d) - A list of tech art resources, communities, and professionals, curated by Heart Machine (the studio that made Hyper Light Drifter and now Hyper Light Breaker).
 
 
-[https://heartmachine.notion.site/Tech-Art-Learning-Resources-d2eb63aeca624cf59faab5a19b4a732d](https://heartmachine.notion.site/Tech-Art-Learning-Resources-d2eb63aeca624cf59faab5a19b4a732d)
+[Tech Art Course](https://simonschreibt.de/gat/tech-art-course/) - Materials from a tech art course (many are unexplained, since the class was delivered in-person, but they're still useful).
 
 
-Materials from a tech art course (many are unexplained, since the class was delivered in-person, but they're still useful)
+[Making Crash Bandicoot](https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/) - A blog post series from a developer of Crash Bandicoot discussing its rendering tech and the hardware limitations of the PS1.
 
 
-[https://simonschreibt.de/gat/tech-art-course/](https://simonschreibt.de/gat/tech-art-course/)
+[Proc Gen / HyperDec: Part 1](https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1) | [Part 2](https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2) - An extended breakdown of the procedural art tools of Hyper Light Breaker.
 
 
-A blog by a developer for Crash Bandicoot discussing its rendering tech and the hardware limitations of the PS1 
-
-[https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/](https://all-things-andy-gavin.com/2011/02/04/making-crash-bandicoot-part-3/)
-
-
-An extended breakdown of the procedural art tools of Hyper Light Breaker 
-
-[https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1](https://heartmachinez.tumblr.com/post/690221520736387072/proc-gen-hyperdec-part-1) 
-
-[https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2](https://heartmachinez.tumblr.com/post/690221567668568064/proc-gen-hyperdec-part-2)
-
-
-Slightly mind-blowing writeup on the physics of the color blue
-
-[https://calebkruse.com/10-projects/seeing-blue/](https://calebkruse.com/10-projects/seeing-blue/)
+[Seeing Blue](https://calebkruse.com/10-projects/seeing-blue/) - Slightly mind-blowing writeup on the physics of the color blue.
 
 
 <br />
@@ -360,57 +344,27 @@ Slightly mind-blowing writeup on the physics of the color blue
 ### Shaders 
 
 
-🟪 An Introduction to HLSL Shaders using Unity by Freya Holmer 
+🟪 [Shaders for Game Devs: Part 1](https://www.youtube.com/watch?v=kfM-yu0iQBk) | [Part 2](https://www.youtube.com/watch?v=mL8U8tIiRRg) | [Part 3](https://www.youtube.com/watch?v=E4PHFnvMzFc) - An Introduction to HLSL Shaders using Unity by Freya Holmer.
+
+🟪 [The Book of Shaders](https://thebookofshaders.com/00/) - A book on GLSL pixel shaders.
 
 
-Part 1: [https://www.youtube.com/watch?v=kfM-yu0iQBk](https://www.youtube.com/watch?v=kfM-yu0iQBk)
+🟪 [Catlike Coding](https://catlikecoding.com/unity/tutorials/) - Unity and HLSL Shader Tutorials.
+
+[Shadertoy](https://www.shadertoy.com/) - An online shader editor and hosting/sharing site.
 
 
-Part 2: [https://www.youtube.com/watch?v=mL8U8tIiRRg](https://www.youtube.com/watch?v=mL8U8tIiRRg)
+🟪 [Render Doc](https://renderdoc.org/) - A program that breaks down a frame rendered from a game and allows you to analyze processes that created it.
 
 
-Part 3:[https://www.youtube.com/watch?v=E4PHFnvMzFc](https://www.youtube.com/watch?v=E4PHFnvMzFc)
-
-🟪 The Book of Shaders 
+[Intro to Shader Graph](https://www.cyanilux.com/tutorials/intro-to-shader-graph/) - A detailed introduction to shader graph in Unity.
 
 
-[https://thebookofshaders.com/00/](https://thebookofshaders.com/00/)
+[Cyanilux](https://www.cyanilux.com/contents/) - Tutorials and shader breakdowns (same blog as above).
 
 
-🟪 Catlike Coding - Unity and HLSL Tutorials 
+[Shaderquest](https://halisavakis.com/category/shaderquest/) - A guide series from a blog about tech art.
 
-
-[https://catlikecoding.com/unity/tutorials/](https://catlikecoding.com/unity/tutorials/)
-
-
-Shadertoy - An online shader editor and hosting/sharing site 
-
-
-[https://www.shadertoy.com/](https://www.shadertoy.com/)
-
-
-🟪 Render Doc - A program that breaks down a frame rendered from a game and allows you to analyze processes that created it 
-
-
-[https://renderdoc.org/](https://renderdoc.org/)
-
-
-A Detailed Introduction to Shader Graph in Unity 
-
-
-[https://www.cyanilux.com/tutorials/intro-to-shader-graph/](https://www.cyanilux.com/tutorials/intro-to-shader-graph/)
-
-
-Lots of shader breakdowns and great tutorials (same blog as above) 
-
-
-[https://www.cyanilux.com/contents/](https://www.cyanilux.com/contents/)
-
-
-Shaderquest (a guide series from a blog about tech art) 
-
-
-[https://halisavakis.com/category/shaderquest/](https://halisavakis.com/category/shaderquest/)
 
 <br />
 
