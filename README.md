@@ -1,6 +1,8 @@
 # Learn Awesome Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A Mega-List of Learning Resources for Game Creators
+[<img src="images/MainIcon.png" align="right" width="128">](https://en.wikipedia.org/wiki/Easter_egg_(media))
+
+> A Mega-List of Learning Resources for Game Creators 
 
 <p>
 
@@ -66,87 +68,68 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 
 <br />
 
-### 🟪 New to game development? Start here
-
-### [Game Development Cheatsheets - 2018 Edition by allurious](https://allurious.itch.io/cheatsheets2018)
+### 🟪 [New to game development? Start here](https://allurious.itch.io/cheatsheets2018)
 
 <br />
 <br />
 
-🟪 "The Door Problem": A one-sentence summary of most major roles in a large studio, and a bigger explanation of a game designer's job
-
-[https://lizengland.com/blog/2014/04/the-door-problem/](https://lizengland.com/blog/2014/04/the-door-problem/)
+🟪 ["The Door Problem"](https://lizengland.com/blog/2014/04/the-door-problem/) - A one-sentence summary of most major roles in a large studio, and a bigger explanation of a game designer's job
 
 
-🟪 My mega-playlist of great gamedev videos (conference talks, tutorials, analyses, etc)
+
+🟪 [My mega-playlist of great gamedev videos](https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn) - Conference talks, tutorials, analyses, etc
 
 
-[https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn](https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn)
+🟪 [GameDev Contacts](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml) - A huge list of professional game developers you can contact for advice! Be courteous - these are real people! Curated by Joe Hobbs - @JLHGameArt on Twitter
 
 
-🟪 A huge list of professional game developers you can contact for advice! Be courteous - these are real people! Curated by Joe Hobbs - @JLHGameArt on Twitter [https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml)
-
-
-🟪 MIT Open Courseware - classes and materials from MIT (free to access)! 
-
-
-[https://ocw.mit.edu/](https://ocw.mit.edu/)
+🟪 [MIT Open Courseware](https://ocw.mit.edu/) - classes and materials from MIT (free to access)! 
 
 
 🟪 More huge lists of resources! Some of these are older so beware broken links and the like, but there's many, many more incredible things in here!
 
 
-[https://docs.google.com/document/d/1G0YTvNM8pzqjy_paxvEyVQSfb7KAJFGxJ5fY2ui8FEI/edit](https://docs.google.com/document/d/1G0YTvNM8pzqjy_paxvEyVQSfb7KAJFGxJ5fY2ui8FEI/edit)
+[Game Industry Resources](https://docs.google.com/document/d/1G0YTvNM8pzqjy_paxvEyVQSfb7KAJFGxJ5fY2ui8FEI/edit)
 
 
-[https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers](https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers)
+[38 Great Resources for Game Developers](https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers)
 
 
-[https://github.com/Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources)
+[GameDev Resources](https://github.com/Kavex/GameDev-Resources)
 
 
-[https://github.com/Hengle/gamedev-resources-1](https://github.com/Hengle/gamedev-resources-1)
+[Gamedev Resources](https://github.com/Hengle/gamedev-resources-1)
 
 
-[https://community.gamedev.tv/t/wiki-free-cheap-indie-gamedev-resources/1948](https://community.gamedev.tv/t/wiki-free-cheap-indie-gamedev-resources/1948)
+[Free & Cheap Indie GameDev Resources](https://community.gamedev.tv/t/wiki-free-cheap-indie-gamedev-resources/1948)
 
 
-[https://letsmakegames.info/game-dev-resources](https://letsmakegames.info/game-dev-resources)
+[Game Dev Resources](https://letsmakegames.info/game-dev-resources)
 
 
-[https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/](https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/)
+[The Ultimate List of Free and Low-Cost Developer Tools and Resources](https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/)
 
 
-[https://www.tomlooman.com/game-development-learning-resources/](https://www.tomlooman.com/game-development-learning-resources/)
+[Game Development Learning Resources](https://www.tomlooman.com/game-development-learning-resources/)
 
 
-[https://www.reddit.com/r/gamedev/wiki/index/](https://www.reddit.com/r/gamedev/wiki/index/)
+[r/GameDev Wiki Resources](https://www.reddit.com/r/gamedev/wiki/index/)
 
 
-[https://www.reddit.com/r/gamedesign/wiki/index/](https://www.reddit.com/r/gamedesign/wiki/index/)
+[r/GameDesign Wiki Resources](https://www.reddit.com/r/gamedesign/wiki/index/)
 
 
-
-Another mega-list of game development videos (primarily aimed at game design and programming)
-
-
-[https://www.youtube.com/watch?v=Pb5oIIPO62g&list=PLZQDJJp3vTmB6awcmhFc9V6HG2bd9vofo&index=58](https://www.youtube.com/watch?v=Pb5oIIPO62g&list=PLZQDJJp3vTmB6awcmhFc9V6HG2bd9vofo&index=58)
+[Game Design Stuff](https://www.youtube.com/watch?v=Pb5oIIPO62g&list=PLZQDJJp3vTmB6awcmhFc9V6HG2bd9vofo&index=58) - Another mega-list of game development videos (primarily aimed at game design and programming)
 
 
-A massive list of assets, with a focus on Unity development
+[Free Unity Assets](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/) - A massive list of assets, with a focus on Unity development
 
 
-[https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
+[FOSS GameDev](https://docs.google.com/document/u/0/d/1HMtvSenYvd9SN58gTmRNs-FqiHhbnnVgkMEV5mqKKaQ/mobilebasic) - A list of Free and Open Source Software for every aspect of gamedev
 
 
-A list of Free and Open Source Software (FOSS) for every aspect of gamedev
+[VGDC at UCI Resources](https://docs.google.com/document/d/1yGzqp1Cq8emRasH0JHYMXE4-Z6xYxQ0GDe6ZyemctVM/edit) - A list of workshops and resources from the Video Game Development Club at the University of California, Irvine () 
 
-
-[https://docs.google.com/document/u/0/d/1HMtvSenYvd9SN58gTmRNs-FqiHhbnnVgkMEV5mqKKaQ/mobilebasic](https://docs.google.com/document/u/0/d/1HMtvSenYvd9SN58gTmRNs-FqiHhbnnVgkMEV5mqKKaQ/mobilebasic)
-
-A list of workshops and resources from the Video Game Development Club at the University of California, Irvine (VGDC at UCI) 
-
-[https://docs.google.com/document/d/1yGzqp1Cq8emRasH0JHYMXE4-Z6xYxQ0GDe6ZyemctVM/edit](https://docs.google.com/document/d/1yGzqp1Cq8emRasH0JHYMXE4-Z6xYxQ0GDe6ZyemctVM/edit)
 
 <br />
 
@@ -155,333 +138,184 @@ A list of workshops and resources from the Video Game Development Club at the Un
 <br />
 
 
-🟪 The Open Source University - a complete study plan for a computer science education
+🟪 [The Open Source University](https://github.com/ossu/computer-science) - A complete study plan for a computer science education.
 
 
-[https://github.com/ossu/computer-science](https://github.com/ossu/computer-science)
+🟪 [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Another complete study plan aimed at software engineers.
 
 
-🟪 Another complete study plan aimed at software engineers 
+🟪 [Complete Unity Game Developer by GameDev.tv](https://www.udemy.com/course/unitycourse2/) - The single best way to learn Unity. Trust me when I say this is the best $12 I have ever spent, or will ever spend. Wait for it to go on sale, then go pick this up.
 
-[https://github.com/jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
+🟪 [Unreal Engine 5 C++ Developer](https://www.udemy.com/course/unrealcourse/) - Same as above, but with Unreal 5. This course is invaluable - I know several full-time developers who learned from gamedev.tv, they are a gem. Wait for it to go on sale, then go pick this up.
 
 
-🟪 The single best way to learn Unity. Trust me when I say this is the best $12 I have ever spent, or will ever spend. Wait for it to go on sale, then go pick this up.
+[Intro to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) An introductory python course taught at MIT (free to access!)
 
 
-[https://www.udemy.com/course/unitycourse2/](https://www.udemy.com/course/unitycourse2/)
+🟪 [Programming in C++ as a Second Language](https://www.ics.uci.edu/~thornton/ics45c/Notes/) - A C++ course taught at the University of California, Irvine (free to access!) 
 
 
-🟪 Same as above, but with Unreal 5. This course is invaluable - I know several full-time developers who learned from gamedev.tv, they are a gem. Wait for it to go on sale, then go pick this up.
+🟪 [Data Structure Implementation and Analysis](https://www.ics.uci.edu/~thornton/ics46/index.html) - A course on data structures and algorithms taught at the University of California, Irvine (free to access!)
 
 
-[https://www.udemy.com/course/unrealcourse/](https://www.udemy.com/course/unrealcourse/)
+🟪 [Game Programming Patterns](https://gameprogrammingpatterns.com/) - A free book on programming patterns for games.
 
 
-An introductory python course taught at MIT (free to access!) 
+🟪 [A Study Path for Game Programmers](https://github.com/miloyip/game-programmer) - A huge collection of game programming book titles and covers organized by specialization, with fancy flow charts between each title for a recommended reading order! Note that the books are _not_ included - a quick search should help you out with that ;]
 
-[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
+🟪 [How to Learn Software Design and Architecture](https://www.freecodecamp.org/news/software-design/) - A list of resources for software architecture.
 
-🟪 A C++ course taught at the University of California, Irvine (free to access!) 
 
+[Redblob](https://www.redblobgames.com/) - Interactive tutorials for math and algorithms.
 
-[https://www.ics.uci.edu/~thornton/ics45c/Notes/](https://www.ics.uci.edu/~thornton/ics45c/Notes/)
 
+[Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/) - A book on algorithms. Pricey, look for it in a library or "something" (wink) first.
 
-🟪 A course on data structures and algorithms taught at the University of California, Irvine (free to access!) 
 
+[Math for Game Programmers](https://gamemath.com/book/intro.html) - A free book on math for game programmers.
 
-[https://www.ics.uci.edu/~thornton/ics46/index.html](https://www.ics.uci.edu/~thornton/ics46/index.html)
 
+[Mature Optimization](https://carlos.bueno.org/optimization/) - A free book on structuring code for performance, as well as testing large systems.
 
-🟪 Game Programming Patterns - A free book on programming patterns for games
 
+🟪 [Data Oriented Design](https://www.dataorienteddesign.com/dodbook/dodmain.html) - A free book on data-oriented design, an alternative to object-oriented programming
 
-[https://gameprogrammingpatterns.com/](https://gameprogrammingpatterns.com/)
 
+[generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) - A free book on generating functions.
 
-🟪 A study path for game programmers - A huge collection of game programming book titles and covers organized by specialization, with fancy flow charts between each title for a recommended reading order! Note that the books are _not_ included - a quick search should help you out with that ;]
 
+[C++ for C# Developers](https://www.jacksondunstan.com/articles/5530) - An extensive tutorial series.
 
-[https://github.com/miloyip/game-programmer](https://github.com/miloyip/game-programmer)
+🟪 [Game Engine Architecture](https://www.gameenginebook.com/) - A book on game engines. About $25 for the e-book, probably worth the investment if you plan to be an engine, tools, or graphics programmer.
 
 
-🟪 How to Learn Software Design and Architecture - A list of resources
+[Design Patterns](https://refactoring.guru/design-patterns/) - A free book with _very_ pretty illustrations.
 
 
-[https://www.freecodecamp.org/news/software-design/](https://www.freecodecamp.org/news/software-design/)
+[Rethinking Design Patterns](https://blog.codinghorror.com/rethinking-design-patterns/) - An interesting criticism of the above book. I believe there is a response to this on the design patterns site.
 
 
-Interactive tutorials for math and algorithms 
+[Making a Game Engine](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT) - For the engine programmers and the insane: save yourself some trouble and watch this instead of making yet another game engine ^^
 
 
-[https://www.redblobgames.com/](https://www.redblobgames.com/)
+[C# for Beginners](https://www.robmiles.com/c-yellow-book) - A free book on C#
 
 
-Introduction to Algorithms - A book on algorithms. Pricey, look for it in a library or something (wink) first
+[Gamedev in Rust for Beginners](https://arewegameyet.rs/#resources) - A collection of books, tutorials, articles, and a community to boot.
 
 
-[https://mitpress.mit.edu/9780262046305/](https://mitpress.mit.edu/9780262046305/)
+[DemoFox](https://blog.demofox.org) - A blog with lots and lots of programming, graphics, and math tutorials and breakdowns.
 
 
-Math for Game Programmers - A free book on math for game programmers
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - A video series meant as a supplement for a class on Linear Algebra, made by 3Blue1Brown.
 
 
-[https://gamemath.com/book/intro.html](https://gamemath.com/book/intro.html)
+[Understanding ECS](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/) - A blog post about Entity Component System design and implementation.
 
 
-Mature Optimization - A free book on structuring code for performance 
+[HandMadeHero](https://handmadehero.org/) - A very extensive catalogue of live-streamed coding tutorials.
 
 
-[https://carlos.bueno.org/optimization/](https://carlos.bueno.org/optimization/)
+[VGDC at UCI Programming](https://docs.google.com/spreadsheets/d/1VxoJGdBmRrsYLx9MnaVmZ0iFc9Vcx4xGSqOuW2bisVM/edit#gid=2006991768) - A (slightly outdated) list of programming tutorials from the VGDC at UCI.
 
 
-🟪 Data Oriented Design - A free book on data-oriented design, an alternative to object-oriented programming
-
-
-[https://www.dataorienteddesign.com/dodbook/dodmain.html](https://www.dataorienteddesign.com/dodbook/dodmain.html)
-
-
-generatingfunctionology - A free book on generating functions 
-
-
-[https://www2.math.upenn.edu/~wilf/DownldGF.html](https://www2.math.upenn.edu/~wilf/DownldGF.html)
-
-
-C++ for C# Developers - An extensive tutorial series
-
-
-[https://www.jacksondunstan.com/articles/5530](https://www.jacksondunstan.com/articles/5530)
-
-
-🟪 Game Engine Architecture - A book on game engines. About $25 for the e-book, but probably worth the investment if you plan to be an engine, tools, or graphics programmer.
-
-
-[https://www.gameenginebook.com/](https://www.gameenginebook.com/)
-
-
-Design Patterns - A free book with _very_ pretty illustrations (and also, an interesting criticism of said book - I believe there is a response to this on the design patterns site)
-
-[https://refactoring.guru/design-patterns/](https://refactoring.guru/design-patterns/)
-
-[https://blog.codinghorror.com/rethinking-design-patterns/](https://blog.codinghorror.com/rethinking-design-patterns/)
-
-
-Making a Game Engine (for the engine programmers and the insane: save yourself some trouble and watch this instead of making yet another game engine ^^) 
-
-
-[https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
-
-
-C# for beginners - A free book
-
-
-[https://www.robmiles.com/c-yellow-book](https://www.robmiles.com/c-yellow-book)
-
-
-Gamedev in Rust for beginners - a collection of books, tutorials, articles, and a community to boot
-
-
-[https://arewegameyet.rs/#resources](https://arewegameyet.rs/#resources)
-
-
-A blog with lots and lots of programming, graphics, and math tutorials and breakdowns
-
-[https://blog.demofox.org](https://blog.demofox.org)
-
-
-Essence of Linear Algebra - A video series meant as a supplement for a class on Linear Algebra, made by 3Blue1Brown
-
-[https://www.youtube.com/playlist?app=desktop&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab](https://www.youtube.com/playlist?app=desktop&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-
-
-Understanding ECS
-[https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/)
-
-
-A very extensive catalogue of live-streamed coding tutorials
-
-[https://handmadehero.org/](https://handmadehero.org/)
-
-
-A (slightly outdated) list of programming tutorials from the VGDC at UCI [https://docs.google.com/spreadsheets/d/1VxoJGdBmRrsYLx9MnaVmZ0iFc9Vcx4xGSqOuW2bisVM/edit#gid=2006991768](https://docs.google.com/spreadsheets/d/1VxoJGdBmRrsYLx9MnaVmZ0iFc9Vcx4xGSqOuW2bisVM/edit#gid=2006991768)
-
-
-Optimization tips for Unity (I fully expect this link to break lol - if it does, ask me for the pdf!)
-
-[https://images.response.unity3d.com/Web/Unity/%7B5dc4de9b-9e59-4860-b933-eb6daae82ecd%7D_Unity_Games_Optimization_Best_Practices-v5.pdf?utm_campaign=___&utm_content=2019-11-Gaming-ISS-eBook&utm_medium=email&utm_source=Eloqua](https://images.response.unity3d.com/Web/Unity/%7B5dc4de9b-9e59-4860-b933-eb6daae82ecd%7D_Unity_Games_Optimization_Best_Practices-v5.pdf?utm_campaign=___&utm_content=2019-11-Gaming-ISS-eBook&utm_medium=email&utm_source=Eloqua)
+[Optimization tips for Unity](https://web.archive.org/web/20220830175614/https://images.response.unity3d.com/Web/Unity/%7B5dc4de9b-9e59-4860-b933-eb6daae82ecd%7D_Unity_Games_Optimization_Best_Practices-v5.pdf) - Some tips from Unity about optimizing their games.
 
 <br />
 
 ### Gameplay
 
 
-🟪 A study reference sheet for gameplay engineers - perfect for intermediate programmers looking to shore up their technical knowledge to get hired (note: this is currently being migrated. It is incomplete at time of writing, but I have also included the future-proof link)
+🟪 [Study Reference Sheet for Gameplay Engineers](https://docs.google.com/document/d/1qIkaxtSfrtmgvO_yh-h187by7EIyrl61a3EaF40xBLs/edit#heading=h.ejywv1aotlnc) - Perfect for intermediate programmers looking to shore up their technical knowledge to prep for an interview. Note: this is currently being migrated. It is incomplete at time of writing, but I have also included [the future-proof link](https://www.mrventures.net/get-into-gamedev.html).
 
 
-[https://docs.google.com/document/d/1qIkaxtSfrtmgvO_yh-h187by7EIyrl61a3EaF40xBLs/edit#heading=h.ejywv1aotlnc](https://docs.google.com/document/d/1qIkaxtSfrtmgvO_yh-h187by7EIyrl61a3EaF40xBLs/edit#heading=h.ejywv1aotlnc)
-
-[https://www.mrventures.net/get-into-gamedev.html](https://www.mrventures.net/get-into-gamedev.html)
+🟪 [Game AI Pro](http://www.gameaipro.com/) - Three (3) free books (or more accurately, volumes of short papers) on game AI. Notable authors include Steve Rabin, a DigiPen professor who teaches AI for games.
 
 
-🟪 Game AI Pro - 3 free books, or more accurately volumes of short papers on game AI. Notable authors include Steve Rabin, a DigiPen professor who teaches AI for games.
+[AI Game Dev.com](https://web.archive.org/web/20190107192021/http://aigamedev.com/page/free-features/page/3/) - An AI development community with lots of resources. It only exists on the internet archive, so be wary of outdated knowledge and broken links.
 
-
-[http://www.gameaipro.com/](http://www.gameaipro.com/)
-
-
-AI Game Dev.com - An AI development community with lots of resources. It only exists on the internet archive - be wary of outdated knowledge and broken links.
-
-
-[https://web.archive.org/web/20190107192021/http://aigamedev.com/page/free-features/page/3/](https://web.archive.org/web/20190107192021/http://aigamedev.com/page/free-features/page/3/)
 
 <br />
 
 ### Graphics
 
 
-🟪 The Awesome list for Computer Graphics
+🟪 [The Awesome list for Computer Graphics](https://github.com/luisnts/awesome-computer-graphics)
 
 
-[https://github.com/luisnts/awesome-computer-graphics](https://github.com/luisnts/awesome-computer-graphics)
+🟪 [Graphics](https://guerilla-tactics.com/hats/graphics/) - A Megalist of Graphics Programming and Tech Art resources 
 
 
-🟪 A Megalist of Graphics Programming and Tech Art resources 
+[GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Three (3) free books by Nvidia about GPU programming and architecture
 
 
-[https://guerilla-tactics.com/hats/graphics/](https://guerilla-tactics.com/hats/graphics/)
+🟪 [Render Hell](http://simonschreibt.de/gat/renderhell/) - An overview of graphics and everything rendering for programmers. Covers an overview, with lots of references to books and other resources for deeper reading.
 
 
-GPU Gems - Three (3) free books by Nvidia about GPU programming and architecture
+["Painting with maths"](https://www.youtube.com/c/InigoQuilez) - A YouTube series about a _very_ technical art form
 
 
-[https://developer.nvidia.com/gpugems/gpugems/contributors](https://developer.nvidia.com/gpugems/gpugems/contributors)
+[How GPU memory works in D3D12](https://therealmjp.github.io/posts/gpu-memory-pool/)
 
 
-🟪 An overview of graphics and everything rendering for programmers. Has lots of references to books and other resources, letting you dig as far as you would like into the nitty gritty or stick to an overview
+[A comparison of modern graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) (namely, Vulkan, DirectX, Metal, WebGPU, and OpenGL)
 
 
-[http://simonschreibt.de/gat/renderhell/](http://simonschreibt.de/gat/renderhell/)
+[A comparison of 3D file formats](http://liu.diva-portal.org/smash/get/diva2:462098/FULLTEXT01.pdf)
 
 
-"Painting with maths" - A YouTube series about a _very_ technical art form
+[How SDFs work](https://jasmcole.com/2019/10/03/signed-distance-fields/)
 
-[https://www.youtube.com/c/InigoQuilez](https://www.youtube.com/c/InigoQuilez)
-
-
-How GPU memory works in D3D12
-
-
-[https://therealmjp.github.io/posts/gpu-memory-pool/](https://therealmjp.github.io/posts/gpu-memory-pool/)
-
-
-A comparison of modern graphics APIs (namely, Vulkan, DirectX, Metal, WebGPU, and OpenGL)
-
-
-[https://alain.xyz/blog/comparison-of-modern-graphics-apis](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
-
-
-A comparison of 3D file formats
-
-
-[http://liu.diva-portal.org/smash/get/diva2:462098/FULLTEXT01.pdf](http://liu.diva-portal.org/smash/get/diva2:462098/FULLTEXT01.pdf)
-
-How SDFs work
-
-[https://jasmcole.com/2019/10/03/signed-distance-fields/](https://jasmcole.com/2019/10/03/signed-distance-fields/)
 
 <br />
 
 ### Networking
 
 
-🟪 A course on multiplayer and networking in Unity. Gamedev.tv is an incredible resource - wait for it to go on sale, then go pick this up.
+🟪 [Unity Multiplayer by GameDev.tv](https://www.udemy.com/course/unity-multiplayer/) - A course on multiplayer and networking in Unity. Wait for it to go on sale, then go pick this up.
 
 
-[https://www.udemy.com/course/unity-multiplayer/](https://www.udemy.com/course/unity-multiplayer/)
+🟪 [Unreal Multiplayer by GameDev.tv](https://www.udemy.com/course/unrealmultiplayer/) - A course on multiplayer and networking in Unreal. Wait for it to go on sale, then go pick this up. 
 
 
-🟪 A course on multiplayer and networking in Unreal. Wait for it to go on sale, then go pick this up. 
+🟪 [GafferOnGames](https://gafferongames.com) - A bunch of articles on netcode for games.
 
 
-[https://www.udemy.com/course/unrealmultiplayer/](https://www.udemy.com/course/unrealmultiplayer/)
+[Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Technical documentation from Valve about the netcode of source games.
 
 
-🟪 A bunch of articles on netcode for games
+[Latency Compensating Methods](https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization) - Technical documentation from Valve about accounting for latency.
 
 
-[https://gafferongames.com](https://gafferongames.com)
+[Replication -
+Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/)
+ | [Part 2](https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/)
+ | [Part 3](https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/)
+ | [Part 4](https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/) - A four-part series on replication (that is, ensuring all players have consistent game state).
 
 
-Technical documentation from Valve about the netcode of source games
+[Deterministic Netcode](https://yal.cc/preparing-your-game-for-deterministic-netcode/)
 
-[https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking)
-
-
-Technical documentation from Valve about accounting for latency 
-
-[https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization](https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization)
-
-
-A four-part series on replication (that is, ensuring all players have consistent game state)
-
-
-[https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/)
-
-[https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/](https://0fps.net/2014/02/17/replication-in-networked-games-latency-part-2/)
-
-[https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/](https://0fps.net/2014/02/26/replication-in-networked-games-spacetime-consistency-part-3/)
-
-[https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/](https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/)
-
-
-Deterministic Netcode 
-
-
-[https://yal.cc/preparing-your-game-for-deterministic-netcode/](https://yal.cc/preparing-your-game-for-deterministic-netcode/)
 
 <br />
 
 ### Fun
 
 
-Music for Programming 
+[Music for Programming](https://musicforprogramming.net/latest/)
 
 
-[https://musicforprogramming.net/latest/](https://musicforprogramming.net/latest/) 
+[Good](https://www.techwell.com/techwell-insights/2013/12/why-best-programmers-are-lazy-and-act-dumb). [Advice](http://blogoscoped.com/archive/2005-08-24-n14.html). [Repeated](https://kilon.org/why-good-programmers-are-lazy-and-dumb/).
+ [Ad nauseum](https://blog.codinghorror.com/how-to-be-lazy-dumb-and-successful/) - Swallow your pride, and optimize out busywork
 
 
-Good advice repeated ad nauseum: swallow your pride, and optimize out busywork
+[The Case of the Missing Rewards](https://www.bungie.net/en/Explore/Detail/News/50140) - A very interesting breakdown of a particularly tricky bug in Destiny and how it was found and fixed 
 
-[https://www.techwell.com/techwell-insights/2013/12/why-best-programmers-are-lazy-and-act-dumb](https://www.techwell.com/techwell-insights/2013/12/why-best-programmers-are-lazy-and-act-dumb)
+[C is not a Low-Level Language](https://queue.acm.org/detail.cfm?id=3212479) - An article on why C is not a low-level language, and performance as a result of that
 
-
-[http://blogoscoped.com/archive/2005-08-24-n14.html](http://blogoscoped.com/archive/2005-08-24-n14.html)
-
-
-[https://kilon.org/why-good-programmers-are-lazy-and-dumb/](https://kilon.org/why-good-programmers-are-lazy-and-dumb/)
-
-
-[https://blog.codinghorror.com/how-to-be-lazy-dumb-and-successful/](https://blog.codinghorror.com/how-to-be-lazy-dumb-and-successful/)
-
-
-A very interesting breakdown of a particularly tricky bug in Destiny and how it was found and fixed 
-
-
-[https://www.bungie.net/en/Explore/Detail/News/50140](https://www.bungie.net/en/Explore/Detail/News/50140)
-
-
-An article on why C is not a low-level language, and performance as a result of that
-
-[https://queue.acm.org/detail.cfm?id=3212479](https://queue.acm.org/detail.cfm?id=3212479)
-
-
-Pore over this for a good laugh :P
-
-
-[http://sigbovik.org](http://sigbovik.org)
+[Sigbovik](http://sigbovik.org) - Pore over this for a good laugh :P
 
 
 <br />
