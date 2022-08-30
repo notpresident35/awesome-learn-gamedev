@@ -73,6 +73,11 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 <br />
 <br />
 
+🟪 "The Door Problem": A one-sentence summary of most major roles in a large studio, and a bigger explanation of a game designer's job
+
+[https://lizengland.com/blog/2014/04/the-door-problem/](https://lizengland.com/blog/2014/04/the-door-problem/)
+
+
 🟪 My mega-playlist of great gamedev videos (conference talks, tutorials, analyses, etc)
 
 
@@ -1186,6 +1191,10 @@ Figuring out how viable your budget is for your game
 
 [https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc)
 
+
+🟪 A comprehensive list of gaming jobs and specialties (includes both game development and esports)
+
+[https://hitmarker.net/career-advice/the-complete-list-of-gaming-esports-jobs](https://hitmarker.net/career-advice/the-complete-list-of-gaming-esports-jobs)
 
 A big list of portfolios from industry professionals
 
