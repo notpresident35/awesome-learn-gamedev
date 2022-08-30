@@ -240,13 +240,13 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 ### Graphics
 
 
-🟪 [The Awesome list for Computer Graphics](https://github.com/luisnts/awesome-computer-graphics)
+🟪 [The Awesome list for Computer Graphics](https://github.com/luisnts/awesome-computer-graphics) - Another awesome list specifically tailored to this topic, albeit not games-focused.
 
 
-🟪 [Graphics](https://guerilla-tactics.com/hats/graphics/) - A Megalist of Graphics Programming and Tech Art resources 
+🟪 [Graphics](https://guerilla-tactics.com/hats/graphics/) - A Megalist of Graphics Programming and Tech Art resources.
 
 
-[GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Three (3) free books by Nvidia about GPU programming and architecture
+[GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Three (3) free books by Nvidia about GPU programming and architecture.
 
 
 🟪 [Render Hell](http://simonschreibt.de/gat/renderhell/) - An overview of graphics and everything rendering for programmers. Covers an overview, with lots of references to books and other resources for deeper reading.
@@ -255,16 +255,16 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 ["Painting with maths"](https://www.youtube.com/c/InigoQuilez) - A YouTube series about a _very_ technical art form
 
 
-[How GPU memory works in D3D12](https://therealmjp.github.io/posts/gpu-memory-pool/)
+[GPU Memory pools in D3D12](https://therealmjp.github.io/posts/gpu-memory-pool/) - How GPU memory works in Direct3D 12.
 
 
-[A comparison of modern graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) (namely, Vulkan, DirectX, Metal, WebGPU, and OpenGL)
+[A comparison of modern graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis) - A blog post comparing graphics APIs (namely, Vulkan, DirectX, Metal, WebGPU, and OpenGL).
 
 
-[A comparison of 3D file formats](http://liu.diva-portal.org/smash/get/diva2:462098/FULLTEXT01.pdf)
+[A comparison of 3D file formats](http://liu.diva-portal.org/smash/get/diva2:462098/FULLTEXT01.pdf) - A bachelor thesis on 3D file formats.
 
 
-[How SDFs work](https://jasmcole.com/2019/10/03/signed-distance-fields/)
+[How SDFs work](https://jasmcole.com/2019/10/03/signed-distance-fields/) - A blog post on signed distance fields.
 
 
 <br />
@@ -294,7 +294,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
  | [Part 4](https://0fps.net/2014/03/09/replication-in-network-games-bandwidth-part-4/) - A four-part series on replication (that is, ensuring all players have consistent game state).
 
 
-[Deterministic Netcode](https://yal.cc/preparing-your-game-for-deterministic-netcode/)
+[Deterministic Netcode](https://yal.cc/preparing-your-game-for-deterministic-netcode/) - A blog post about ensuring consistency across game clients, given the same initial state and inputs.
 
 
 <br />
@@ -306,12 +306,12 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 
 
 [Good](https://www.techwell.com/techwell-insights/2013/12/why-best-programmers-are-lazy-and-act-dumb). [Advice](http://blogoscoped.com/archive/2005-08-24-n14.html). [Repeated](https://kilon.org/why-good-programmers-are-lazy-and-dumb/).
- [Ad nauseum](https://blog.codinghorror.com/how-to-be-lazy-dumb-and-successful/) - Swallow your pride, and optimize out busywork
+ [Ad nauseum](https://blog.codinghorror.com/how-to-be-lazy-dumb-and-successful/) - Swallow your pride, and optimize out busywork.
 
 
-[The Case of the Missing Rewards](https://www.bungie.net/en/Explore/Detail/News/50140) - A very interesting breakdown of a particularly tricky bug in Destiny and how it was found and fixed 
+[The Case of the Missing Rewards](https://www.bungie.net/en/Explore/Detail/News/50140) - A very interesting breakdown of a particularly tricky bug in Destiny and how it was found and fixed.
 
-[C is not a Low-Level Language](https://queue.acm.org/detail.cfm?id=3212479) - An article on why C is not a low-level language, and performance as a result of that
+[C is not a Low-Level Language](https://queue.acm.org/detail.cfm?id=3212479) - An article on why C is not a low-level language, and performance as a result of that.
 
 [Sigbovik](http://sigbovik.org) - Pore over this for a good laugh :P
 
@@ -371,31 +371,18 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 ### VFX
 
 
-🟪 Getting Started in Real Time VFX - Also check out the rest of this website (realtimevfx.com) to find a thriving community filled with useful knowledge and amazing people
+🟪 [Getting Started in Real Time VFX](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415) - Also check out the rest of this website (realtimevfx.com) to find a thriving community filled with useful knowledge and amazing people.
 
 
-[https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415)
+🟪 [VFX Talks Playlist](https://www.youtube.com/watch?v=YPy2hytwDLM&list=PLdiateg_U8PFnlScGDJDQeHUX9qmYvsxv) - A playlist of VFX talks at GDC (the linked video is about Diablo, and is very insightful).
 
+🟪 [BiteyCastle Academy 2DFX Animation Course](https://chluaid.gumroad.com/l/bcafx) - A full 2D FX animation course (completely free!)
 
-🟪 A fantastic list of VFX talks at GDC (this one is about Diablo, and is very insightful) 
+[VFX Apprentice](https://www.vfxapprentice.com) - Several VFX courses geared towards developing a professional portfolio. _Very_ pricey, but may be worth your while if you are serious about VFX - it is a _hell_ of a lot cheaper than art school.
 
-[https://www.youtube.com/watch?v=YPy2hytwDLM&list=PLdiateg_U8PFnlScGDJDQeHUX9qmYvsxv](https://www.youtube.com/watch?v=YPy2hytwDLM&list=PLdiateg_U8PFnlScGDJDQeHUX9qmYvsxv)
+[Houdini Isnt Scary - Part 1: Basics](https://www.youtube.com/watch?v=Tsv8UGqDibc&list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W&index=5) - A playlist of a Houdini tutorial series.
 
-🟪 A full 2D FX animation course (completely free!)
-
-[https://chluaid.gumroad.com/l/bcafx](https://chluaid.gumroad.com/l/bcafx)
-
-Several VFX courses geared towards developing a professional portfolio. _Very_ pricey, but may be worth your while if you are serious about VFX - it is a _hell_ of a lot cheaper than art school.
-
-[https://www.vfxapprentice.com](https://www.vfxapprentice.com)
-
-A Houdini tutorial series
-
-[Houdini Isnt Scary - Part 1: Basics](https://www.youtube.com/watch?v=Tsv8UGqDibc)
-
-Unity VFX Tutorial
-
-[https://stylizedstation.com/article/realtime-unity-vfx-tutorial-the-3-core-elements-you-need-to-know/](https://stylizedstation.com/article/realtime-unity-vfx-tutorial-the-3-core-elements-you-need-to-know/)
+[Realtime Unity VFX](https://stylizedstation.com/article/realtime-unity-vfx-tutorial-the-3-core-elements-you-need-to-know/) - A Unity VFX Tutorial.
 
 
 <br />
