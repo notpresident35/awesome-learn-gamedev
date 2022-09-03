@@ -96,38 +96,17 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 
 [VGDC at UCI Resources](https://docs.google.com/document/d/1yGzqp1Cq8emRasH0JHYMXE4-Z6xYxQ0GDe6ZyemctVM/edit) - A list of workshops and resources from the Video Game Development Club at the University of California, Irvine () 
 
-🟪 More huge lists of resources! Some of these are older so beware broken links and the like, but there's many, many more incredible things in here!
-
-
-[Game Industry Resources](https://docs.google.com/document/d/1G0YTvNM8pzqjy_paxvEyVQSfb7KAJFGxJ5fY2ui8FEI/edit)
-
-
-[38 Great Resources for Game Developers](https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers)
-
-
-[GameDev Resources](https://github.com/Kavex/GameDev-Resources)
-
-
-[Gamedev Resources](https://github.com/Hengle/gamedev-resources-1)
-
-
-[Free & Cheap Indie GameDev Resources](https://community.gamedev.tv/t/wiki-free-cheap-indie-gamedev-resources/1948)
-
-
-[Game Dev Resources](https://letsmakegames.info/game-dev-resources)
-
-
-[The Ultimate List of Free and Low-Cost Developer Tools and Resources](https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/)
-
-
-[Game Development Learning Resources](https://www.tomlooman.com/game-development-learning-resources/)
-
-
-[r/GameDev Wiki Resources](https://www.reddit.com/r/gamedev/wiki/index/)
-
-
-[r/GameDesign Wiki Resources](https://www.reddit.com/r/gamedesign/wiki/index/)
-
+🟪 More huge lists of resources, with many, many more incredible things! Some of these are older, so beware broken links and the like.
+- [Game Industry Resources](https://docs.google.com/document/d/1G0YTvNM8pzqjy_paxvEyVQSfb7KAJFGxJ5fY2ui8FEI/edit)
+- [38 Great Resources for Game Developers](https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers)
+- [GameDev Resources](https://github.com/Kavex/GameDev-Resources)
+- [Gamedev Resources](https://github.com/Hengle/gamedev-resources-1)
+- [Free & Cheap Indie GameDev Resources](https://community.gamedev.tv/t/wiki-free-cheap-indie-gamedev-resources/1948)
+- [Game Dev Resources](https://letsmakegames.info/game-dev-resources)
+- [The Ultimate List of Free and Low-Cost Developer Tools and Resources](https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/)
+- [Game Development Learning Resources](https://www.tomlooman.com/game-development-learning-resources/)
+- [r/GameDev Wiki Resources](https://www.reddit.com/r/gamedev/wiki/index/)
+- [r/GameDesign Wiki Resources](https://www.reddit.com/r/gamedesign/wiki/index/)
 
 <br />
 
@@ -392,207 +371,106 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 
 <br />
 
-
-🟪 A Megalist of Art Resources!
-
-
-[https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3)
+🟪 [Art Industry Resources](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3) - A Megalist of Art Resources!
 
 
-🟪 Fantastic pixel art animation tutorials by Saint11
+🟪 [Saint11: Tutorials](https://saint11.org/blog/pixel-art-tutorials/) | [Articles](https://saint11.org/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
 
 
-[https://www.patreon.com/saint11](https://www.patreon.com/saint11)
-
-[https://saint11.org/blog/pixel-art-tutorials/](https://saint11.org/blog/pixel-art-tutorials/)
+[CubeBrush](https://cubebrush.co) - A marketplace for art resources, with tutorials, assets, brushes, tools, etc.
 
 
-[https://saint11.org/pixel_articles/](https://saint11.org/pixel_articles/)
+[Genevieve Routhier](https://genevieverouthier.art.blog/) - A blog on art direction and leadership from a senior art director.
 
 
-More art resources
+[The Gnomon Workshop](https://www.thegnomonworkshop.com) - Extremely professional-looking art, animation, and VFX courses. Seems aimed at film with a large overlap in games. Beware of hefty price tag.
 
 
-[https://cubebrush.co](https://cubebrush.co)
+[Smithsonian Open Access](https://www.si.edu/openaccess) - A massive repository of 3D and 2D digital resources from the Smithsonian Institute archives, such as photos and 3D scans of historical objects. Perfect for reference and creative commons reuse!
 
 
-A blog on art direction and leadership from a senior art director
+[Resources for Commission Artists](https://www.nadiaxel.com/post/free-ressources-for-commission-artists) - If you want to open yourself up for commission work, this is a godsend.
 
 
-[https://genevieverouthier.art.blog/](https://genevieverouthier.art.blog/)
-
-
-Extremely professional-looking art, animation, and VFX courses - seems aimed at film with a large overlap in games. Beware of hefty price tag
-
-
-[https://www.thegnomonworkshop.com](https://www.thegnomonworkshop.com)
-
-
-Smithsonian Open Access - A massive repository of 3D and 2D digital resources from the Smithsonian Institute archives, such as photos and 3D scans of historical objects. Perfect for reference and creative commons reuse!
-
-[https://www.si.edu/openaccess](https://www.si.edu/openaccess)
-
-
-Resources for Commissions 
-
-
-[https://www.nadiaxel.com/post/free-ressources-for-commission-artists](https://www.nadiaxel.com/post/free-ressources-for-commission-artists)
-
-
-A whole lot of time-saving tools - I personally recommend Pureref
-
-[https://mobile.twitter.com/Marcel_Hampel/status/1559178642856484865](https://mobile.twitter.com/Marcel_Hampel/status/1559178642856484865)
+[A whole lot of time-saving tools](https://mobile.twitter.com/Marcel_Hampel/status/1559178642856484865) - I personally recommend Pureref.
 
 <br />
 
 ### 2D/Illustration
 
-🟪 How To Draw - or much more importantly, how to _learn_ to draw
-
-[https://www.webtoons.com/en/challenge/how-to-draw-/intro-/viewer?title_no=730330&episode_no=1](https://www.webtoons.com/en/challenge/how-to-draw-/intro-/viewer?title_no=730330&episode_no=1)
+🟪 [How To Draw](https://www.webtoons.com/en/challenge/how-to-draw-/intro-/viewer?title_no=730330&episode_no=1) - An webcomic on how to draw, and much more importantly, how to _learn_ to draw.
 
 
-🟪 A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
-
-[https://www.brendanmeachen.com/soloartist](https://www.brendanmeachen.com/soloartist)
+🟪 [Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist) - A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
 
 
-🟪 An exhaustive course for the art fundamentals (completely free!)
-
-[https://drawabox.com/](https://drawabox.com/)
+🟪 [DrawABox](https://drawabox.com/) - An exhaustive course for the art fundamentals (completely free!)
 
 
-🟪 A Pixel Art gold mine (Job Board, Pallette Database, Tutorials, Resources, and more) 
-
-[https://lospec.com/](https://lospec.com/)
+🟪 [LoSpec](https://lospec.com/) - A Pixel Art gold mine (Job Board, Pallette Database, Tutorials, Resources, and more).
 
 
-🟪 Figure Drawing Fundamentals 
+🟪 [Proko Figure Drawing Fundamentals](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM) - An exhaustive series on drawing people from a reputable channel.
 
 
-[https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM)
+🟪 [How to Learn Digital Painting (Beginners)](https://www.youtube.com/watch?v=iwRa5qTnr8o) - A guide to digital painting for beginners and intermediate painters. See other tutorials by Sinix for guides aimed at more advanced artists.
 
 
-A fantastic guide to digital painting, for beginners and intermediate painters (also, check out this entire channel! Sinix tutorials are best in class)
+[Cut-Out People](https://www.vishopper.com/cut-out-people) - A searchable repository of extremely diverse reference images for humans, with filters for easy search (IE "1 woman age 20-40 with dog from the front" or "3 people sitting in a home")
 
 
-[How to Learn Digital Painting (Beginners)](https://www.youtube.com/watch?v=iwRa5qTnr8o)
+[Artist Resources by Corey](https://docs.google.com/document/d/1DLccwkSK1B8fJ3TV4X1-8ktiDmzgnelkNMamZfz3hYE/edit) - A list of art resources, primarily human figure reference material.
 
 
-A list of art resources, primarily human figure reference material
+[Drawing the Head and Hands](https://ia601608.us.archive.org/8/items/andrew-loomis-drawing-the-head-hands/andrew-loomis-drawing-the-head-hands.pdf) - A book on figure construction by Andrew Loomis. Free in the public domain!
+
+[Figure Drawing for All its Worth](https://archive.org/details/loomis_FIGURE_draw) - A book on figure drawing by Andrew Loomis. Free in the public domain!
 
 
-[https://docs.google.com/document/d/1DLccwkSK1B8fJ3TV4X1-8ktiDmzgnelkNMamZfz3hYE/edit](https://docs.google.com/document/d/1DLccwkSK1B8fJ3TV4X1-8ktiDmzgnelkNMamZfz3hYE/edit)
+[Digital Inking Tips](https://www.youtube.com/watch?v=NBE-RTFkXDk) - A good guide to sharpening your technical skills.
 
 
-Drawing the Head and Hands - A book on figure construction by Andrew Loomis. Free in the public domain!
-
-[https://www.alexhays.com/loomis/Andrew%20Loomis%20-%20Drawing%20the%20Head%20and%20Hands.pdf](https://www.alexhays.com/loomis/Andrew%20Loomis%20-%20Drawing%20the%20Head%20and%20Hands.pdf)
-
-And a backup link to the above
-
-[https://ia601608.us.archive.org/8/items/andrew-loomis-drawing-the-head-hands/andrew-loomis-drawing-the-head-hands.pdf](https://ia601608.us.archive.org/8/items/andrew-loomis-drawing-the-head-hands/andrew-loomis-drawing-the-head-hands.pdf)
-
-Figure Drawing for All its Worth - A book on figure drawing by Andrew Loomis. Free in the public domain!
-
-[https://illustrationage.files.wordpress.com/2013/04/andrew-loomis-figure-drawing-for-all-its-worth.pdf](https://illustrationage.files.wordpress.com/2013/04/andrew-loomis-figure-drawing-for-all-its-worth.pdf)
-
-And a backup link to the above
-
-[https://archive.org/details/loomis_FIGURE_draw](https://archive.org/details/loomis_FIGURE_draw)
+[Human Anatomy for the Head](https://www.youtube.com/watch?v=2T7cDY7YDsg) - A lesson on human anatomy for artists, breaking down the head.
 
 
-A good guide to sharpening your technical skills
+[Lines and Edges](https://bryan-sturm.github.io/articles/lines-and-edges/) - A neat style guide for using edges and lines effectively.
 
 
-[Clean Line Art!  Digital Inking Tips](https://www.youtube.com/watch?v=NBE-RTFkXDk)
-
-
-Good figure references
-
-
-[https://www.vishopper.com/cut-out-people](https://www.vishopper.com/cut-out-people)
-
-
-Human Anatomy for the Head 
-
-
-[https://www.youtube.com/watch?v=2T7cDY7YDsg](https://www.youtube.com/watch?v=2T7cDY7YDsg)
-
-
-A neat style guide for using edges and lines effectively
-
-
-[https://bryan-sturm.github.io/articles/lines-and-edges/](https://bryan-sturm.github.io/articles/lines-and-edges/)
-
-
-Need a quick confidence boost? Watch this :3
-
-
-[What Level Is Your Art? [Scribble Kibble #39]](https://www.youtube.com/watch?v=j38HRF17YMA)
+[What Level Is Your Art?](https://www.youtube.com/watch?v=j38HRF17YMA) - Need a quick confidence boost? Watch this :3
 
 <br />
 
 ### 3D
 
-🟪 The best resource for thinking about 3D art, possibly ever 
+🟪 [World Building in Blender by Ian Hubert](https://www.youtube.com/watch?v=whPWKecazgM) - The best resource for thinking about 3D art, possibly ever.
 
 
-[World Building in Blender - Ian Hubert](https://www.youtube.com/watch?v=whPWKecazgM)
+🟪 [Sculpting in Blender](https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro) - A short, free course on sculpting in Blender.
 
 
-
-🟪 Sculpting in Blender 
-
-[https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro](https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro)
+🟪 [Photorealism Explained](https://www.youtube.com/watch?v=R1-Ef54uTeU) - An explanation of photorealism and how it is achieved in CG.
 
 
-🟪 Photorealism, explained
-
-[Photorealism Explained](https://www.youtube.com/watch?v=R1-Ef54uTeU)
-
-
-Royalty Free Textures, Models, HDRIs, and Assets! 
-
-
-[https://www.textures.com/](https://www.textures.com/)
-
-
-[https://publicdomaintextures.com/](https://publicdomaintextures.com/)
-
-
-[https://polyhaven.com/](https://polyhaven.com/)
-    
-
-[https://poly.pizza](https://Poly.Pizza)
+Royalty-Free Textures, Models, HDRIs, and Assets!
+- [Textures](https://www.textures.com/)
+- [More Textures](https://publicdomaintextures.com/)
+- [HDRIs, Textures, and Models](https://polyhaven.com/)
 
 <br />
 
 ### Animation
 
 
-🟪 An essential resource for any animator - has a price tag, but if you want to get a job in industry, it is well worth your money. 
+🟪 [The Animator's Survival Kit](http://www.theanimatorssurvivalkit.com) - An essential resource for any animator. Has a price tag, but if you want to get a job in industry, it is well worth your money.
 
 
-[http://www.theanimatorssurvivalkit.com](http://www.theanimatorssurvivalkit.com)
+[The 12 Principles of Animation](https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd) - A visual tutorial series on a fundamental part of animation.
 
 
-A visual tutorial series on the 12 principles of animation
+[Hybrid 02 Maya Rig](https://oninationsquad.gumroad.com/l/hybrid02) - A humanoid rig for Maya, free for non-commercial use.
 
 
-[https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd](https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd)
-
-
-A good (and free!) Maya humanoid rig
-
-
-[https://oninationsquad.gumroad.com/l/hybrid02](https://oninationsquad.gumroad.com/l/hybrid02)
-
-
-A great humanoid body and face rig by Chris Jones ($200 license, but would be very worth it for serious animators) 
-
-
-[https://cjones.gumroad.com/l/JJuKG](https://cjones.gumroad.com/l/JJuKG)
+[Universal Human Body & Face Rig](https://cjones.gumroad.com/l/JJuKG) - A generic humanoid body and face rig by Chris Jones, with many advanced features. $200 license, but would be very worth it for serious animators looking to animate for realism.
 
 <br />
 
@@ -600,24 +478,14 @@ A great humanoid body and face rig by Chris Jones ($200 license, but would be ve
 
 Note that there are many, many more resources out there - these are primarily included as a way to build a polished-looking game even while learning a different discipline.
 
-
 Royalty Free Game Art! 
+- [Open Game Art](https://opengameart.org/)
+- [2D and 3D assets](http://www.kenney.nl/)
+- [Game Icons](https://game-icons.net/)
+- [Low-Poly Models](https://Poly.Pizza)
 
 
-[https://opengameart.org/](https://opengameart.org/)
-
-
-[http://www.kenney.nl/](http://www.kenney.nl/)
-
-
-[https://game-icons.net/](https://game-icons.net/)
-
-
-
-A great post/thread with lots of free art assets and tools
-
-
-[https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/](https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/)
+[100% free assets](https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/) - A post and thread with lots of free art assets and tools.
 
 
 <br />
@@ -628,190 +496,100 @@ A great post/thread with lots of free art assets and tools
 <br />
 
 
-🟪 The Art of Game Design - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money
+🟪 [The Art of Game Design](https://www.schellgames.com/art-of-game-design/) - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money.
 
 
-[https://www.schellgames.com/art-of-game-design/](https://www.schellgames.com/art-of-game-design/)
+🟪 [The Design of Everyday Things](https://www.sunyoungkim.org/class/old/hci_f18/pdf/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf) - A book on design in everything, basically mandatory reading for designers.
 
 
-🟪 The Design of Everyday Things - A book on design in everything, basically mandatory reading for designers
-
-[https://www.sunyoungkim.org/class/old/hci_f18/pdf/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf](https://www.sunyoungkim.org/class/old/hci_f18/pdf/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf)
+🟪 [Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/) - A list of accessibility features, organized by implementation difficulty. Also includes testimonials for each feature and the impact it makes on people, as well as best practice examples and implementation resources (tools, guides, etc) where available.
 
 
-🟪 Game Accessibility Guidelines 
+🟪 [Game Design](https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/) - A Game Design class taught at MIT (free to access!) 
 
 
-[https://gameaccessibilityguidelines.com/](https://gameaccessibilityguidelines.com/)
+[How to make a Game Design Document](https://www.gamedesigning.org/learn/game-design-document/) - A tutorial on writing Game Design Documents (GDDs).
 
 
-🟪 A Game Design class taught at MIT (free to access!) 
+🟪 [The Evolution of Trust](https://ncase.me/trust/) - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.
 
 
-[https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/](https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/)
+🟪 [Extra Credits: So You Want To Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc) | [All Extra Credits Episodes](https://www.youtube.com/watch?v=KG1ziCvLkJ0&list=PLB9B0CA00461BB187&index=534) - A channel on game design that was far ahead of its time. Their backlog is filled with invaluable advice, though their more recent content has a controversial reputation, and they've largely pivoted away from games into history and literature. Start with their career video(s), then dig into their backlog of game design videos.
 
 
-A tutorial on writing Game Design Documents (GDDs) 
+🟪 [The Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) - A playable video essay/game, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from GMTK.
 
 
-[https://www.gamedesigning.org/learn/game-design-document/](https://www.gamedesigning.org/learn/game-design-document/)
+[GDKeys](https://gdkeys.com/) - A collection of articles and tools created by Nico, a senior game designer.
 
 
-🟪 The Evolution of Trust - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class
+[MDA](https://users.cs.northwestern.edu/~hunicke/MDA.pdf) - Mechanics -> Design -> Aesthetics, or a formal approach to game design and research.
 
 
-[https://ncase.me/trust/](https://ncase.me/trust/)
+[Hooked](https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive) - An interactive article on the psychology of gambling and addiction.
 
 
-🟪 Extra Credits - A channel on game design that was far ahead of its time, though their more recent content is more controversial. Their whole backlog is fantastic, but start with this video, and then dig into their playlist of game design videos
+[Design in Detail: Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3](https://www.gdcvault.com/play/1012211/Design-in-Detail-Changing-the) - A talk on why minute tuning matters.
 
 
-[So You Want To Be a Game Designer - Career Advice for Making Games - Extra Credits](https://www.youtube.com/watch?v=zQvWMdWhFCc)
+[GB 'Doc' Burford](https://docseuss.medium.com) - One of my favorite design and art writers - breaks down games and writes about them (check out the ones on the balance and economy of Destiny)
 
 
-[https://www.youtube.com/watch?v=pm8KdLPOm2c&list=PLhyKYa0YJ_5BkTruCmaBBZ8z6cP9KzPiX&index=1](https://www.youtube.com/watch?v=pm8KdLPOm2c&list=PLhyKYa0YJ_5BkTruCmaBBZ8z6cP9KzPiX&index=1)
-
-
-🟪 A playable video essay/game, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from GMTK
-
-
-[https://gmtk.itch.io/platformer-toolkit](https://gmtk.itch.io/platformer-toolkit)
-
-
-GDKeys - A collection of articles and tools created by Nico, a senior game designer
-
-
-[https://gdkeys.com/](https://gdkeys.com/)
-
-
-MDA - Mechanics -> Design -> Aesthetics, or a formal approach to game design and research
-
-
-[https://users.cs.northwestern.edu/~hunicke/MDA.pdf](https://users.cs.northwestern.edu/~hunicke/MDA.pdf)
-
-
-Hooked - An interactive article on the psychology of gambling and addiction
-
-
-[https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive](https://www.theguardian.com/australia-news/datablog/ng-interactive/2017/sep/28/hooked-how-pokies-are-designed-to-be-addictive)
-
-
-Tuning the sniper rifle in Halo 
-
-
-[https://www.gdcvault.com/play/1012211/Design-in-Detail-Changing-the](https://www.gdcvault.com/play/1012211/Design-in-Detail-Changing-the)
-
-
-One of my favorite design and art writers - breaks down games and writes about them (check out the ones on the balance and economy of Destiny)
-
-[https://docseuss.medium.com](https://docseuss.medium.com)
-
-
-A breakdown of the design thinking and solutions that went into an extremely specific 3D camera
-
-[https://etodd.io/2017/11/28/poor-mans-3d-camera/](https://etodd.io/2017/11/28/poor-mans-3d-camera/)
+[The Poor Man's 3D Camera](https://etodd.io/2017/11/28/poor-mans-3d-camera/) - A breakdown of the design thinking and solutions that went into an extremely specific 3D camera
 
 <br />
 
 ### Level Design
 
 
-A great level design tool 
+[Tiled](https://www.mapeditor.org/) - A free and open source map editor 
 
 
-[https://www.mapeditor.org/](https://www.mapeditor.org/)
-
-
-Level Design and How To Get Into It 
-
-
-[https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/)
+[Level Design and How To Get Into It](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/) - A gentle introduction to level design.
 
 <br />
 
 ### UI/UX
 
 
-🟪 A huge list of UI/UX resources!
+🟪 [WE CAN FIX IT IN UI](https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1) - A huge list of UI/UX resources!
 
 
-[https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1](https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1)
+🟪 [Game UI Database](https://www.gameuidatabase.com/index.php) - A searchable repository of UI designs from many different games to use as reference.
 
 
-🟪 A database of UI from many different games 
+[Laws of UX](https://lawsofux.com/en/) - Best practices of UX design.
 
 
-[https://www.gameuidatabase.com/index.php](https://www.gameuidatabase.com/index.php)
-
-
-Best practices of UX design
-
-
-[https://lawsofux.com/en/](https://lawsofux.com/en/)
-
-
-A 100-day daily UI design challenge 
-
-
-[https://www.dailyui.co/](https://www.dailyui.co/)
+[Daily UI](https://www.dailyui.co/) - A 100-day daily UI design challenge.
 
 <br />
 
 ### Reference
 
 
-A collection of design documents from completed games - links have been ripped and placed below
+[Game Docs](https://gamedocs.org/category/design-document/) - A collection of design documents from completed games - links have been ripped and placed below.
 
 
-[https://gamedocs.org/category/design-document/](https://gamedocs.org/category/design-document/)
+[Destiny](http://www.cand.land/destiny) - A collection of UI/UX documentation from Destiny (a game that won awards for its UI) by David Candland.
 
 
-A collection of UI/UX documentation from Destiny (a great game that won awards for its UI :3)
+[Hit the Road GDD](https://web.archive.org/web/20180219004603/https://samandmax.co.uk/wp-content/uploads/Hit%20the%20Road%20design%20document.pdf) - The design document for Sam and Max Hit the Road.
 
 
-[http://www.cand.land/destiny](http://www.cand.land/destiny)
+[Mythos Pitch Domcument](https://mega.nz/#!3aImBa6D!QUKtZYf_frlIgSUk2A096KNCQ9cfijr_38son-N4AGo) - The pitch deck for Mythos.
 
 
-The design doc for Sam and Max Hit the Road
+[Wasteland 2 Vision Document](https://drive.google.com/file/d/0BxMevjNSr2EjbDBpZ2ZMdmNnc28/view?resourcekey=0-2-ybLxFeJk2R5ROLOAB3oQ) - The original vision document for Wasteland 2.
 
 
-[https://web.archive.org/web/20180219004603/https://samandmax.co.uk/wp-content/uploads/Hit%20the%20Road%20design%20document.pdf](https://web.archive.org/web/20180219004603/https://samandmax.co.uk/wp-content/uploads/Hit%20the%20Road%20design%20document.pdf)
+[The Design of Dirty Bomb](https://www.dirtybomb.com/news/the-design-of-dirty-bomb/) - The design document and art book for Dirty Bomb. Archived pdf links: [Design](https://web.archive.org/web/20220815160634/http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/dirty_bomb-game_design_document.pdf) | [Art](https://web.archive.org/web/20220815160724/http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/the_art_of_dirty_bomb.pdf)
 
 
-The pitch document for Mythos
+[Finch Concept Doc](https://web.archive.org/web/20220815160819/https://www.giantsparrow.com/blog/news/wp-content/uploads/2018/04/Finch-Original-Concept-Doc.pdf) - Concept document for What Remains of Edith Finch.
 
 
-[https://mega.nz/#!3aImBa6D!QUKtZYf_frlIgSUk2A096KNCQ9cfijr_38son-N4AGo](https://mega.nz/#!3aImBa6D!QUKtZYf_frlIgSUk2A096KNCQ9cfijr_38son-N4AGo)
-
-[https://web.archive.org/web/20220815160302/https://mega.nz/file/3aImBa6D](https://web.archive.org/web/20220815160302/https://mega.nz/file/3aImBa6D)
-
-
-The original vision document for Wasteland 2
-
-[https://drive.google.com/file/d/0BxMevjNSr2EjbDBpZ2ZMdmNnc28/view?resourcekey=0-2-ybLxFeJk2R5ROLOAB3oQ](https://drive.google.com/file/d/0BxMevjNSr2EjbDBpZ2ZMdmNnc28/view?resourcekey=0-2-ybLxFeJk2R5ROLOAB3oQ)
-
-[https://web.archive.org/web/20220815160247/https://drive.google.com/file/d/0BxMevjNSr2EjbDBpZ2ZMdmNnc28/view?resourcekey=0-2-ybLxFeJk2R5ROLOAB3oQ](https://web.archive.org/web/20220815160247/https://drive.google.com/file/d/0BxMevjNSr2EjbDBpZ2ZMdmNnc28/view?resourcekey=0-2-ybLxFeJk2R5ROLOAB3oQ)
-
-
-The design document and art book for Dirty Bomb
-
-[https://www.dirtybomb.com/news/the-design-of-dirty-bomb/](https://www.dirtybomb.com/news/the-design-of-dirty-bomb/)
-
-[https://web.archive.org/web/20220815160634/http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/dirty_bomb-game_design_document.pdf](https://web.archive.org/web/20220815160634/http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/dirty_bomb-game_design_document.pdf)
-
-[https://web.archive.org/web/20220815160724/http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/the_art_of_dirty_bomb.pdf](https://web.archive.org/web/20220815160724/http://db-design.splashdamage.com.s3-eu-west-1.amazonaws.com/the_art_of_dirty_bomb.pdf)
-
-Concept document for What Remains of Edith Finch
-
-[https://www.giantsparrow.com/blog/news/wp-content/uploads/2018/04/Finch-Original-Concept-Doc.pdf](https://www.giantsparrow.com/blog/news/wp-content/uploads/2018/04/Finch-Original-Concept-Doc.pdf)
-
-[https://web.archive.org/web/20220815160819/https://www.giantsparrow.com/blog/news/wp-content/uploads/2018/04/Finch-Original-Concept-Doc.pdf](https://web.archive.org/web/20220815160819/https://www.giantsparrow.com/blog/news/wp-content/uploads/2018/04/Finch-Original-Concept-Doc.pdf)
-
-
-A repository of lots of maps and top-down views of levels 
-
-
-[https://gridpaper-maps.tumblr.com/](https://gridpaper-maps.tumblr.com/)
+[Grid Paper](https://gridpaper-maps.tumblr.com/) - A repository of maps and top-down views of levels.
 
 <br />
 
