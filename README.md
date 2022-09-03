@@ -201,6 +201,9 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 [Optimization tips for Unity](https://web.archive.org/web/20220830175614/https://images.response.unity3d.com/Web/Unity/%7B5dc4de9b-9e59-4860-b933-eb6daae82ecd%7D_Unity_Games_Optimization_Best_Practices-v5.pdf) - Some tips from Unity about optimizing their games.
 
 
+<br />
+
+
 ### Gameplay
 
 
@@ -211,6 +214,9 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 
 
 [AI Game Dev.com](https://web.archive.org/web/20190107192021/http://aigamedev.com/page/free-features/page/3/) - An AI development community with lots of resources. It only exists on the internet archive, so be wary of outdated knowledge and broken links.
+
+
+<br />
 
 
 ### Graphics
@@ -243,6 +249,9 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 [How SDFs work](https://jasmcole.com/2019/10/03/signed-distance-fields/) - A blog post on signed distance fields.
 
 
+<br />
+
+
 ### Networking
 
 
@@ -269,6 +278,9 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 
 
 [Deterministic Netcode](https://yal.cc/preparing-your-game-for-deterministic-netcode/) - A blog post about ensuring consistency across game clients, given the same initial state and inputs.
+
+
+<br />
 
 
 ### Fun
@@ -311,6 +323,9 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Seeing Blue](https://calebkruse.com/10-projects/seeing-blue/) - Slightly mind-blowing writeup on the physics of the color blue.
 
 
+<br />
+
+
 ### Shaders 
 
 
@@ -334,6 +349,9 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 
 
 [Shaderquest](https://halisavakis.com/category/shaderquest/) - A guide series from a blog about tech art.
+
+
+<br />
 
 
 ### VFX
@@ -384,6 +402,9 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [A whole lot of time-saving tools](https://mobile.twitter.com/Marcel_Hampel/status/1559178642856484865) - I personally recommend Pureref.
 
 
+<br />
+
+
 ### 2D/Illustration
 
 
@@ -428,6 +449,9 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [What Level Is Your Art?](https://www.youtube.com/watch?v=j38HRF17YMA) - Need a quick confidence boost? Watch this :3
 
 
+<br />
+
+
 ### 3D
 
 
@@ -444,6 +468,9 @@ Royalty-Free Textures, Models, HDRIs, and Assets!
 - [Textures](https://www.textures.com/)
 - [More Textures](https://publicdomaintextures.com/)
 - [HDRIs, Textures, and Models](https://polyhaven.com/)
+
+
+<br />
 
 
 ### Animation
@@ -526,6 +553,9 @@ Royalty Free Game Art!
 [The Poor Man's 3D Camera](https://etodd.io/2017/11/28/poor-mans-3d-camera/) - A breakdown of the design thinking and solutions that went into an extremely specific 3D camera
 
 
+<br />
+
+
 ### Level Design
 
 
@@ -533,6 +563,9 @@ Royalty Free Game Art!
 
 
 [Level Design and How To Get Into It](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/) - A gentle introduction to level design.
+
+
+<br />
 
 
 ### UI/UX
@@ -548,6 +581,9 @@ Royalty Free Game Art!
 
 
 [Daily UI](https://www.dailyui.co/) - A 100-day daily UI design challenge.
+
+
+<br />
 
 
 ### Reference
