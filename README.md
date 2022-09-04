@@ -493,7 +493,7 @@ Royalty-Free Textures, Models, HDRIs, and Assets!
 
 Note that there are many, many more resources out there - these are primarily included as a way to build a polished-looking game even while learning a different discipline.
 
-Royalty Free Game Art! 
+Royalty Free Game Art! Don't forget to check the license.
 - [Open Game Art](https://opengameart.org/)
 - [2D and 3D assets](http://www.kenney.nl/)
 - [Game Icons](https://game-icons.net/)
@@ -618,67 +618,30 @@ Royalty Free Game Art!
 
 <br />
 
-🟪 A megalist of game audio learning resources! 
+🟪 [Game Audio Learning Resources](https://docs.google.com/spreadsheets/d/1fcuhGEesLC_PWCwY3dIwLgF774sKswOwIcZECWiH7Xo/edit#gid=0) A megalist of game audio learning resources! 
 
 
-[https://docs.google.com/spreadsheets/d/1fcuhGEesLC_PWCwY3dIwLgF774sKswOwIcZECWiH7Xo/edit#gid=0](https://docs.google.com/spreadsheets/d/1fcuhGEesLC_PWCwY3dIwLgF774sKswOwIcZECWiH7Xo/edit#gid=0)
+🟪 [The Sound Effects Bible](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf) - A book on everything sound effects.
 
 
-🟪 The Sound Effects Bible - A book on sound effects
-
-[https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf)
-
-🟪 Another list of resources!
-
-[https://twitter.com/chiragmachhar/status/1511446337639927811](https://twitter.com/chiragmachhar/status/1511446337639927811)
+🟪 [Another list of resources!](https://twitter.com/chiragmachhar/status/1511446337639927811) - Direct links to said resources: [The Bible of Getting a Job in Game Audio](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit) | [Power Up Audio Reel Reviews](https://www.youtube.com/user/PowerUpAudio) | [Courses on audio implementation in Unreal](https://twitter.com/TheNewTeed/status/1505820433005826049) - [(in case the tweet gets deleted, this was a few different courses from Unreal)](https://learn.unrealengine.com/) | [A course on Wwise, an audio middleware program](https://www.audiokinetic.com/education/learn-wwise/) | [A tutorial series on integrating Wwise in Unreal](https://www.youtube.com/playlist?list=PLwxDjxJeenFSPCxMXpBhUrZsGqR71fYwu)
 
 
-Direct links to said resources, in case the above thread goes down:
-
-The Bible of Getting a Job in Game Audio (link in [career section](Job-Hunting/Career))
-
-Audio Reel Reviews: [Power Up Audio - YouTube](https://www.youtube.com/user/PowerUpAudio)
+[SFXR](https://sfxr.me/) - A great program for generating simple sound effects.
 
 
-Courses on audio implementation in Unreal: [https://twitter.com/TheNewTeed/status/1505820433005826049](https://twitter.com/TheNewTeed/status/1505820433005826049)
+[Beep Box](https://www.beepbox.co/) - A simple but fun web-based music program.
 
 
-In case the tweet gets deleted, this was a few different courses from Unreal:  [https://learn.unrealengine.com/](https://learn.unrealengine.com/)
+[Bosca Ceoil](https://boscaceoil.net/) - A very simplistic and limited but fast, free, and fun audio program for chiptune music! 
 
 
-A course on Wwise, an audio middleware program (there are a lot more courses from audio kinetic too! Same link, go to the home page): [https://www.audiokinetic.com/education/learn-wwise/](https://www.audiokinetic.com/education/learn-wwise/)
+[GDC Freebies](https://sonniss.com/gameaudiogdc#1605030813191-c5a1f3d0-8baf) - Royalty free SFX samples from GDC.
 
 
-A tutorial series on integrating Wwise in Unreal: [Wwise 2019.1.4 Unreal V4.23 Game Audio Implementation Guide Series - YouTube](https://www.youtube.com/playlist?list=PLwxDjxJeenFSPCxMXpBhUrZsGqR71fYwu)
-
-
-A great program for generating simple sound effects
-
-[https://sfxr.me/](https://sfxr.me/)
-
-
-A simple but fun web-based music program
-
-[https://www.beepbox.co/](https://www.beepbox.co/)
-
-
-A very simplistic and limited but fast, free, and fun audio program for chiptune music! 
-
-[https://boscaceoil.net/](https://boscaceoil.net/)
-
-
-Royalty free SFX samples from GDC 
-
-
-[https://sonniss.com/gameaudiogdc#1605030813191-c5a1f3d0-8baf](https://sonniss.com/gameaudiogdc#1605030813191-c5a1f3d0-8baf)
-
-
-Royalty free music! Just be sure to check the license 
-
-
-[https://pixabay.com/music/](https://pixabay.com/music/)
-
-[DOVA-SYNDROME YouTube Official](https://www.youtube.com/c/DOVASYNDROMEYouTubeOfficial)
+Royalty free music! Don't forget to check the license.
+- [Pixabay](https://pixabay.com/music/)
+- [DOVA-SYNDROME](https://www.youtube.com/c/DOVASYNDROMEYouTubeOfficial)
 
 
 <br />
@@ -689,32 +652,19 @@ Royalty free music! Just be sure to check the license
 <br />
 
 
-🟪 Inkle - a writing tool for games (that integrates well with Unity!)
+🟪 [Inkle](https://www.inklestudios.com/ink/) - A writing tool for games (free and integrates well with Unity!)
 
 
-[https://www.inklestudios.com/ink/](https://www.inklestudios.com/ink/)
+[Dialogger](https://github.com/etodd/dialogger) - A simple cross-platform dialogue graph editor (free with MIT license!)
 
 
-A simple cross-platform dialogue graph editor (free with MIT license!)
+[Writing Better Dialogue](https://gutefabrik.com/craft-writing-better-dialogue-a-2-day-workshop/) - A workshop on dialogue writing from a series on game writing.
 
 
-[https://github.com/etodd/dialogger](https://github.com/etodd/dialogger)
+[The Borksheet](https://docs.google.com/spreadsheets/d/16WoJik9w93FHNOw8GrE4L0UAwTYJMsBQ6QSxZ1MYr9A/edit#gid=0) - A template sheet for an exercise to write "Barks" or simple dialogue lines - good for emphasizing character variety and attention-to-detail personalization.
 
 
-A Workshop to Write Better Dialogue 
-
-
-[https://gutefabrik.com/craft-writing-better-dialogue-a-2-day-workshop/](https://gutefabrik.com/craft-writing-better-dialogue-a-2-day-workshop/)
-
-
-A template sheet for an exercise to write "Barks" or simple dialogue lines - good for emphasizing character variety and attention-to-detail personalization 
-
-
-[https://docs.google.com/spreadsheets/d/16WoJik9w93FHNOw8GrE4L0UAwTYJMsBQ6QSxZ1MYr9A/edit#gid=0](https://docs.google.com/spreadsheets/d/16WoJik9w93FHNOw8GrE4L0UAwTYJMsBQ6QSxZ1MYr9A/edit#gid=0)
-
-
-Neat blog on interactive storytelling
-[https://emshort.blog/](https://emshort.blog/)
+[Emily Short's Interactive Storytelling](https://emshort.blog/) - Neat blog on storytelling in games and interactive media.
 
 
 <br />
@@ -725,22 +675,14 @@ Neat blog on interactive storytelling
 <br />
 
 
-🟪 How to Market a Game - A blog and a collection of resources (of special note, a few GDC talks) about marketing for games by Chris Zukowski - this is the only mailing list that I have ever willingly signed up for and gotten mileage out of :P
+🟪 [How to Market a Game](https://howtomarketagame.com) - A blog and a collection of resources (of special note, a few GDC talks) about marketing for games by Chris Zukowski. This is the only mailing list that I have ever willingly signed up for and felt was worth keeping.
 
 
-[https://howtomarketagame.com](https://howtomarketagame.com)
+[Show the Dream, Not the Job](https://www.derek-lieu.com/blog/2020/2/25/show-the-dream-not-the-job) - Advice for making a game seem appealing from its trailer.
 
 
-Show the Dream, Not the Job - advice for showing the selling points of your game in a trailer
+[Budget Viability](https://ltpf.ramiismail.com/budget-viability/) - Figuring out how realistic your budget is for your game.
 
-
-[https://www.derek-lieu.com/blog/2020/2/25/show-the-dream-not-the-job](https://www.derek-lieu.com/blog/2020/2/25/show-the-dream-not-the-job)
-
-
-Figuring out how viable your budget is for your game 
-
-
-[https://ltpf.ramiismail.com/budget-viability/](https://ltpf.ramiismail.com/budget-viability/)
 
 <br />
 
@@ -749,83 +691,46 @@ Figuring out how viable your budget is for your game
 <br />
 
 
-🟪 A huge list of job-hunting resources - multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocation advice.
+🟪 [Video Game Job Hunt](https://www.gameindustrycareerguide.com/video-game-job-hunt-guide/) - A huge list of job-hunting resources: multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocation advice.
 
 
-[https://www.gameindustrycareerguide.com/video-game-job-hunt-guide/](https://www.gameindustrycareerguide.com/video-game-job-hunt-guide/)
+🟪 [Career Documents from Jean Leggett](https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit) - Another huge list of career documents and resources!
 
 
-🟪 Another huge list of career documents and resources!
+🟪 [Game Dev LFW Resources](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc) - Yet another list of resources and communities!
 
 
-[https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit](https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit)
+🟪 [The Complete List of Gaming Jobs](https://hitmarker.net/career-advice/the-complete-list-of-gaming-esports-jobs) - A comprehensive list of gaming jobs and specialties (includes both game development and esports).
 
 
-🟪 Yet another list of resources and communities!
-
-[https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc)
+[Industry Portfolios](https://www.plusonewisdom.com/post/industry-portfolios) - A big list of portfolios from industry professionals.
 
 
-🟪 A comprehensive list of gaming jobs and specialties (includes both game development and esports)
-
-[https://hitmarker.net/career-advice/the-complete-list-of-gaming-esports-jobs](https://hitmarker.net/career-advice/the-complete-list-of-gaming-esports-jobs)
-
-A big list of portfolios from industry professionals
+[GameDev Jobs (2022)](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit) - A megalist of studio career pages and job posting sites.
 
 
-[https://www.plusonewisdom.com/post/industry-portfolios](https://www.plusonewisdom.com/post/industry-portfolios)
+🟪 [The Reverse Interview](https://github.com/viraptor/reverse-interview) - Questions for you to ask a potential employer (aimed at tech, but most questions apply to any discipline).
 
 
-Gamedev Jobs List (2022)
+🟪 [Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) - A guide to game art portfolios and job hunting.
 
 
-[https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit)
+🟪 [The Bible of Getting a Job in Game Audio](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit) - A massive collection of career resources for game audio.
 
 
-🟪 The Reverse Interview - questions to ask a potential employer (aimed at tech, but most questions apply to any discipline)
+[How to Get an Internship](https://helpful-clover-96f.notion.site/How-to-get-an-internship-v-2-d906cdbf321c4986ae46bd43282b1a84) - Tips on getting an internship for college students.
 
 
-[https://github.com/viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
+[Game Industry Portfolio Best Practices](https://docs.google.com/document/d/14jsiaFOXuBi9QsXOF2DJVFXCRP4RwqGY3xmMHlqf3y4/edit) - Dos and Donts for game portfolios.
 
 
-🟪 A guide to game art portfolios and job hunting
+[GameDevMap](https://www.gamedevmap.com) - A map of game development studios
 
 
-[https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings)
+[A short thread of cover letter tips](https://twitter.com/JeanLeggett/status/1354615348071460865)
 
 
-🟪 The Bible of Getting a Job in Game Audio
-
-
-[https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit)
-
-
-Tips on getting an internship 
-
-
-[https://helpful-clover-96f.notion.site/How-to-get-an-internship-v-2-d906cdbf321c4986ae46bd43282b1a84](https://helpful-clover-96f.notion.site/How-to-get-an-internship-v-2-d906cdbf321c4986ae46bd43282b1a84)
-
-
-Game Industry Portfolio Best Practices
-
-
-[https://docs.google.com/document/d/14jsiaFOXuBi9QsXOF2DJVFXCRP4RwqGY3xmMHlqf3y4/edit](https://docs.google.com/document/d/14jsiaFOXuBi9QsXOF2DJVFXCRP4RwqGY3xmMHlqf3y4/edit)
-
-
-A map of game development studios
-
-
-[https://www.gamedevmap.com](https://www.gamedevmap.com)
-
-
-A short thread of cover letter tips
-
-[https://twitter.com/JeanLeggett/status/1354615348071460865](https://twitter.com/JeanLeggett/status/1354615348071460865)
-
-
-Why you need to clearly label personal work as personal work and not make your developer name seem like a studio name if it is not: a thread
-
-[https://twitter.com/MemoPotato/status/1550209887401017344?s=20&t=6Kp0ZGR8XuZukP5eAz2MGA](https://twitter.com/MemoPotato/status/1550209887401017344?s=20&t=6Kp0ZGR8XuZukP5eAz2MGA)
+[A word of warning](https://twitter.com/MemoPotato/status/1550209887401017344?s=20&t=6Kp0ZGR8XuZukP5eAz2MGA) - Why you need to clearly label personal work as personal work and not make your developer name seem like a studio name if it is not: a thread
 
 
 <br />
@@ -836,75 +741,41 @@ Why you need to clearly label personal work as personal work and not make your d
 <br />
 
 
-🟪 Important productivity fuel (and what I used to hoard this list :P)
+🟪 [Obsidian](https://obsidian.md/) - Important productivity fuel (and what I used to hoard this list :P)
 
 
-[https://obsidian.md/](https://obsidian.md/)
+🟪 [A series of game jam post-mortems](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1) - These are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
 
 
-🟪 A series of game jam post-mortems - these are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
+[Game Developer (previously known as Gamasutra)](https://www.gamedeveloper.com/) - A site filled with post-mortems, gamedev news, blog posts, and other articles with a focus on game developers and their communities.
 
 
-[“PONY!” – A Ludum Dare 33 Time Lapse](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1)
+[Rami Ismail](https://ltpf.ramiismail.com) - A blog by a seasoned developer, business person, and consultant with sound advice.
 
 
-Game Developer (previously known as Gamasutra) - a site filled with post-mortems, gamedev news, blog posts, and other articles with a focus on game developers and their communities.
+[Papers Please Devlog](https://fguillen.github.io/PapersPleaseDevlogScrap/) - Posts from the development of Papers Please.
 
 
-[https://www.gamedeveloper.com/](https://www.gamedeveloper.com/)
+[Surveillance Self-Defense](https://ssd.eff.org/en) - Tips, Tools, and Tutorials for privacy and online self-defense
 
 
-Blog by Rami Ismail (seasoned developer and consultant with sound advice)
+[Polyglot Gamedev](https://docs.google.com/spreadsheets/d/17f0dQawb-s_Fd7DHgmVvJoEGDMH_yoSd8EYigrb0zmM/edit#gid=296134756) - A big list of localized words across many different languages that can be used to loosely translate simple phrases such as UI buttons or tooltips. 
 
 
-[https://ltpf.ramiismail.com](https://ltpf.ramiismail.com)
+[Tiny Tools](https://tinytools.directory/) - A collection of tiny, usually fun tools for various purposes! 
 
 
-A devlog for Papers Please
+[Paul Graham](http://paulgraham.com/articles.html) - Good general advice, both for specific disciplines (particularly programming and business) and for life, from Paul Graham (founder of YCombinator).
 
 
-[https://fguillen.github.io/PapersPleaseDevlogScrap/](https://fguillen.github.io/PapersPleaseDevlogScrap/)
+[Open Dyslexic](https://opendyslexic.org/) - A dyslexia-friendly, accessible font! 
 
 
-Tips, Tools, and Tutorials for privacy and online self-defense
+[Is This Arabic?](https://isthatarabic.com) - A friendly guide to not borking Arabic script.
 
 
-[https://ssd.eff.org/en](https://ssd.eff.org/en)
+[The Stranger Things (or Montauk) pitch bible](http://www.zen134237.zen.co.uk/Stranger_Things/Stranger_Things_-_Bible.pdf) - Useful as reference for what a great pitch can look like, albeit in the context of film rather than games.
 
-
-A big list of localized words across many different languages that can be used to loosely translate simple phrases such as UI buttons or tooltips. 
-
-
-[https://docs.google.com/spreadsheets/d/17f0dQawb-s_Fd7DHgmVvJoEGDMH_yoSd8EYigrb0zmM/edit#gid=296134756](https://docs.google.com/spreadsheets/d/17f0dQawb-s_Fd7DHgmVvJoEGDMH_yoSd8EYigrb0zmM/edit#gid=296134756)
-
-
-A collection of tiny, usually fun tools for various purposes! 
-
-
-[https://tinytools.directory/](https://tinytools.directory/)
-
-
-Good general advice, both on all disciplines (especially programming) and on life 
-
-[http://paulgraham.com/articles.html](http://paulgraham.com/articles.html)
-
-
-A dyslexia-friendly, accessible font! 
-
-
-[https://opendyslexic.org/](https://opendyslexic.org/)
-
-
-Is This Arabic? A friendly guide to not borking Arabic script
-
-
-[https://isthatarabic.com](https://isthatarabic.com)
-
-
-The Stranger Things (or Montauk) pitch bible - useful as reference for what a great pitch can look like, albeit in the context of film rather than games
-
-
-[http://www.zen134237.zen.co.uk/Stranger_Things/Stranger_Things_-_Bible.pdf](http://www.zen134237.zen.co.uk/Stranger_Things/Stranger_Things_-_Bible.pdf)
 
 </p>
 <br />

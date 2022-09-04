@@ -1,6 +1,6 @@
 # TODO
 
- - Finish reorganizing all other categories to match General, Programming, and Tech Art
+ - Find some Production resources!!!!
 
  - For longevity, extract all video links from each youtube playlist to a separate markdown file and link them beneath the playlist, just in case a playlist gets lost.
     - A tutorial on how to extract a youtube playlist: [https://dtomoffcpa.medium.com/youtube-playlist-to-linked-list-in-excel-why-not-3a96297e980c](https://dtomoffcpa.medium.com/youtube-playlist-to-linked-list-in-excel-why-not-3a96297e980c)
