@@ -54,7 +54,7 @@ This list is aimed at learning the craft of game development. It has been curate
 
 Nearly all resources are free, and anything with a price tag will be clearly marked. Paid resources are only included if they have been personally endorsed by an industry professional working in the relevant discipline.
 
-Suggestions and future-proofing efforts are always welcome! Check out `TODO.md` for tasks that need completing, such as archival work.
+Suggestions and future-proofing efforts are always welcome! See `Contributing.md` for contribution guidelines, and check out `TODO.md` for tasks that need completing, such as archival work.
 
 These resources made my career possible. I hope they are just as helpful for you!
 
