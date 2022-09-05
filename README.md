@@ -130,10 +130,10 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 [Intro to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) An introductory python course taught at MIT (free to access!)
 
 
-🟪 [Programming in C++ as a Second Language](https://www.ics.uci.edu/~thornton/ics45c/Notes/) - A C++ course taught at the University of California, Irvine (free to access!) 
+🟪 [Programming in C++ as a Second Language](https://web.archive.org/web/20220604184602/https://www.ics.uci.edu/~thornton/ics45c/Schedule.html) - Lecture notes, assignments, and materials from a course on C++ taught at the University of California, Irvine (free to access!) 
 
 
-🟪 [Data Structure Implementation and Analysis](https://www.ics.uci.edu/~thornton/ics46/index.html) - A course on data structures and algorithms taught at the University of California, Irvine (free to access!)
+🟪 [Data Structure Implementation and Analysis](https://web.archive.org/web/20220405031903/https://www.ics.uci.edu/~thornton/ics46/Schedule.html) - Lecture notes, assignments, and materials from a course on data structures and algorithms taught at the University of California, Irvine (free to access!)
 
 
 🟪 [Game Programming Patterns](https://gameprogrammingpatterns.com/) - A free book on programming patterns for games.
