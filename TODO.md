@@ -6,7 +6,7 @@
     - A tutorial on how to extract a youtube playlist: [https://dtomoffcpa.medium.com/youtube-playlist-to-linked-list-in-excel-why-not-3a96297e980c](https://dtomoffcpa.medium.com/youtube-playlist-to-linked-list-in-excel-why-not-3a96297e980c)
 
 
- - Similarly, extract all links from each twitter thread and extract any relevant text from the tweets themselves.
+ - Similarly, archive twitter threads as pdf files. Use [threadreader](https://threadreaderapp.com/), then print the output webpage as a pdf and place it in archives/twitter
 
 
  - Image as many resources as possible on the internet archive, and use stable archive links in place of direct links.

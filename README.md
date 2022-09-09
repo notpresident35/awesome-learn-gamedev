@@ -727,7 +727,7 @@ Royalty free music! Don't forget to check the license.
 [GameDevMap](https://www.gamedevmap.com) - A map of game development studios
 
 
-[A short thread of cover letter tips](https://twitter.com/JeanLeggett/status/1354615348071460865)
+[A short thread of cover letter tips](https://twitter.com/JeanLeggett/status/1354615348071460865) - [Archived PDF](archives/twitter/JeanLeggettThread.pdf)
 
 
 [A word of warning](https://twitter.com/MemoPotato/status/1550209887401017344?s=20&t=6Kp0ZGR8XuZukP5eAz2MGA) - Why you need to clearly label personal work as personal work and not make your developer name seem like a studio name if it is not: a thread
