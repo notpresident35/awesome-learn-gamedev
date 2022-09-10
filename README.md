@@ -53,6 +53,8 @@ For a few years now, I have been hoarding every gamedev resource I can get my gr
 
 This list is aimed at learning the craft of game development. It has been curated to offer general knowledge, as well as resources for each role and general hiring advice. It also contains courses/tutorials for specific tools wherever they are required for a role, and assets whenever they would enable a person to learn their own role without having to learn a prerequisite fole (for example, the animation section contains rigs). For tools, communities, and assets, as well as more granular lists for individual tools like Unity, check out [the gaming category of awesome](https://github.com/sindresorhus/awesome#gaming)
 
+This list generally avoids video tutorials. It aims to develop your problem-solving skills and improve your general knowledge, rather than show you how to solve a particular problem (where appplicable). It also avoids design analysis video essays and similar content. There is a plethora of high quality design analysis content that can be found easily on YouTube, but as this style of content tends to be more aimed at passive entertainment than active learning, this list errs on the side of exclusion for curation purposes.
+
 Nearly all resources are free, and anything with a price tag will be clearly marked. Paid resources are only included if they have been personally endorsed by an industry professional working in the relevant discipline.
 
 Suggestions and future-proofing efforts are always welcome! See `Contributing.md` for contribution guidelines, and check out `TODO.md` for tasks that need completing, such as archival work.
@@ -156,6 +158,9 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/) - A book on algorithms. Pricey, look for it in a library or "something" (wink) first.
 
 
+🟪 [Awesome Math](https://github.com/rossant/awesome-math) - Another awesome list for mathematics, useful generally but often applicable to programming.
+
+
 [Math for Game Programmers](https://gamemath.com/book/intro.html) - A free book on math for game programmers.
 
 
@@ -190,6 +195,9 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 
 
 [DemoFox](https://blog.demofox.org) - A blog with lots and lots of programming, graphics, and math tutorials and breakdowns.
+
+
+[Bit101](http://www.bit-101.com/blog/) - A blog on mathy-programmer things with some tutorials and breakdowns.
 
 
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - A video series meant as a supplement for a class on Linear Algebra, made by 3Blue1Brown.
@@ -335,7 +343,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 ### Shaders 
 
 
-💠🟪 [Shaders for Game Devs: Part 1](https://www.youtube.com/watch?v=kfM-yu0iQBk) | [Part 2](https://www.youtube.com/watch?v=mL8U8tIiRRg) | [Part 3](https://www.youtube.com/watch?v=E4PHFnvMzFc) - An Introduction to HLSL Shaders using Unity by Freya Holmer.
+💠🟪 [Shaders for Game Devs](https://www.youtube.com/watch?v=kfM-yu0iQBk&list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z) | [Math for Game Devs](https://www.youtube.com/watch?v=MOYiVLEnhrw&list=PLImQaTpSAdsD88wprTConznD1OY1EfK_V) | [Tool Dev](https://www.youtube.com/watch?v=pZ45O2hg_30&list=PLImQaTpSAdsBKEkUvKxw6p0tpwl7ylw0d) - An introduction to HLSL Shaders using Unity, math specifically used in game development, and tool development (or creating tools to make game development more productive) by Freya Holmer.
 
 🟪 [The Book of Shaders](https://thebookofshaders.com/00/) - A book on GLSL pixel shaders.
 
@@ -388,6 +396,9 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 
 
 💠🟪 [Saint11: Tutorials](https://saint11.org/blog/pixel-art-tutorials/) | [Articles](https://saint11.org/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
+
+
+[Pixel Art Class](https://www.youtube.com/watch?v=7BWr2tlK-4c&list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_) - A tutorial series covering the basics of art aimed at pixel artists.
 
 
 [CubeBrush](https://cubebrush.co) - A marketplace for art resources, with tutorials, assets, brushes, tools, etc.
@@ -535,7 +546,7 @@ Royalty Free Game Art! Don't forget to check the license.
 💠🟪 [The Evolution of Trust](https://ncase.me/trust/) - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.
 
 
-💠🟪 [Extra Credits: So You Want To Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc) | [All Extra Credits Episodes](https://www.youtube.com/watch?v=KG1ziCvLkJ0&list=PLB9B0CA00461BB187&index=534) - A channel on game design that was far ahead of its time. Their backlog is filled with invaluable advice, though their more recent content has a controversial reputation, and they've largely pivoted away from games into history and literature. Start with their career video(s), then dig into their backlog of game design videos if you would like.
+💠🟪 [Extra Credits: So You Want To Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc) - A channel on game design that was far ahead of its time. Their backlog is filled with invaluable advice, though their more recent content has a controversial reputation, and they've largely pivoted away from games into history and literature. Start with their career video(s) - dig through their game design backlog if you would like, but stick to the older stuff.
 
 
 💠🟪 [The Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) - A playable video essay/game, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from GMTK.
@@ -551,9 +562,6 @@ Royalty Free Game Art! Don't forget to check the license.
 
 
 [Design in Detail: Changing the Time Between Shots for the Sniper Rifle from 0.5 to 0.7 Seconds for Halo 3](https://www.gdcvault.com/play/1012211/Design-in-Detail-Changing-the) - A talk on why minute tuning matters.
-
-
-[GB 'Doc' Burford](https://docseuss.medium.com) - One of my favorite design and art writers - breaks down games and writes about them (check out the ones on the balance and economy of Destiny)
 
 
 [The Poor Man's 3D Camera](https://etodd.io/2017/11/28/poor-mans-3d-camera/) - A breakdown of the design thinking and solutions that went into an extremely specific 3D camera
