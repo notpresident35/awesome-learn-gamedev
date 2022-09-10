@@ -10,6 +10,7 @@
 ## Contents
 
 - [About](#about)
+- [Key](#key)
 - [General](#general)
 - [Programming](#programming)
     - [Gameplay](#gameplay)
@@ -60,6 +61,10 @@ These resources made my career possible. I hope they are just as helpful for you
 
 Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-specific resources are geared towards the art and tech disciplines. However, there should be something for _most_ disciplines, particularly in general materials and other curated lists.
 
+## Key
+
+💠 Starred Resources are "best for beginner" links. These include courses, classes, books, and lists aimed at people who are new to the games industry, or game development as a whole.
+
 🟪 Purple Resources are “most useful” links. These include highly influential courses/books, resources I've personally found invaluable, and other entire mega-lists.
 
 <br />
@@ -68,12 +73,12 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 
 <br />
 
-### 🟪 [New to game development? Start here](https://allurious.itch.io/cheatsheets2018)
+### 💠🟪 [New to game development? Start here](https://allurious.itch.io/cheatsheets2018)
 
 <br />
 <br />
 
-🟪 ["The Door Problem"](https://lizengland.com/blog/2014/04/the-door-problem/) - A one-sentence summary of most major roles in a large studio, and a bigger explanation of a game designer's job
+💠🟪 ["The Door Problem"](https://lizengland.com/blog/2014/04/the-door-problem/) - A one-sentence summary of most major roles in a large studio, and a bigger explanation of a game designer's job
 
 
 
@@ -83,7 +88,7 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 🟪 [GameDev Contacts](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml) - A huge list of professional game developers you can contact for advice! Be courteous - these are real people! Curated by Joe Hobbs - @JLHGameArt on Twitter
 
 
-🟪 [MIT Open Courseware](https://ocw.mit.edu/) - classes and materials from MIT (free to access)! 
+💠🟪 [MIT Open Courseware](https://ocw.mit.edu/) - classes and materials from MIT (free to access)! 
 
 [Game Design Stuff](https://www.youtube.com/watch?v=Pb5oIIPO62g&list=PLZQDJJp3vTmB6awcmhFc9V6HG2bd9vofo&index=58) - Another mega-list of game development videos (primarily aimed at game design and programming)
 
@@ -115,16 +120,16 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 <br />
 
 
-🟪 [The Open Source University](https://github.com/ossu/computer-science) - A complete study plan for a computer science education.
+💠🟪 [The Open Source University](https://github.com/ossu/computer-science) - A complete study plan for a computer science education.
 
 
-🟪 [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Another complete study plan aimed at software engineers.
+💠🟪 [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Another complete study plan aimed at software engineers.
 
 
-🟪 [Complete Unity Game Developer by GameDev.tv](https://www.udemy.com/course/unitycourse2/) - The single best way to learn Unity. Trust me when I say this is the best $12 I have ever spent, or will ever spend. Wait for it to go on sale, then go pick this up.
+💠🟪 [Complete Unity Game Developer by GameDev.tv](https://www.udemy.com/course/unitycourse2/) - The single best way to learn Unity. Trust me when I say this is the best $12 I have ever spent, or will ever spend. Wait for it to go on sale, then go pick this up.
 
 
-🟪 [Unreal Engine 5 C++ Developer](https://www.udemy.com/course/unrealcourse/) - Same as above, but with Unreal 5. This course is invaluable - I know several full-time developers who learned from gamedev.tv, they are a gem. Wait for it to go on sale, then go pick this up.
+💠🟪 [Unreal Engine 5 C++ Developer](https://www.udemy.com/course/unrealcourse/) - Same as above, but with Unreal 5. This course is invaluable - I know several full-time developers who learned from gamedev.tv, they are a gem. Wait for it to go on sale, then go pick this up.
 
 
 [Intro to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) An introductory python course taught at MIT (free to access!)
@@ -163,7 +168,8 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 [generatingfunctionology](https://www2.math.upenn.edu/~wilf/DownldGF.html) - A free book on generating functions.
 
 
-[C++ for C# Developers](https://www.jacksondunstan.com/articles/5530) - An extensive tutorial series.
+💠[C++ for C# Developers](https://www.jacksondunstan.com/articles/5530) - An extensive tutorial series.
+
 
 🟪 [Game Engine Architecture](https://www.gameenginebook.com/) - A book on game engines. About $25 for the e-book, probably worth the investment if you plan to be an engine, tools, or graphics programmer.
 
@@ -222,10 +228,10 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 ### Graphics
 
 
-🟪 [The Awesome list for Computer Graphics](https://github.com/luisnts/awesome-computer-graphics) - Another awesome list specifically tailored to this topic, albeit not games-focused.
+💠🟪 [The Awesome list for Computer Graphics](https://github.com/luisnts/awesome-computer-graphics) - Another awesome list specifically tailored to this topic, albeit not games-focused.
 
 
-🟪 [Graphics](https://guerilla-tactics.com/hats/graphics/) - A Megalist of Graphics Programming and Tech Art resources.
+💠🟪 [Graphics](https://guerilla-tactics.com/hats/graphics/) - A Megalist of Graphics Programming and Tech Art resources.
 
 
 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Three (3) free books by Nvidia about GPU programming and architecture.
@@ -255,10 +261,10 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 ### Networking
 
 
-🟪 [Unity Multiplayer by GameDev.tv](https://www.udemy.com/course/unity-multiplayer/) - A course on multiplayer and networking in Unity. Wait for it to go on sale, then go pick this up.
+💠🟪 [Unity Multiplayer by GameDev.tv](https://www.udemy.com/course/unity-multiplayer/) - A course on multiplayer and networking in Unity. Wait for it to go on sale, then go pick this up.
 
 
-🟪 [Unreal Multiplayer by GameDev.tv](https://www.udemy.com/course/unrealmultiplayer/) - A course on multiplayer and networking in Unreal. Wait for it to go on sale, then go pick this up. 
+💠🟪 [Unreal Multiplayer by GameDev.tv](https://www.udemy.com/course/unrealmultiplayer/) - A course on multiplayer and networking in Unreal. Wait for it to go on sale, then go pick this up. 
 
 
 🟪 [GafferOnGames](https://gafferongames.com) - A bunch of articles on netcode for games.
@@ -329,12 +335,12 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 ### Shaders 
 
 
-🟪 [Shaders for Game Devs: Part 1](https://www.youtube.com/watch?v=kfM-yu0iQBk) | [Part 2](https://www.youtube.com/watch?v=mL8U8tIiRRg) | [Part 3](https://www.youtube.com/watch?v=E4PHFnvMzFc) - An Introduction to HLSL Shaders using Unity by Freya Holmer.
+💠🟪 [Shaders for Game Devs: Part 1](https://www.youtube.com/watch?v=kfM-yu0iQBk) | [Part 2](https://www.youtube.com/watch?v=mL8U8tIiRRg) | [Part 3](https://www.youtube.com/watch?v=E4PHFnvMzFc) - An Introduction to HLSL Shaders using Unity by Freya Holmer.
 
 🟪 [The Book of Shaders](https://thebookofshaders.com/00/) - A book on GLSL pixel shaders.
 
 
-🟪 [Catlike Coding](https://catlikecoding.com/unity/tutorials/) - Unity and HLSL Shader Tutorials.
+💠🟪 [Catlike Coding](https://catlikecoding.com/unity/tutorials/) - Unity and HLSL Shader Tutorials.
 
 [Shadertoy](https://www.shadertoy.com/) - An online shader editor and hosting/sharing site.
 
@@ -342,7 +348,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 🟪 [Render Doc](https://renderdoc.org/) - A program that breaks down a frame rendered from a game and allows you to analyze processes that created it.
 
 
-[Intro to Shader Graph](https://www.cyanilux.com/tutorials/intro-to-shader-graph/) - A detailed introduction to shader graph in Unity.
+💠[Intro to Shader Graph](https://www.cyanilux.com/tutorials/intro-to-shader-graph/) - A detailed introduction to shader graph in Unity.
 
 
 [Cyanilux](https://www.cyanilux.com/contents/) - Tutorials and shader breakdowns (same blog as above).
@@ -357,12 +363,12 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 ### VFX
 
 
-🟪 [Getting Started in Real Time VFX](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415) - Also check out the rest of this website (realtimevfx.com) to find a thriving community filled with useful knowledge and amazing people.
+💠🟪 [Getting Started in Real Time VFX](https://realtimevfx.com/t/getting-started-in-real-time-vfx-start-here/3415) - Also check out the rest of this website (realtimevfx.com) to find a thriving community filled with useful knowledge and amazing people.
 
 
 🟪 [VFX Talks Playlist](https://www.youtube.com/watch?v=YPy2hytwDLM&list=PLdiateg_U8PFnlScGDJDQeHUX9qmYvsxv) - A playlist of VFX talks at GDC (the linked video is about Diablo, and is very insightful).
 
-🟪 [BiteyCastle Academy 2DFX Animation Course](https://chluaid.gumroad.com/l/bcafx) - A full 2D FX animation course (completely free!)
+💠🟪 [BiteyCastle Academy 2DFX Animation Course](https://chluaid.gumroad.com/l/bcafx) - A full 2D FX animation course (completely free!)
 
 [VFX Apprentice](https://www.vfxapprentice.com) - Several VFX courses geared towards developing a professional portfolio. _Very_ pricey, but may be worth your while if you are serious about VFX - it is a _hell_ of a lot cheaper than art school.
 
@@ -378,10 +384,10 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 
 <br />
 
-🟪 [Art Industry Resources](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3) - A Megalist of Art Resources!
+💠🟪 [Art Industry Resources](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3) - A Megalist of Art Resources!
 
 
-🟪 [Saint11: Tutorials](https://saint11.org/blog/pixel-art-tutorials/) | [Articles](https://saint11.org/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
+💠🟪 [Saint11: Tutorials](https://saint11.org/blog/pixel-art-tutorials/) | [Articles](https://saint11.org/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
 
 
 [CubeBrush](https://cubebrush.co) - A marketplace for art resources, with tutorials, assets, brushes, tools, etc.
@@ -408,13 +414,13 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 ### 2D/Illustration
 
 
-🟪 [How To Draw](https://www.webtoons.com/en/challenge/how-to-draw-/intro-/viewer?title_no=730330&episode_no=1) - An webcomic on how to draw, and much more importantly, how to _learn_ to draw.
+💠🟪 [How To Draw](https://www.webtoons.com/en/challenge/how-to-draw-/intro-/viewer?title_no=730330&episode_no=1) - An webcomic on how to draw, and much more importantly, how to _learn_ to draw.
 
 
 🟪 [Radiorunner's Curriculum for the Solo Artist](https://www.brendanmeachen.com/soloartist) - A curriculum for self-teaching art. If you want to _really_ hone your skills, this will undoubtedly be worth your time.
 
 
-🟪 [DrawABox](https://drawabox.com/) - An exhaustive course for the art fundamentals (completely free!)
+💠🟪 [DrawABox](https://drawabox.com/) - An exhaustive course for the art fundamentals (completely free!)
 
 
 🟪 [LoSpec](https://lospec.com/) - A Pixel Art gold mine (Job Board, Pallette Database, Tutorials, Resources, and more).
@@ -423,7 +429,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 🟪 [Proko Figure Drawing Fundamentals](https://www.youtube.com/playlist?list=PLR2KBLDDnZz3Ec8LZ66IDS--P9g3TdwOM) - An exhaustive series on drawing people from a reputable channel.
 
 
-🟪 [How to Learn Digital Painting (Beginners)](https://www.youtube.com/watch?v=iwRa5qTnr8o) - A guide to digital painting for beginners and intermediate painters. See other tutorials by Sinix for guides aimed at more advanced artists.
+💠🟪 [How to Learn Digital Painting (Beginners)](https://www.youtube.com/watch?v=iwRa5qTnr8o) - A guide to digital painting for beginners and intermediate painters. See other tutorials by Sinix for guides aimed at more advanced artists.
 
 
 [Cut-Out People](https://www.vishopper.com/cut-out-people) - A searchable repository of extremely diverse reference images for humans, with filters for easy search (IE "1 woman age 20-40 with dog from the front" or "3 people sitting in a home")
@@ -455,7 +461,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 ### 3D
 
 
-🟪 [World Building in Blender by Ian Hubert](https://www.youtube.com/watch?v=whPWKecazgM) - The best resource for thinking about 3D art, possibly ever.
+💠🟪 [World Building in Blender by Ian Hubert](https://www.youtube.com/watch?v=whPWKecazgM) - The best resource for thinking about 3D art, possibly ever.
 
 
 🟪 [Sculpting in Blender](https://www.artstation.com/learning/courses/3Va/intro-to-sculpting-in-blender/chapters/8OjR/intro) - A short, free course on sculpting in Blender.
@@ -479,7 +485,7 @@ Royalty-Free Textures, Models, HDRIs, and Assets!
 🟪 [The Animator's Survival Kit](http://www.theanimatorssurvivalkit.com) - An essential resource for any animator. Has a price tag, but if you want to get a job in industry, it is well worth your money.
 
 
-[The 12 Principles of Animation](https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd) - A visual tutorial series on a fundamental part of animation.
+💠[The 12 Principles of Animation](https://www.youtube.com/watch?v=haa7n3UGyDc&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd) - A visual tutorial series on a fundamental part of animation.
 
 
 [Hybrid 02 Maya Rig](https://oninationsquad.gumroad.com/l/hybrid02) - A humanoid rig for Maya, free for non-commercial use.
@@ -511,28 +517,28 @@ Royalty Free Game Art! Don't forget to check the license.
 <br />
 
 
-🟪 [The Art of Game Design](https://www.schellgames.com/art-of-game-design/) - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money.
+💠🟪 [The Art of Game Design](https://www.schellgames.com/art-of-game-design/) - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money.
 
 
-🟪 [The Design of Everyday Things](https://www.sunyoungkim.org/class/old/hci_f18/pdf/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf) - A book on design in everything, basically mandatory reading for designers.
+💠🟪 [The Design of Everyday Things](https://www.sunyoungkim.org/class/old/hci_f18/pdf/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf) - A book on design in everything, basically mandatory reading for designers.
 
 
 🟪 [Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/) - A list of accessibility features, organized by implementation difficulty. Also includes testimonials for each feature and the impact it makes on people, as well as best practice examples and implementation resources (tools, guides, etc) where available.
 
 
-🟪 [Game Design](https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/) - A Game Design class taught at MIT (free to access!) 
+💠🟪 [Game Design](https://ocw.mit.edu/courses/cms-608-game-design-fall-2010/) - A Game Design class taught at MIT (free to access!) 
 
 
 [How to make a Game Design Document](https://www.gamedesigning.org/learn/game-design-document/) - A tutorial on writing Game Design Documents (GDDs).
 
 
-🟪 [The Evolution of Trust](https://ncase.me/trust/) - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.
+💠🟪 [The Evolution of Trust](https://ncase.me/trust/) - An interactive walkthrough of some game theory. Would probably be mandatory reading in a game design class.
 
 
-🟪 [Extra Credits: So You Want To Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc) | [All Extra Credits Episodes](https://www.youtube.com/watch?v=KG1ziCvLkJ0&list=PLB9B0CA00461BB187&index=534) - A channel on game design that was far ahead of its time. Their backlog is filled with invaluable advice, though their more recent content has a controversial reputation, and they've largely pivoted away from games into history and literature. Start with their career video(s), then dig into their backlog of game design videos.
+💠🟪 [Extra Credits: So You Want To Be a Game Designer](https://www.youtube.com/watch?v=zQvWMdWhFCc) | [All Extra Credits Episodes](https://www.youtube.com/watch?v=KG1ziCvLkJ0&list=PLB9B0CA00461BB187&index=534) - A channel on game design that was far ahead of its time. Their backlog is filled with invaluable advice, though their more recent content has a controversial reputation, and they've largely pivoted away from games into history and literature. Start with their career video(s), then dig into their backlog of game design videos if you would like.
 
 
-🟪 [The Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) - A playable video essay/game, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from GMTK.
+💠🟪 [The Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) - A playable video essay/game, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from GMTK.
 
 
 [GDKeys](https://gdkeys.com/) - A collection of articles and tools created by Nico, a senior game designer.
@@ -559,10 +565,10 @@ Royalty Free Game Art! Don't forget to check the license.
 ### Level Design
 
 
+💠[Level Design and How To Get Into It](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/) - A gentle introduction to level design.
+
+
 [Tiled](https://www.mapeditor.org/) - A free and open source map editor 
-
-
-[Level Design and How To Get Into It](https://80.lv/articles/level-design-tips-tricks-and-how-to-get-into-it/) - A gentle introduction to level design.
 
 
 <br />
@@ -571,10 +577,10 @@ Royalty Free Game Art! Don't forget to check the license.
 ### UI/UX
 
 
-🟪 [WE CAN FIX IT IN UI](https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1) - A huge list of UI/UX resources!
+💠🟪 [WE CAN FIX IT IN UI](https://www.notion.so/onewithmachines/WE-CAN-FIX-IT-IN-UI-9f588869324a45e2b2d0595546ce77d1) - A huge list of UI/UX resources!
 
 
-🟪 [Game UI Database](https://www.gameuidatabase.com/index.php) - A searchable repository of UI designs from many different games to use as reference.
+💠🟪 [Game UI Database](https://www.gameuidatabase.com/index.php) - A searchable repository of UI designs from many different games to use as reference.
 
 
 [Laws of UX](https://lawsofux.com/en/) - Best practices of UX design.
@@ -618,7 +624,7 @@ Royalty Free Game Art! Don't forget to check the license.
 
 <br />
 
-🟪 [Game Audio Learning Resources](https://docs.google.com/spreadsheets/d/1fcuhGEesLC_PWCwY3dIwLgF774sKswOwIcZECWiH7Xo/edit#gid=0) A megalist of game audio learning resources! 
+💠🟪 [Game Audio Learning Resources](https://docs.google.com/spreadsheets/d/1fcuhGEesLC_PWCwY3dIwLgF774sKswOwIcZECWiH7Xo/edit#gid=0) A megalist of game audio learning resources! 
 
 
 🟪 [The Sound Effects Bible](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf) - A book on everything sound effects.
@@ -675,7 +681,7 @@ Royalty free music! Don't forget to check the license.
 <br />
 
 
-🟪 [How to Market a Game](https://howtomarketagame.com) - A blog and a collection of resources (of special note, a few GDC talks) about marketing for games by Chris Zukowski. This is the only mailing list that I have ever willingly signed up for and felt was worth keeping.
+💠🟪 [How to Market a Game](https://howtomarketagame.com) - A blog and a collection of resources (of special note, a few GDC talks) about marketing for games by Chris Zukowski. This is the only mailing list that I have ever willingly signed up for and felt was worth keeping.
 
 
 [Show the Dream, Not the Job](https://www.derek-lieu.com/blog/2020/2/25/show-the-dream-not-the-job) - Advice for making a game seem appealing from its trailer.
@@ -744,7 +750,7 @@ Royalty free music! Don't forget to check the license.
 🟪 [Obsidian](https://obsidian.md/) - Important productivity fuel (and what I used to hoard this list :P)
 
 
-🟪 [A series of game jam post-mortems](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1) - These are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
+💠🟪 [A series of game jam post-mortems](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1) - These are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
 
 
 [Game Developer (previously known as Gamasutra)](https://www.gamedeveloper.com/) - A site filled with post-mortems, gamedev news, blog posts, and other articles with a focus on game developers and their communities.

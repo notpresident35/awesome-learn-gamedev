@@ -17,7 +17,7 @@ Before submitting a pull request please:
 - Append new links to the bottom of the relevant category and sub-category.
     - New categories/sub-categories and improvements to existing categorization are welcome. Be sure to update the table of contents!
 - Make an individual pull request for each suggestion (bunches of links are fine - links and recategorizations are not).
-- Avoid misusing the purple square (🟪). These are extremely important resources or collections of resources, and need to be treated as such - if in doubt, leave it out!
+- Avoid misusing the purple square (🟪) and the blue star (💠). These are extremely important resources or collections of resources, and need to be treated as such - if in doubt, leave it out!
 - Check your spelling and grammar.
 - Title your pull request and commit nicely.
 
