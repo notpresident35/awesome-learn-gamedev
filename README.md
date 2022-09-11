@@ -87,7 +87,7 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 🟪 [My mega-playlist of great gamedev videos](https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn) - Conference talks, tutorials, analyses, etc
 
 
-🟪 [GameDev Contacts](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml) - A huge list of professional game developers you can contact for advice! Be courteous - these are real people! Curated by Joe Hobbs - @JLHGameArt on Twitter
+🟪 [GameDev Contacts](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml) - A huge list of professional game developers you can contact for advice! Be courteous - these are real people! Curated by Joe Hobbs - @JLHGameArt on Twitter.
 
 
 💠🟪 [MIT Open Courseware](https://ocw.mit.edu/) - classes and materials from MIT (free to access)! 
@@ -416,7 +416,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Resources for Commission Artists](https://www.nadiaxel.com/post/free-ressources-for-commission-artists) - If you want to open yourself up for commission work, this is a godsend.
 
 
-[A whole lot of time-saving tools](https://mobile.twitter.com/Marcel_Hampel/status/1559178642856484865) - I personally recommend Pureref.
+[A whole lot of time-saving tools](https://mobile.twitter.com/Marcel_Hampel/status/1559178642856484865) - I personally recommend Pureref. [Archived PDF](archives/twitter/MarcelHampelThread.pdf).
 
 
 <br />
@@ -632,13 +632,13 @@ Royalty Free Game Art! Don't forget to check the license.
 
 <br />
 
-💠🟪 [Game Audio Learning Resources](https://docs.google.com/spreadsheets/d/1fcuhGEesLC_PWCwY3dIwLgF774sKswOwIcZECWiH7Xo/edit#gid=0) A megalist of game audio learning resources! 
+💠🟪 [Game Audio Learning Resources](https://docs.google.com/spreadsheets/d/1fcuhGEesLC_PWCwY3dIwLgF774sKswOwIcZECWiH7Xo/edit#gid=0) - A megalist of game audio learning resources! 
 
 
 🟪 [The Sound Effects Bible](https://postproduciendoenlaeav.files.wordpress.com/2017/09/the-sound-effects-bible-ric-viers.pdf) - A book on everything sound effects.
 
 
-🟪 [Another list of resources!](https://twitter.com/chiragmachhar/status/1511446337639927811) - Direct links to said resources: The Bible of Getting a Job in Game Audio (this is linked in the career category) | [Power Up Audio Reel Reviews](https://www.youtube.com/user/PowerUpAudio) | [Courses on audio implementation in Unreal](https://twitter.com/TheNewTeed/status/1505820433005826049) - [(in case the tweet gets deleted, this was a few different courses from Unreal)](https://learn.unrealengine.com/) | [A course on Wwise, an audio middleware program](https://www.audiokinetic.com/education/learn-wwise/) | [A tutorial series on integrating Wwise in Unreal](https://www.youtube.com/playlist?list=PLwxDjxJeenFSPCxMXpBhUrZsGqR71fYwu)
+🟪 [Another list of resources!](https://twitter.com/chiragmachhar/status/1511446337639927811) - [Archived PDF](archives/twitter/chiragmachharThread.pdf). 
 
 
 [SFXR](https://sfxr.me/) - A great program for generating simple sound effects.
@@ -741,10 +741,10 @@ Royalty free music! Don't forget to check the license.
 [GameDevMap](https://www.gamedevmap.com) - A map of game development studios
 
 
-[A short thread of cover letter tips](https://twitter.com/JeanLeggett/status/1354615348071460865) - [Archived PDF](archives/twitter/JeanLeggettThread.pdf)
+[A short thread of cover letter tips](https://twitter.com/JeanLeggett/status/1354615348071460865) - [Archived PDF](archives/twitter/JeanLeggettThread.pdf).
 
 
-[A word of warning](https://twitter.com/MemoPotato/status/1550209887401017344?s=20&t=6Kp0ZGR8XuZukP5eAz2MGA) - Why you need to clearly label personal work as personal work and not make your developer name seem like a studio name if it is not: a thread
+[A word of warning](https://twitter.com/MemoPotato/status/1550209887401017344?s=20&t=6Kp0ZGR8XuZukP5eAz2MGA) - Why you need to clearly label personal work as personal work and not make your developer name seem like a studio name if it is not: a thread. [Archived Thread](archives/twitter/MemoPotatoThread.pdf) and [Sub-Thread](archives/twitter/JoannaHaslamThread.pdf)
 
 
 <br />
