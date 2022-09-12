@@ -122,19 +122,22 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-s
 <br />
 
 
-💠🟪 [The Open Source University](https://github.com/ossu/computer-science) - A complete study plan for a computer science education.
+🟪 [The Open Source University](https://github.com/ossu/computer-science) - A complete study plan for a computer science education.
 
 
-💠🟪 [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Another complete study plan aimed at software engineers.
+🟪 [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Another complete study plan aimed at software engineers.
 
 
-💠🟪 [Complete Unity Game Developer by GameDev.tv](https://www.udemy.com/course/unitycourse2/) - The single best way to learn Unity. Trust me when I say this is the best $12 I have ever spent, or will ever spend. Wait for it to go on sale, then go pick this up.
+💠 [How Game Engines Work](https://interestingengineering.com/innovation/how-game-engines-work) - A blog and video explaining the game engine, or a tool/framework used to create games.
 
 
-💠🟪 [Unreal Engine 5 C++ Developer](https://www.udemy.com/course/unrealcourse/) - Same as above, but with Unreal 5. This course is invaluable - I know several full-time developers who learned from gamedev.tv, they are a gem. Wait for it to go on sale, then go pick this up.
+💠🟪 [Complete Unity Game Developer by GameDev.tv](https://www.udemy.com/course/unitycourse2/) - The single best way to learn Unity, a popular and powerful game engine. Trust me when I say this is the best $12 I have ever spent, or will ever spend. Wait for it to go on sale, then go pick this up.
 
 
-[Intro to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) An introductory python course taught at MIT (free to access!)
+💠🟪 [Unreal Engine 5 C++ Developer](https://www.udemy.com/course/unrealcourse/) - Same as above, but with Unreal 5, a popular and powerful game engine. This course is invaluable - I know several full-time developers who learned from gamedev.tv, they are a gem. Wait for it to go on sale, then go pick this up.
+
+
+💠 [Intro to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) An introductory python course taught at MIT (free to access!)
 
 
 🟪 [Programming in C++ as a Second Language](https://web.archive.org/web/20220604184602/https://www.ics.uci.edu/~thornton/ics45c/Schedule.html) - Lecture notes, assignments, and materials from a course on C++ taught at the University of California, Irvine (free to access!) 
