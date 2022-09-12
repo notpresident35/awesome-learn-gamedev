@@ -51,7 +51,9 @@ Got resources? Notice a broken link? Email me, shoot me a DM, or make a pull req
 
 For a few years now, I have been hoarding every gamedev resource I can get my grubby paws on. This is the result!
 
-This list is aimed at learning the craft of game development. It has been curated to offer general knowledge, as well as resources for each role and general hiring advice. It also contains courses/tutorials for specific tools wherever they are required for a role, and assets whenever they would enable a person to learn their own role without having to learn a prerequisite fole (for example, the animation section contains rigs). For tools, communities, and assets, as well as more granular lists for individual tools like Unity, check out [the gaming category of awesome](https://github.com/sindresorhus/awesome#gaming)
+This list is aimed at learning the craft of game development. It has been curated to offer general knowledge, as well as resources for each role and general hiring advice. It also contains courses/tutorials for specific tools wherever they are required for a role, and assets whenever they would enable a person to learn their own role without having to learn a prerequisite fole (for example, the animation section contains rigs). 
+
+For tools, communities, and assets, as well as more granular lists for individual tools like Unity, check out [the gaming category of awesome](https://github.com/sindresorhus/awesome#gaming)
 
 This list generally avoids video tutorials. It aims to develop your problem-solving skills and improve your general knowledge, rather than show you how to solve a particular problem (where appplicable). It also avoids design analysis video essays and similar content. There is a plethora of high quality design analysis content that can be found easily on YouTube, but as this style of content tends to be more aimed at passive entertainment than active learning, this list errs on the side of exclusion for curation purposes.
 
