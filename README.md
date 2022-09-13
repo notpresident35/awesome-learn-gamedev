@@ -31,6 +31,7 @@
     - [Reference](#reference)
 - [Audio](#audio)
 - [Writing](#writing)
+- [Production](#production)
 - [Marketing and Business](#marketing-and-business)
 - [Job Hunting and Career](#job-hunting-and-career)
 - [Other](#other)
@@ -38,7 +39,7 @@
 <br />
 
 
-![A cat illustration that Hazel uses as her profile icon :3](images/KittyIcon.png 'Check out my portfolio below!')
+![An illustration of a cream-and-orange calico cat that Hazel uses as her profile icon :3](images/KittyIcon.png 'Check out my portfolio below!')
 
 
 ### 💜 Curated by <ins>[Hazel Kennedy](https://linktr.ee/dawdledoodles)</ins> 💜
@@ -688,6 +689,24 @@ Royalty free music! Don't forget to check the license.
 
 <br />
 
+## Production
+
+<br />
+
+
+💠 [What is a Games Producer?](https://www.screenskills.com/job-profiles/browse/games/production/games-producer-games/) - An explanation of the production role, and resources on how to become a producer.
+
+
+🟪 [Video Game Production Resources](https://www.breakingthewheel.com/video-game-production-resources/) - A collection of resources for producers, categorized by purpose. Targets soft skills such as entrepreneurship, management, and marketing.
+
+
+[Game Producer's Guide](https://www.gameproducersguide.com/Home_home.html) - A collection of books, tools, conference talks, and other resources for producers.
+
+
+[How to Become a Video Game Producer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-producer/) - An interview with Frank Rogan, a senior producer.
+
+
+<br />
 
 ## Marketing and Business
 
@@ -738,6 +757,9 @@ Royalty free music! Don't forget to check the license.
 
 
 [How to Get an Internship](https://helpful-clover-96f.notion.site/How-to-get-an-internship-v-2-d906cdbf321c4986ae46bd43282b1a84) - Tips on getting an internship for college students.
+
+
+[How to Get a Job as a Game Producer](https://www.gamesindustry.biz/how-to-get-a-job-as-a-game-producer) - Career advice for those seeking a job in production.
 
 
 [Game Industry Portfolio Best Practices](https://docs.google.com/document/d/14jsiaFOXuBi9QsXOF2DJVFXCRP4RwqGY3xmMHlqf3y4/edit) - Dos and Donts for game portfolios.
