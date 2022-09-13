@@ -50,21 +50,19 @@ Got resources? Notice a broken link? Email me, shoot me a DM, or make a pull req
 
 ## About
 
-For a few years now, I have been hoarding every gamedev resource I can get my grubby paws on. This is the result!
-
-This list is aimed at learning the craft of game development. It has been curated to offer general knowledge, as well as resources for each role and general hiring advice. It also contains courses/tutorials for specific tools wherever they are required for a role, and assets whenever they would enable a person to learn their own role without having to learn a prerequisite fole (for example, the animation section contains rigs). 
-
-For tools, communities, and assets, as well as more granular lists for individual tools like Unity, check out [the gaming category of awesome](https://github.com/sindresorhus/awesome#gaming)
-
-This list generally avoids video tutorials. It aims to develop your problem-solving skills and improve your general knowledge, rather than show you how to solve a particular problem (where appplicable). It also avoids design analysis video essays and similar content. There is a plethora of high quality design analysis content that can be found easily on YouTube, but as this style of content tends to be more aimed at passive entertainment than active learning, this list errs on the side of exclusion for curation purposes.
+This list is aimed at learning the craft of game development. It has been curated to offer general knowledge, resources, and hiring advice for the variety of disciplines and roles under the gamedev umbrella. 
 
 Nearly all resources are free, and anything with a price tag will be clearly marked. Paid resources are only included if they have been personally endorsed by an industry professional working in the relevant discipline.
 
 Suggestions and future-proofing efforts are always welcome! See `Contributing.md` for contribution guidelines, and check out `TODO.md` for tasks that need completing, such as archival work.
 
+Generally, this lists avoids tools and assets. However, it contains courses/tutorials for specific tools wherever they are required for a role, and assets whenever they would enable a person to learn their role more effectively (for example, the animation section contains rigs). For tools, assets, communities, and more granular lists for individual tools like Unity, check out [the gaming category of awesome](https://github.com/sindresorhus/awesome#gaming)
+
+This list avoids including tutorials (within reason). It aims to help you develop your problem-solving skills and improve your general knowledge, rather than show you how to solve a particular problem. It also avoids design analysis videos, as they tend to be aimed at passive entertainment more than active learning. Both of these are easy to find and difficult to categorize. For curation purposes, this list errs on the side of exclusion.
+
 These resources made my career possible. I hope they are just as helpful for you!
 
-Disclaimer: I'm a technical artist and gameplay programmer, so most of my role-specific resources are geared towards the art and tech disciplines. However, there should be something for _most_ disciplines, particularly in general materials and other curated lists.
+Disclaimer: I'm a technical artist and gameplay programmer, so most resources are geared towards tech and art. However, _most_ disciplines are represented here in some fashion, particularly through general materials and other curated lists.
 
 ## Key
 
