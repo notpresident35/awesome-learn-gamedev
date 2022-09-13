@@ -1,6 +1,6 @@
 [<img src="images/MainIcon.png" align="right" width="128">](https://en.wikipedia.org/wiki/Easter_egg_(media))
 
-# Learn Awesome Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A Mega-List of Learning Resources for Game Creators 
 
