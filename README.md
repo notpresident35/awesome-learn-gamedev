@@ -54,7 +54,7 @@ This list is aimed at learning the craft of game development. It has been curate
 
 Nearly all resources are free, and anything with a price tag will be clearly marked. Paid resources are only included if they have been personally endorsed by an industry professional working in the relevant discipline.
 
-Suggestions and future-proofing efforts are always welcome! See `Contributing.md` for contribution guidelines, and check out `TODO.md` for tasks that need completing, such as archival work.
+Suggestions and future-proofing efforts are always welcome! See `Contributing.md` for contribution guidelines, and check out [open issues](https://github.com/notpresident35/learn-awesome-gamedev/issues) for tasks that need completing, such as archival work.
 
 Generally, this lists avoids tools and assets. However, it contains courses/tutorials for specific tools wherever they are required for a role, and assets whenever they would enable a person to learn their role more effectively (for example, the animation section contains rigs). For tools, assets, communities, and more granular lists for individual tools like Unity, check out [the gaming category of awesome](https://github.com/sindresorhus/awesome#gaming)
 
