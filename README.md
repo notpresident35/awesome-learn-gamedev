@@ -556,6 +556,9 @@ Royalty Free Game Art! Don't forget to check the license.
 💠🟪 [The Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) - A playable video essay/game, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from GMTK.
 
 
+💠 [Design Oriented Topic Wheel](https://designoriented.net/wheel) - Short descriptions of many major design topics and concepts, categorized neatly in an approachable wheel interface.
+
+
 [GDKeys](https://gdkeys.com/) - A collection of articles and tools created by Nico, a senior game designer.
 
 
