@@ -129,6 +129,9 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most resources ar
 🟪 [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Another complete study plan aimed at software engineers.
 
 
+🟪 [Professional Programming](https://github.com/charlax/professional-programming) - An expansive list of resources and other lists of resources intended to make you a more proficient programmer at a professional level.
+
+
 💠 [How Game Engines Work](https://interestingengineering.com/innovation/how-game-engines-work) - A blog and video explaining the game engine, or a tool/framework used to create games.
 
 
@@ -181,6 +184,9 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most resources ar
 
 
 🟪 [Game Engine Architecture](https://www.gameenginebook.com/) - A book on game engines. About $25 for the e-book, probably worth the investment if you plan to be an engine, tools, or graphics programmer.
+
+
+[Pro Git](https://www.git-scm.com/book/en/v2) - A free book on everything git.
 
 
 [Design Patterns](https://refactoring.guru/design-patterns/) - A free book with _very_ pretty illustrations.
@@ -418,6 +424,9 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 
 
 [Resources for Commission Artists](https://www.nadiaxel.com/post/free-ressources-for-commission-artists) - If you want to open yourself up for commission work, this is a godsend.
+
+
+[SageThumbs](https://www.cherubicsoft.com/en/projects/sagethumbs/) - An extension that adds advanced file previews and conversion tools to Windows Explorer (including, notably, .psd). For artists who frequently use many Adobe programs or file formats, RAW files, and PDFs, this will save you time.
 
 
 [A whole lot of time-saving tools](https://mobile.twitter.com/Marcel_Hampel/status/1559178642856484865) - I personally recommend Pureref. [Archived PDF](archives/twitter/MarcelHampelThread.pdf).
@@ -748,7 +757,10 @@ Royalty free music! Don't forget to check the license.
 [GameDev Jobs (2022)](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit) - A megalist of studio career pages and job posting sites.
 
 
-🟪 [The Reverse Interview](https://github.com/viraptor/reverse-interview) - Questions for you to ask a potential employer (aimed at tech, but most questions apply to any discipline).
+🟪 [Questions to ask game studios you're interviewing with](https://lindenreidblog.com/2020/05/21/questions-to-ask-game-studios-youre-interviewing-with/) - A list of questions for you to ask a potential employer in an interview.
+
+
+[The Reverse Interview](https://github.com/viraptor/reverse-interview) - Another list for you to ask a potential employer (created for non-games tech, but most questions apply to games, and some apply to all disciplines).
 
 
 🟪 [Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) - A guide to game art portfolios and job hunting.
@@ -796,6 +808,9 @@ Royalty free music! Don't forget to check the license.
 
 
 [Papers Please Devlog](https://fguillen.github.io/PapersPleaseDevlogScrap/) - Posts from the development of Papers Please.
+
+
+[EA Spouse](https://ea-spouse.livejournal.com/274.html) - A cautionary tale on crunch. For all of our sakes, don't let the industry return to this.
 
 
 [Surveillance Self-Defense](https://ssd.eff.org/en) - Tips, Tools, and Tutorials for privacy and online self-defense
