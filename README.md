@@ -578,6 +578,9 @@ Royalty Free Game Art! Don't forget to check the license.
 [GDKeys](https://gdkeys.com/) - A collection of articles and tools created by Nico, a senior game designer.
 
 
+[Puzzle Ideation Strategies](https://cwpat.me/misc/puzzle-level-idea-strategies/) - A list of strategies for coming up with puzzles, and links to the talks that inspired them.
+
+
 [MDA](https://users.cs.northwestern.edu/~hunicke/MDA.pdf) - Mechanics -> Design -> Aesthetics, or a formal approach to game design and research.
 
 
