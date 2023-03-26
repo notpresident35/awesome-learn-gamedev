@@ -341,6 +341,9 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Tech Art Learning Resources](https://heartmachine.notion.site/Tech-Art-Learning-Resources-d2eb63aeca624cf59faab5a19b4a732d) 🟪 - A list of tech art resources, communities, and professionals, curated by Heart Machine (the studio that made Hyper Light Drifter and now Hyper Light Breaker).
 
 
+[Tech Artists](https://tech-artists.org) - A community of tech artists.
+
+
 [Tech Art Course](https://simonschreibt.de/gat/tech-art-course/) - Materials from a tech art course (many are unexplained, since the class was delivered in-person, but they're still useful).
 
 
