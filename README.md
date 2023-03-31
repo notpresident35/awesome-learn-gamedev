@@ -19,6 +19,7 @@
     - [Fun](#fun)
 - [Technical Art](#technical-art)
     - [Shaders](#shaders)
+    - [Rigging](#rigging)
     - [VFX](#vfx)
 - [Art](#art)
     - [2D/Illustration](#2dillustration)
