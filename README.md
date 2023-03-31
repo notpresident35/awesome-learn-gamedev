@@ -388,6 +388,23 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 <br />
 
 
+### Rigging
+
+
+[Cult of Rig](http://www.cultofrig.com) - A catalogue of live-streamed lectures coupled with rig creation. Sorry in advance for the cult theme.
+
+[Animator Friendly Rigging](https://jasonschleifer.com/afr/) - A course on creating rigs that behave well for animators. Fair warning: this has an up-front cost of around $105-120.
+
+[Procedural Rigging Python](https://www.pluralsight.com/courses/procedural-rigging-python-maya-2283) - A course on creating python tools to procedurally rig characters in Maya. Note: has a 10 day free trial, but gets quite expensive after that.
+
+[Stop Staring: Facial Modeling and Animation Done Right](https://www.amazon.com/Stop-Staring-Facial-Modeling-Animation/dp/0470609907) - A book on facial modeling, animation, and rigging. Fair warning: this is $80 new. I would recommend getting it used, if possible.
+
+[Mastering Rigging and Python Scripting in Maya](https://www.thegnomonworkshop.com/tutorials/master-rigging-python-scripting-in-maya) - A course from Gnomon, a well-known art university. Fair warning: first 2 hours of content within 7 days are free, but then a subscription costs $54 per month. 
+
+
+<br />
+
+
 ### VFX
 
 
