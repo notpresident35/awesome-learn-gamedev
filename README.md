@@ -782,7 +782,7 @@ Royalty free music! Don't forget to check the license.
 [Game Dev LFW Resources](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc) 🟪 - Yet another list of resources and communities!
 
 
-[Interview Placemat](https://www.linkedin.com/posts/victoriaearle_jobhunt-jobsearch-interviewing-activity-7052059362810335232-UhrI/) 🟪 - A template useful for interview prep.
+[Interview Placemat](https://www.linkedin.com/posts/victoriaearle_jobhunt-jobsearch-interviewing-activity-7052059362810335232-UhrI/) 🟪 - A template useful for interview prep. [Archived Image](archives/InterviewPlacemat.jpg)
 
 
 [The Complete List of Gaming Jobs](https://hitmarker.net/career-advice/the-complete-list-of-gaming-esports-jobs)  🟪 - A comprehensive list of gaming jobs and specialties (includes both game development and esports).
