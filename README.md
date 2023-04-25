@@ -716,6 +716,9 @@ Royalty free music! Don't forget to check the license.
 <br />
 
 
+[Game Narrative Resources](http://sashakirlee.com/game-narrative-resources) 💠🟪 - A collection of books, tools, talks, resources, job listings, and more for writing, as well as related disciplines where relevant to narrative.
+
+
 [Inkle](https://www.inklestudios.com/ink/) 🟪 - A writing tool for games (free and integrates well with Unity!)
 
 
