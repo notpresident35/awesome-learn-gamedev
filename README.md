@@ -760,13 +760,16 @@ Royalty free music! Don't forget to check the license.
 <br />
 
 
-[How to Market a Game](https://howtomarketagame.com) 💠🟪 - A blog and a collection of resources (of special note, a few GDC talks) about marketing for games by Chris Zukowski. This is the only mailing list that I have ever willingly signed up for and felt was worth keeping.
+[Leveling the Playing Field](https://ltpf.ramiismail.com) 💠🟪 - A blog/newsletter by Rami Ismail with advice on business, marketing, skill development, and various topics needed to run an indie studio. Past newsletters are archived here. I personally recommend "Budget Viability" as a starting point.
 
 
-[Show the Dream, Not the Job](https://www.derek-lieu.com/blog/2020/2/25/show-the-dream-not-the-job) - Advice for making a game seem appealing from its trailer.
+[How to Market a Game](https://howtomarketagame.com) 💠🟪 - A blog and a collection of resources by Chris Zukowski with advice on marketing and sales. I personally recommend his GDC talks "Empathizing with Steam: How People Shop for Your Game" and "What to Write So People Buy: Selling Your Game Without Feeling Sleazy" as starting points.
 
 
-[Budget Viability](https://ltpf.ramiismail.com/budget-viability/) - Figuring out how realistic your budget is for your game.
+[Community Dev Newsletter and Blog](https://www.victoriatran.com) 💠🟪 - A blog and a newsletter by Victoria Tran with advice on community management, social media, and marketing. Past newsletters are archived here. I personally recommend "Failure Marketing" and "Charm your Communities" as starting points.
+
+
+[Blog by Derek Lieu](https://www.derek-lieu.com/blog/) 🟪 - A blog by Derek Lieu with advice on game trailers. I personally recommend "Show the Dream, Not the Job" and "Video Game Trailer Specifications" as starting points.
 
 
 <br />
