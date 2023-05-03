@@ -847,9 +847,6 @@ Royalty free music! Don't forget to check the license.
 [Game Developer (previously known as Gamasutra)](https://www.gamedeveloper.com/) - A site filled with post-mortems, gamedev news, blog posts, and other articles with a focus on game developers and their communities.
 
 
-[Rami Ismail](https://ltpf.ramiismail.com) - A blog by a seasoned developer, business person, and consultant with sound advice.
-
-
 [Papers Please Devlog](https://fguillen.github.io/PapersPleaseDevlogScrap/) - Posts from the development of Papers Please.
 
 
