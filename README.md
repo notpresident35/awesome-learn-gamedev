@@ -220,6 +220,9 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - A video series meant as a supplement for a class on Linear Algebra, made by 3Blue1Brown.
 
 
+[How to make Games for Gameboy](https://laroldsjubilantjunkyard.com/tutorials/how-to-make-a-gameboy-game/) - A comprehensive tutorial series on developing games for the Gameboy. Also includes links to other relevant tutorial series, such as one on C programming.
+
+
 [Understanding ECS](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/understanding-component-entity-systems-r3013/) - A blog post about Entity Component System design and implementation.
 
 
