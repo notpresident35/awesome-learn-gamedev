@@ -755,7 +755,9 @@ Royalty free music! Don't forget to check the license.
 
 [How to Become a Video Game Producer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-producer/) - An interview with Frank Rogan, a senior producer.
 
-[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production) - An Awesome list, focused on project and product management in game development.
+
+[Awesome Game Production](https://github.com/vhladiienko/awesome-game-production) 🟪 - An Awesome list, focused on project and product management in game development.
+
 
 <br />
 
