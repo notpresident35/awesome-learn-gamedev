@@ -806,6 +806,9 @@ Royalty free music! Don't forget to check the license.
 [GameDev Jobs (2022)](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit) - A megalist of studio career pages and job posting sites.
 
 
+[Career Advice Collected](https://claudiasnotes.notion.site/claudiasnotes/Career-Advice-Collected-560272eab6ce4069ada95d0852dbb1c9) - Advice on writing resumes and cover letters. Primarily written for producers and entry-level job seekers, but generally applicable.
+
+
 [Questions to ask game studios you're interviewing with](https://lindenreidblog.com/2020/05/21/questions-to-ask-game-studios-youre-interviewing-with/) 🟪 - A list of questions for you to ask a potential employer in an interview.
 
 
