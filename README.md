@@ -1,4 +1,4 @@
-[<img src="images/MainIcon.png" align="right" width="128">](https://en.wikipedia.org/wiki/Easter_egg_(media))
+<img src="images/MainIcon.png" align="right" width="128">](https://en.wikipedia.org/wiki/Easter_egg_(media))
 
 # Awesome Learn Gamedev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -94,10 +94,8 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most resources ar
 
 [MIT Open Courseware](https://ocw.mit.edu/) 💠🟪 - classes and materials from MIT (free to access)! 
 
+
 [Game Design Stuff](https://www.youtube.com/watch?v=Pb5oIIPO62g&list=PLZQDJJp3vTmB6awcmhFc9V6HG2bd9vofo&index=58) - Another mega-list of game development videos (primarily aimed at game design and programming)
-
-
-[Free Unity Assets](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/) - A massive list of assets, with a focus on Unity development
 
 
 [FOSS GameDev](https://docs.google.com/document/u/0/d/1HMtvSenYvd9SN58gTmRNs-FqiHhbnnVgkMEV5mqKKaQ/mobilebasic) - A list of Free and Open Source Software for every aspect of gamedev
@@ -114,8 +112,10 @@ More huge lists of resources, with many, many more incredible things! Some of th
 - [Game Dev Resources](https://letsmakegames.info/game-dev-resources)
 - [The Ultimate List of Free and Low-Cost Developer Tools and Resources](https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/)
 - [Game Development Learning Resources](https://www.tomlooman.com/game-development-learning-resources/)
+- [Free Unity Assets](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
 - [r/GameDev Wiki Resources](https://www.reddit.com/r/gamedev/wiki/index/)
 - [r/GameDesign Wiki Resources](https://www.reddit.com/r/gamedesign/wiki/index/)
+
 
 <br />
 
@@ -136,10 +136,13 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [How Game Engines Work](https://interestingengineering.com/innovation/how-game-engines-work) 💠 - A blog and video explaining the game engine, or a tool/framework used to create games.
 
 
-[Complete Unity Game Developer by GameDev.tv](https://www.udemy.com/course/unitycourse2/) 💠🟪 - The single best way to learn Unity, a popular and powerful game engine. Trust me when I say this is the best $12 I have ever spent, or will ever spend. Wait for it to go on sale, then go pick this up.
+[Complete Godot 4 Game Deveoper by GameDev.tv](https://www.gamedev.tv/p/godot-complete-2d/?coupon_code=BLIMEY) 💠🟪 - A fantastic way to learn Godot, a free and open source game engine. Gamedev.tv are an invaluable resource for learning game engines and tools, and I cannot recommend their courses enough. They are more than worth the $15.  
 
 
 [Unreal Engine 5 C++ Developer](https://www.udemy.com/course/unrealcourse/) 💠🟪 - Same as above, but with Unreal 5, a popular and powerful game engine. This course is invaluable - I know several full-time developers who learned from gamedev.tv, they are a gem. Wait for it to go on sale, then go pick this up.
+
+
+[Complete Unity Game Developer by GameDev.tv](https://www.udemy.com/course/unitycourse2/) - Unity has been a long-standing champion in the industry, particularly in the mobile/AR/VR space. Despite this, I would be cautious recommending it over other options, in part because of technical details such as its closed source and slow development, and in part due to poor business practices on behalf of Unity Technologies, such as the now-revoked install-based pricing model and their involvement in defense contracting.   
 
 
  [Intro to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 💠 - An introductory python course taught at MIT (free to access!)
@@ -289,10 +292,10 @@ More huge lists of resources, with many, many more incredible things! Some of th
 ### Networking
 
 
-[Unity Multiplayer by GameDev.tv](https://www.udemy.com/course/unity-multiplayer/) 💠🟪 - A course on multiplayer and networking in Unity. Wait for it to go on sale, then go pick this up.
-
-
 [Unreal Multiplayer by GameDev.tv](https://www.udemy.com/course/unrealmultiplayer/) 💠🟪 - A course on multiplayer and networking in Unreal. Wait for it to go on sale, then go pick this up. 
+
+
+[Unity Multiplayer by GameDev.tv](https://www.udemy.com/course/unity-multiplayer/) 💠🟪 - A course on multiplayer and networking in Unity. Wait for it to go on sale, then go pick this up.
 
 
 [GafferOnGames](https://gafferongames.com) 🟪 - A bunch of articles on netcode for games.
@@ -428,8 +431,6 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [VFX Apprentice](https://www.vfxapprentice.com) - Several VFX courses geared towards developing a professional portfolio. _Very_ pricey, but may be worth your while if you are serious about VFX - it is a _hell_ of a lot cheaper than art school.
 
 [Houdini Isnt Scary - Part 1: Basics](https://www.youtube.com/watch?v=Tsv8UGqDibc&list=PLhyeWJ40aDkUDHDOhZQ2UkCfNiQj7hS5W&index=5) - A playlist of a Houdini tutorial series.
-
-[Realtime Unity VFX](https://stylizedstation.com/article/realtime-unity-vfx-tutorial-the-3-core-elements-you-need-to-know/) - A Unity VFX Tutorial.
 
 
 <br />
