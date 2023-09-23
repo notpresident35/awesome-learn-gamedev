@@ -314,6 +314,12 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Deterministic Netcode](https://yal.cc/preparing-your-game-for-deterministic-netcode/) - A blog post about ensuring consistency across game clients, given the same initial state and inputs.
 
 
+[The TRIBES Engine Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf) - A particularly notable paper on the networking model developed for Starsiege TRIBES.
+
+
+[Fast-Paced Multiplayer - Part 1](https://www.gabrielgambetta.com/client-server-game-architecture.html) | [Part 2](https://www.gabrielgambetta.com/client-side-prediction-server-reconciliation.html) | [Part 3](https://www.gabrielgambetta.com/entity-interpolation.html) | [Part 4](https://www.gabrielgambetta.com/lag-compensation.html) | [Live Demo](https://www.gabrielgambetta.com/client-side-prediction-live-demo.html) - A four-part series on networking for games, along with a sample implementation of some concepts described.
+
+
 <br />
 
 
