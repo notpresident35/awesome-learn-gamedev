@@ -532,6 +532,9 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Photorealism Explained](https://www.youtube.com/watch?v=R1-Ef54uTeU) 🟪 - An explanation of photorealism and how it is achieved in CG.
 
 
+[Realtime Hair Tutorial](https://flippednormals.com/product/realtime-hair-tutorial-29017) - A course delving into a hair pipeline for characters.
+
+
 Royalty-Free Textures, Models, HDRIs, and Assets!
 - [Textures](https://www.textures.com/)
 - [More Textures](https://publicdomaintextures.com/)
@@ -860,6 +863,9 @@ Royalty free music! Don't forget to check the license.
 [A series of game jam post-mortems](https://www.youtube.com/watch?v=fW88C_w3EzE&list=PLrvwNabyAw30pIbitXIHLdSTm4t9I3iT1) 💠🟪 - These are more valuable than they let on, because they show you the whole game-making process, start to finish. Not only will this help you avoid common pitfalls, it will help you know how to follow that process for your own game. Watch a couple before entering your first jam or starting your first project!
 
 
+[The California Problem](https://ellaguro.blogspot.com/2023/02/the-california-problem.html) 🟪 - One of my favorite articles ever written. A philosophical analysis of the culture of games as an industry and the importance of gamedev as a hobby, not just a business. 
+
+
 [Game Developer (previously known as Gamasutra)](https://www.gamedeveloper.com/) - A site filled with post-mortems, gamedev news, blog posts, and other articles with a focus on game developers and their communities.
 
 
@@ -867,6 +873,9 @@ Royalty free music! Don't forget to check the license.
 
 
 [EA Spouse](https://ea-spouse.livejournal.com/274.html) - A cautionary tale on crunch. For all of our sakes, don't let the industry return to this.
+
+
+[Where the Water Tastes Like Wine Postmortem](https://johnnemann.medium.com/where-the-water-tastes-like-wine-postmortem-211a1f9d791a) - A must-read for aspiring independent game developers. Making money from the art is hard, even for industry veterans, but there are other things that are valuable.
 
 
 [Surveillance Self-Defense](https://ssd.eff.org/en) - Tips, Tools, and Tutorials for privacy and online self-defense
