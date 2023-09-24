@@ -110,7 +110,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 - [Gamedev Resources](https://github.com/Hengle/gamedev-resources-1)
 - [Free & Cheap Indie GameDev Resources](https://community.gamedev.tv/t/wiki-free-cheap-indie-gamedev-resources/1948)
 - [Game Dev Resources](https://letsmakegames.info/game-dev-resources)
-- [The Ultimate List of Free and Low-Cost Developer Tools and Resources](https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/)
+- [The Ultimate List of Free and Low-Cost Developer Tools and Resources](https://web.archive.org/web/20220815084025/https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/)
 - [Game Development Learning Resources](https://www.tomlooman.com/game-development-learning-resources/)
 - [Free Unity Assets](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
 - [r/GameDev Wiki Resources](https://www.reddit.com/r/gamedev/wiki/index/)
@@ -497,9 +497,6 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Cut-Out People](https://www.vishopper.com/cut-out-people) - A searchable repository of extremely diverse reference images for humans, with filters for easy search (IE "1 woman age 20-40 with dog from the front" or "3 people sitting in a home")
 
 
-[Artist Resources by Corey](https://docs.google.com/document/d/1DLccwkSK1B8fJ3TV4X1-8ktiDmzgnelkNMamZfz3hYE/edit) - A list of art resources, primarily human figure reference material.
-
-
 [Drawing the Head and Hands](https://ia601608.us.archive.org/8/items/andrew-loomis-drawing-the-head-hands/andrew-loomis-drawing-the-head-hands.pdf) - A book on figure construction by Andrew Loomis. Free in the public domain!
 
 [Figure Drawing for All its Worth](https://archive.org/details/loomis_FIGURE_draw) - A book on figure drawing by Andrew Loomis. Free in the public domain!
@@ -585,7 +582,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [The Art of Game Design](https://www.schellgames.com/art-of-game-design/) 💠🟪 - An essential book on game design, basically mandatory reading for designers. Has a price tag, but is well worth the money.
 
 
-[The Design of Everyday Things](https://www.sunyoungkim.org/class/old/hci_f18/pdf/The-Design-of-Everyday-Things-Revised-and-Expanded-Edition.pdf) 💠🟪 - A book on design in everything, basically mandatory reading for designers.
+[The Design of Everyday Things](https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/The%20Design%20of%20Everyday%20Things%20by%20Don%20Norman.pdf) 💠🟪 - A book on design in everything, basically mandatory reading for designers.
 
 
 [Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/) 🟪 - A list of accessibility features, organized by implementation difficulty. Also includes testimonials for each feature and the impact it makes on people, as well as best practice examples and implementation resources (tools, guides, etc) where available.
@@ -763,7 +760,7 @@ Royalty free music! Don't forget to check the license.
 [Game Producer's Guide](https://www.gameproducersguide.com/Home_home.html) - A collection of books, tools, conference talks, and other resources for producers.
 
 
-[How to Become a Video Game Producer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-producer/) - An interview with Frank Rogan, a senior producer.
+[How to Become a Video Game Producer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-associate-producer/) - An interview with Merric Shank, a senior producer, on the role, with  hiring advice for entry-level producers.
 
 
 [Awesome Game Production](https://github.com/vhladiienko/awesome-game-production) 🟪 - An Awesome list, focused on project and product management in game development.
@@ -835,9 +832,6 @@ Royalty free music! Don't forget to check the license.
 
 
 [How to Get a Job as a Game Producer](https://www.gamesindustry.biz/how-to-get-a-job-as-a-game-producer) - Career advice for those seeking a job in production.
-
-
-[Game Industry Portfolio Best Practices](https://docs.google.com/document/d/14jsiaFOXuBi9QsXOF2DJVFXCRP4RwqGY3xmMHlqf3y4/edit) - Dos and Donts for game portfolios.
 
 
 [GameDevMap](https://www.gamedevmap.com) - A map of game development studios
