@@ -286,6 +286,12 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [How SDFs work](https://jasmcole.com/2019/10/03/signed-distance-fields/) - A blog post on signed distance fields.
 
 
+[Ray Marching and SDFs](https://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - An article on SDFs and ray marching with references to further reading.
+
+
+[Kosmonaut's Blog](https://kosmonautblog.wordpress.com/) - A blog exploring various rendering implementations such as SDF rendering.
+
+
 <br />
 
 
