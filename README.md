@@ -265,6 +265,9 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Graphics](https://guerilla-tactics.com/hats/graphics/) 💠🟪 - A Megalist of Graphics Programming and Tech Art resources.
 
 
+[How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/) 💠🟪 - An overview of graphics programming and a collection of resources tailored to beginners learning graphics programming. 
+
+
 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Three (3) free books by Nvidia about GPU programming and architecture.
 
 
