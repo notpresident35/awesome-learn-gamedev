@@ -268,6 +268,9 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [How do I become a graphics programmer?](https://gpuopen.com/learn/how_do_you_become_a_graphics_programmer/) 💠🟪 - An overview of graphics programming and a collection of resources tailored to beginners learning graphics programming. 
 
 
+[WebGLFundamentals](https://webglfundamentals.org) 💠🟪 - An introduction to WebGL, a web-based rasterization engine. WebGL is a good tool to use when learning the fundamentals before diving into more complex frameworks such as Vulkan or DirectX 12.
+
+
 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Three (3) free books by Nvidia about GPU programming and architecture.
 
 
