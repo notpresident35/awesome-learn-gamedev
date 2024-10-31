@@ -208,6 +208,9 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Tool Dev](https://www.youtube.com/watch?v=pZ45O2hg_30&list=PLImQaTpSAdsBKEkUvKxw6p0tpwl7ylw0d) 💠🟪 - An introduction to tool development (or creating tools to make game development more productive) and editor scripting in Unity by Freya Holmér.
 
 
+[Dive Into Systems](https://diveintosystems.org) - A free textbook on computer systems and C programming. 
+
+
 [Gamedev in Rust for Beginners](https://arewegameyet.rs/#resources) - A collection of books, tutorials, articles, and a community to boot.
 
 
@@ -275,6 +278,9 @@ More huge lists of resources, with many, many more incredible things! Some of th
 
 
 [Render Hell](http://simonschreibt.de/gat/renderhell/) 🟪 - An overview of graphics and everything rendering for programmers. Covers an overview, with lots of references to books and other resources for deeper reading.
+
+
+[Rendering Course](https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/) - A free master's level course on ray tracing, photorealistic rendering, and global illumination taught at the Technical University of Vienna.
 
 
 ["Painting with maths"](https://www.youtube.com/c/InigoQuilez) - A YouTube series about a _very_ technical art form
