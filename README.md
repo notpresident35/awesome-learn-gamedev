@@ -89,7 +89,7 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most resources ar
 [My mega-playlist of great gamedev videos](https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn) 🟪 - Conference talks, tutorials, analyses, etc
 
 
-[GameDev Contacts](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml) 🟪 - A huge list of professional game developers you can contact for advice! Be courteous - these are real people! Curated by Joe Hobbs - @JLHGameArt on Twitter.
+[GameDev Contacts](https://web.archive.org/web/20250130103712/https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml) 🟪 - A huge list of professional game developers you can contact for advice! Be courteous - these are real people! Curated by Joe Hobbs - @JLHGameArt on Twitter.
 
 
 [MIT Open Courseware](https://ocw.mit.edu/) 💠🟪 - classes and materials from MIT (free to access)! 
@@ -252,7 +252,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 ### Gameplay
 
 
-[Study Reference Sheet for Gameplay Engineers](https://docs.google.com/document/d/1qIkaxtSfrtmgvO_yh-h187by7EIyrl61a3EaF40xBLs/edit#heading=h.ejywv1aotlnc) 🟪 - Perfect for intermediate programmers looking to shore up their technical knowledge to prep for an interview. Note: this is currently being migrated. It is incomplete at time of writing, but I have also included [the future-proof link](https://www.mrventures.net/get-into-gamedev.html).
+[Get Into Game Dev](https://www.mrventures.net/get-into-gamedev.html) 🟪 - Perfect for intermediate programmers looking to shore up their technical knowledge to prep for an interview.
 
 
 [Game AI Pro](http://www.gameaipro.com/) 🟪 - Three (3) free books (or more accurately, volumes of short papers) on game AI. Notable authors include Steve Rabin, a DigiPen professor who teaches AI for games.
@@ -842,7 +842,7 @@ Royalty free music! Don't forget to check the license.
 [Video Game Job Hunt](https://www.gameindustrycareerguide.com/video-game-job-hunt-guide/) 🟪 - A huge list of job-hunting resources: multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocation advice.
 
 
-[Career Documents from Jean Leggett](https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit) 🟪 - Another huge list of career documents and resources!
+[Career Documents from Jean Leggett](https://docs.google.com/document/d/1QpCNkKXFgBeGLgVS37kihOBSQjfSi9-BUCEz84qHSPU/edit?usp=sharing) 🟪 - Another huge list of career documents and resources!
 
 
 [Game Dev LFW Resources](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc) 🟪 - Yet another list of resources and communities!
@@ -857,7 +857,7 @@ Royalty free music! Don't forget to check the license.
 [Industry Portfolios](https://www.plusonewisdom.com/post/industry-portfolios) - A big list of portfolios from industry professionals.
 
 
-[GameDev Jobs (2022)](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit) - A megalist of studio career pages and job posting sites.
+[GameDev Jobs (2022)](https://web.archive.org/web/20230207031915/https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit) - A megalist of studio career pages and job posting sites.
 
 
 [Career Advice Collected](https://claudiasnotes.notion.site/claudiasnotes/Career-Advice-Collected-560272eab6ce4069ada95d0852dbb1c9) - Advice on writing resumes and cover letters. Primarily written for producers and entry-level job seekers, but generally applicable.
@@ -872,7 +872,7 @@ Royalty free music! Don't forget to check the license.
 [Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) 🟪 - A guide to game art portfolios and job hunting.
 
 
-[The Bible of Getting a Job in Game Audio](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit) 🟪 - A massive collection of career resources for game audio.
+[The Bible of Getting a Job in Game Audio](https://www.florianardelean.com/resources) 🟪 - A massive collection of career resources for game audio.
 
 
 [How to Get an Internship](https://helpful-clover-96f.notion.site/How-to-get-an-internship-v-2-d906cdbf321c4986ae46bd43282b1a84) - Tips on getting an internship for college students.
