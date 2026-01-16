@@ -245,6 +245,8 @@ More huge lists of resources, with many, many more incredible things! Some of th
 
 [Larold's Retro Gameyard](https://laroldsretrogameyard.com/) - A collection of retro video game programming tutorials. Learn to make [Game Boy](https://laroldsretrogameyard.com/category/tutorials/gb/) or [Game Boy Advance](https://laroldsretrogameyard.com/category/tutorials/gba/) games from scratch. In the future, tutorials for additional consoles will added.
 
+[LLD and Concurrency](https://lldcoding.com/)
+
 
 <br />
 
