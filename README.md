@@ -89,7 +89,7 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most resources ar
 [My mega-playlist of great gamedev videos](https://www.youtube.com/playlist?list=PLLwMDKo-0Eku3TxVg2Ye9dgW0jtUgkWRn) 🟪 - Conference talks, tutorials, analyses, etc
 
 
-[GameDev Contacts](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml) 🟪 - A huge list of professional game developers you can contact for advice! Be courteous - these are real people! Curated by Joe Hobbs - @JLHGameArt on Twitter.
+[GameDev Contacts](https://web.archive.org/web/20250130103712/https://docs.google.com/spreadsheets/d/e/2PACX-1vRYveFAl_GuvBo0iuy3EvgPm0fWAGci-Z8e5CZ6hoYz9n8gcoK4dgE0RML-x0pWqRNjGqte-V7phtqB/pubhtml) 🟪 - A huge list of professional game developers you can contact for advice! Be courteous - these are real people! Curated by Joe Hobbs - @JLHGameArt on Twitter.
 
 
 [MIT Open Courseware](https://ocw.mit.edu/) 💠🟪 - classes and materials from MIT (free to access)! 
@@ -112,7 +112,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 - [Game Dev Resources](https://letsmakegames.info/game-dev-resources)
 - [The Ultimate List of Free and Low-Cost Developer Tools and Resources](https://web.archive.org/web/20220815084025/https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/)
 - [Game Development Learning Resources](https://www.tomlooman.com/game-development-learning-resources/)
-- [Free Unity Assets](https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
+- [Free Unity Assets](https://web.archive.org/web/20250113052610/https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
 - [r/GameDev Wiki Resources](https://www.reddit.com/r/gamedev/wiki/index/)
 - [r/GameDesign Wiki Resources](https://www.reddit.com/r/gamedesign/wiki/index/)
 
@@ -252,7 +252,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 ### Gameplay
 
 
-[Study Reference Sheet for Gameplay Engineers](https://docs.google.com/document/d/1qIkaxtSfrtmgvO_yh-h187by7EIyrl61a3EaF40xBLs/edit#heading=h.ejywv1aotlnc) 🟪 - Perfect for intermediate programmers looking to shore up their technical knowledge to prep for an interview. Note: this is currently being migrated. It is incomplete at time of writing, but I have also included [the future-proof link](https://www.mrventures.net/get-into-gamedev.html).
+[Get Into Game Dev](https://www.mrventures.net/get-into-gamedev.html) 🟪 - Perfect for intermediate programmers looking to shore up their technical knowledge to prep for an interview.
 
 
 [Game AI Pro](http://www.gameaipro.com/) 🟪 - Three (3) free books (or more accurately, volumes of short papers) on game AI. Notable authors include Steve Rabin, a DigiPen professor who teaches AI for games.
@@ -472,7 +472,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Art Industry Resources](https://www.notion.so/Art-Industry-Resources-86e6733162f24c26829aa65961f461e3) 💠🟪 - A Megalist of Art Resources!
 
 
-[Saint11: Tutorials](https://saint11.org/blog/pixel-art-tutorials/) 💠🟪 | [Articles](https://saint11.org/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
+[Saint11: Tutorials](https://saint11.art/blog/pixel-art-tutorials/) 💠🟪 | [Articles](https://saint11.art/pixel_articles/) | [Patreon](https://www.patreon.com/saint11) - Fantastic pixel art animation tutorials and articles on pixel art. Note that most patreon posts are free.
 
 
 [Pixel Art Class](https://www.youtube.com/watch?v=7BWr2tlK-4c&list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_) - A tutorial series covering the basics of art aimed at pixel artists.
@@ -490,7 +490,7 @@ Part 1](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part
 [Smithsonian Open Access](https://www.si.edu/openaccess) - A massive repository of 3D and 2D digital resources from the Smithsonian Institute archives, such as photos and 3D scans of historical objects. Perfect for reference and creative commons reuse!
 
 
-[Resources for Commission Artists](https://www.nadiaxel.com/post/free-ressources-for-commission-artists) - If you want to open yourself up for commission work, this is a godsend.
+[Ultimate Commission Guide for Artists](https://web.archive.org/web/20241002013115/https://www.nadiaxel.com/post/ultimate-art-commission-guide) - If you want to open yourself up for commission work, this is a godsend.
 
 
 [SageThumbs](https://www.cherubicsoft.com/en/projects/sagethumbs/) - An extension that adds advanced file previews and conversion tools to Windows Explorer (including, notably, .psd). For artists who frequently use many Adobe programs or file formats, RAW files, and PDFs, this will save you time.
@@ -635,7 +635,7 @@ Royalty Free Game Art! Don't forget to check the license.
 [The Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) 💠🟪 - A playable video essay/game, giving an overview on platforming mechanics, game feel, and tuning by Mark Brown from GMTK.
 
 
-[Design Oriented Topic Wheel](https://designoriented.net/wheel) 💠 - Short descriptions of many major design topics and concepts, categorized neatly in an approachable wheel interface.
+[Design Oriented Topic Wheel](https://web.archive.org/web/20250808082816/https://designoriented.net/wheel) 💠 - Short descriptions of many major design topics and concepts, categorized neatly in an approachable wheel interface.
 
 
 [GDKeys](https://gdkeys.com/) - A collection of articles and tools created by Nico, a senior game designer.
@@ -842,7 +842,7 @@ Royalty free music! Don't forget to check the license.
 [Video Game Job Hunt](https://www.gameindustrycareerguide.com/video-game-job-hunt-guide/) 🟪 - A huge list of job-hunting resources: multiple blogs with everything from building a portfolio/resume to searching for and applying to jobs and even salary negotiation and relocation advice.
 
 
-[Career Documents from Jean Leggett](https://docs.google.com/document/d/1pGglICnig6oZ1IABXLMuwAEN1azPP5pnZUvdrYwbyGs/edit) 🟪 - Another huge list of career documents and resources!
+[Career Documents from Jean Leggett](https://docs.google.com/document/d/1QpCNkKXFgBeGLgVS37kihOBSQjfSi9-BUCEz84qHSPU/edit?usp=sharing) 🟪 - Another huge list of career documents and resources!
 
 
 [Game Dev LFW Resources](https://javieracordero.notion.site/cce9a8faef6e4f31bb43b7630521a4d2?v=efdf687094be499bb2d9a33f55b906bc) 🟪 - Yet another list of resources and communities!
@@ -851,13 +851,13 @@ Royalty free music! Don't forget to check the license.
 [Interview Placemat](https://www.linkedin.com/posts/victoriaearle_jobhunt-jobsearch-interviewing-activity-7052059362810335232-UhrI/) 🟪 - A template useful for interview prep. [Archived Image](archives/InterviewPlacemat.jpg).
 
 
-[The Complete List of Gaming Jobs](https://hitmarker.net/career-advice/the-complete-list-of-gaming-esports-jobs)  🟪 - A comprehensive list of gaming jobs and specialties (includes both game development and esports).
+[The Complete List of Gaming Jobs](https://hitmarker.net/career-advice/the-complete-list-of-gaming-jobs)  🟪 - A comprehensive list of gaming jobs and specialties (includes both game development and esports).
 
 
 [Industry Portfolios](https://www.plusonewisdom.com/post/industry-portfolios) - A big list of portfolios from industry professionals.
 
 
-[GameDev Jobs (2022)](https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit) - A megalist of studio career pages and job posting sites.
+[GameDev Jobs (2022)](https://web.archive.org/web/20230207031915/https://docs.google.com/document/d/1H34_z043mJrLahXw7fCgwf5w4ZWyrB2GBE9XAXufjmQ/edit) - A megalist of studio career pages and job posting sites.
 
 
 [Career Advice Collected](https://claudiasnotes.notion.site/claudiasnotes/Career-Advice-Collected-560272eab6ce4069ada95d0852dbb1c9) - Advice on writing resumes and cover letters. Primarily written for producers and entry-level job seekers, but generally applicable.
@@ -872,7 +872,7 @@ Royalty free music! Don't forget to check the license.
 [Guide to Game Art Applications](https://www.artstation.com/blogs/kierangoodson/mY0N/guide-to-game-art-applications-portfolios-and-job-postings) 🟪 - A guide to game art portfolios and job hunting.
 
 
-[The Bible of Getting a Job in Game Audio](https://docs.google.com/document/d/1sAd8xOdngsdLJqKfcOnyL8xRhPi3Uitys6fEXU9O2X0/edit) 🟪 - A massive collection of career resources for game audio.
+[The Bible of Getting a Job in Game Audio](https://www.florianardelean.com/resources) 🟪 - A massive collection of career resources for game audio.
 
 
 [How to Get an Internship](https://helpful-clover-96f.notion.site/How-to-get-an-internship-v-2-d906cdbf321c4986ae46bd43282b1a84) - Tips on getting an internship for college students.
@@ -940,7 +940,7 @@ Royalty free music! Don't forget to check the license.
 [Is This Arabic?](https://isthatarabic.com) - A friendly guide to not borking Arabic script.
 
 
-[The Stranger Things (or Montauk) pitch bible](http://www.zen134237.zen.co.uk/Stranger_Things/Stranger_Things_-_Bible.pdf) - Useful as reference for what a great pitch can look like, albeit in the context of film rather than games.
+[The Stranger Things (or Montauk) pitch bible](https://screencraft.org/wp-content/uploads/2019/07/StrangerThings_Bible.pdf) - Useful as reference for what a great pitch can look like, albeit in the context of film rather than games.
 
 
 </p>
