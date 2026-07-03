@@ -656,6 +656,9 @@ Royalty Free Game Art! Don't forget to check the license.
 [The Poor Man's 3D Camera](https://etodd.io/2017/11/28/poor-mans-3d-camera/) - A breakdown of the design thinking and solutions that went into an extremely specific 3D camera
 
 
+[AI Workflow for Game Designers](https://github.com/eremes81/game-design-ai-practice-en) - A free book (full text on GitHub) on using generative AI in day-to-day design production: schema-first data design, validation gates that catch AI hallucinations, meeting notes to tracked decisions, and AI cost management. By a designer of 24 years; every figure comes from real production work or a cited source.
+
+
 <br />
 
 
