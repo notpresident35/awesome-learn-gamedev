@@ -115,8 +115,8 @@ More huge lists of resources, with many, many more incredible things! Some of th
 - [Free Unity Assets](https://web.archive.org/web/20250113052610/https://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
 - [r/GameDev Wiki Resources](https://www.reddit.com/r/gamedev/wiki/index/)
 - [r/GameDesign Wiki Resources](https://www.reddit.com/r/gamedesign/wiki/index/)
-- [PlayPokiGame](https://playpokigame.com) - Curated Poki-style mini games online — racing, shooting, casual, and puzzle titles. Fast loading, clean UI, play free...
 
+- [ArcadeGames](https://arcade-games.org) - Play classic and modern arcade games free in your browser — shooters, platformers, retro titles, and more. No downloa...
 
 <br />
 
