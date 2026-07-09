@@ -109,6 +109,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 - [GameDev Resources](https://github.com/Kavex/GameDev-Resources)
 - [Gamedev Resources](https://github.com/Hengle/gamedev-resources-1)
 - [Free & Cheap Indie GameDev Resources](https://community.gamedev.tv/t/wiki-free-cheap-indie-gamedev-resources/1948)
+- [Color Block Jam](https://colorblockjam.games) - Play Color Block Jam puzzle games online — match colors, clear blocks, and beat challenging levels. Casual brain-teas...
 - [Bleach vs Naruto](https://bleachvsnaruto.games) - Play Bleach vs Naruto fighting games online — anime battles, special moves, and fan-favorite characters. Free browser...
 - [Game Dev Resources](https://letsmakegames.info/game-dev-resources)
 - [The Ultimate List of Free and Low-Cost Developer Tools and Resources](https://web.archive.org/web/20220815084025/https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/)
