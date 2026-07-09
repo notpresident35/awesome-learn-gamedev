@@ -104,6 +104,7 @@ Disclaimer: I'm a technical artist and gameplay programmer, so most resources ar
 [VGDC at UCI Resources](https://docs.google.com/document/d/1yGzqp1Cq8emRasH0JHYMXE4-Z6xYxQ0GDe6ZyemctVM/edit) - A list of workshops and resources from the Video Game Development Club at the University of California, Irvine () 
 
 More huge lists of resources, with many, many more incredible things! Some of these are older, so beware broken links and the like. 🟪
+- [SonicGames](https://sonicgames.org) - Play Sonic the Hedgehog games online — speed runs, classic platformers, and fan favorites. Free browser-based Sonic a...
 - [Subway Surfers Game](https://subwaysurfersgame.online) - Run, dodge, and surf the subway in this endless runner — collect coins, unlock characters, and chase high scores. Fre...
 - [Game Industry Resources](https://docs.google.com/document/d/1G0YTvNM8pzqjy_paxvEyVQSfb7KAJFGxJ5fY2ui8FEI/edit)
 - [38 Great Resources for Game Developers](https://www.gamedeveloper.com/audio/38-great-resources-for-game-developers)
