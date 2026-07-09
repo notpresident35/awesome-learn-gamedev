@@ -116,6 +116,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 - [r/GameDev Wiki Resources](https://www.reddit.com/r/gamedev/wiki/index/)
 - [r/GameDesign Wiki Resources](https://www.reddit.com/r/gamedesign/wiki/index/)
 
+- [CrazyGames-Poki](https://crazygames-poki.com) - Play thousands of free browser games — action, puzzle, sports, and multiplayer. No download required; instant fun on ...
 
 <br />
 
