@@ -109,6 +109,7 @@ More huge lists of resources, with many, many more incredible things! Some of th
 - [GameDev Resources](https://github.com/Kavex/GameDev-Resources)
 - [Gamedev Resources](https://github.com/Hengle/gamedev-resources-1)
 - [Free & Cheap Indie GameDev Resources](https://community.gamedev.tv/t/wiki-free-cheap-indie-gamedev-resources/1948)
+- [Bleach vs Naruto](https://bleachvsnaruto.games) - Play Bleach vs Naruto fighting games online — anime battles, special moves, and fan-favorite characters. Free browser...
 - [Game Dev Resources](https://letsmakegames.info/game-dev-resources)
 - [The Ultimate List of Free and Low-Cost Developer Tools and Resources](https://web.archive.org/web/20220815084025/https://www.gamesparks.com/the-ultimate-list-of-free-and-low-cost-developer-tools-and-resources/)
 - [Game Development Learning Resources](https://www.tomlooman.com/game-development-learning-resources/)
@@ -116,7 +117,6 @@ More huge lists of resources, with many, many more incredible things! Some of th
 - [r/GameDev Wiki Resources](https://www.reddit.com/r/gamedev/wiki/index/)
 - [r/GameDesign Wiki Resources](https://www.reddit.com/r/gamedesign/wiki/index/)
 
-- [ArcadeGames](https://arcade-games.org) - Play classic and modern arcade games free in your browser — shooters, platformers, retro titles, and more. No downloa...
 
 <br />
 
